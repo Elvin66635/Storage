@@ -1,4 +1,4 @@
-[
+    [
     {
         "word": "cat",
         "phonetics": [
@@ -68,5 +68,173 @@
             }
            
         ]
+    },
+    {
+        "word": "abandon",
+        "phonetics": [
+            {
+                "text": "/əˈbændən/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/abandon_us_1.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cease to support or look after (someone); desert.",
+                        "synonyms": [
+                            "desert",
+                            "leave",
+                            "leave high and dry",
+                            "turn one's back on",
+                            "cast aside",
+                            "break with",
+                            "break up with"
+                        ],
+                        "example": "her natural mother had abandoned her at an early age"
+                    },
+                    {
+                        "definition": "Give up completely (a course of action, a practice, or a way of thinking)",
+                        "synonyms": [
+                            "renounce",
+                            "relinquish",
+                            "dispense with",
+                            "forswear",
+                            "disclaim",
+                            "disown",
+                            "disavow",
+                            "discard",
+                            "wash one's hands of"
+                        ],
+                        "example": "he had clearly abandoned all pretense of trying to succeed"
+                    },
+                    {
+                        "definition": "Allow oneself to indulge in (a desire or impulse)",
+                        "synonyms": [
+                            "indulge in",
+                            "give way to",
+                            "give oneself up to",
+                            "yield to",
+                            "lose oneself in",
+                            "lose oneself to"
+                        ],
+                        "example": "they abandoned themselves to despair"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Complete lack of inhibition or restraint.",
+                        "synonyms": [
+                            "uninhibitedness",
+                            "recklessness",
+                            "lack of restraint",
+                            "lack of inhibition",
+                            "unruliness",
+                            "wildness",
+                            "impulsiveness",
+                            "impetuosity",
+                            "immoderation",
+                            "wantonness"
+                        ],
+                        "example": "she sings and sways with total abandon"
+                    }
+                ]
+            }
+        ]
+    },
+         {
+        "word": "abate",
+        "phonetics": [
+            {
+                "text": "/əˈbeɪt/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/abate_us_1.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "(of something perceived as hostile, threatening, or negative) become less intense or widespread.",
+                        "synonyms": [
+                            "subside",
+                            "die away",
+                            "die down",
+                            "die out",
+                            "drop away",
+                            "drop off",
+                            "lessen",
+                            "ease",
+                            "ease off",
+                            "let up",
+                            "decrease",
+                            "diminish",
+                            "moderate",
+                            "decline",
+                            "fade",
+                            "dwindle",
+                            "slacken",
+                            "recede",
+                            "cool off",
+                            "tail off",
+                            "peter out",
+                            "taper off",
+                            "wane",
+                            "ebb",
+                            "relent",
+                            "desist",
+                            "weaken",
+                            "become weaker",
+                            "come to an end"
+                        ],
+                        "example": "the storm suddenly abated"
+                    }
+                ]
+            }
+        ]
+    },
+         {
+        "word": "abduct",
+        "phonetics": [
+            {
+                "text": "/æbˈdəkt/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/abduct_us_1_rr.mp3"
+            },
+            {
+                "text": "/əbˈdəkt/",
+                "audio": "https://lex-audio.useremarkable.com/mp3/abduct_us_2_rr.mp3"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Take (someone) away illegally by force or deception; kidnap.",
+                        "synonyms": [
+                            "abduct",
+                            "carry off",
+                            "capture",
+                            "seize",
+                            "snatch",
+                            "hold to ransom",
+                            "take as hostage",
+                            "hijack"
+                        ],
+                        "example": "the millionaire who disappeared may have been abducted"
+                    },
+                    {
+                        "definition": "(of a muscle) move (a limb or part) away from the midline of the body or from another part.",
+                        "example": "the posterior rectus muscle, which abducts the eye"
+                    }
+                ]
+            }
+        ]
     }
+        
 ]
+
