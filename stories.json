@@ -7,32 +7,32 @@
   "translation_words": [
   {
   "word_en": "weather",
-  "transcription": "[wɛðər]",
+  "transcription": "/wɛðər/",
   "word_ru": "погода"
   },
   {
   "word_en": "fog",
-  "transcription": "[fɔɡ]",
+  "transcription": "/fɔɡ/",
   "word_ru": "туман"
   },
   {
   "word_en": "taken as a whole",
-  "transcription": "[hoʊl]",
+  "transcription": "/hoʊl/",
   "word_ru": "в целом"
   },
   {
   "word_en": "country",
-  "transcription": "['kəntri]",
+  "transcription": "/'kəntri/",
   "word_ru": "страна"
   },
   {
   "word_en": "perhps",
-  "transcription": "[po'haeps]",
+  "transcription": "/po'haeps/",
   "word_ru": "вероятно, возможно"
   },
   {
   "word_en": "shower",
-  "transcription": "[ʃaʊ(ə)r]",
+  "transcription": "/ʃaʊ(ə)r/",
   "word_ru": "ливень, душ"
   }
   ] 
