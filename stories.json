@@ -1,39 +1,39 @@
 [
 {
   "title":"British Weather",
-  "description_en": "When people think of British weather, they think ofrain and perhaps even fog. In fact, taken as a whole,the British weather is noworse than in any othercountry in Europe. It isperhaps not as warm asin Spain in summer, butthen again not as cold asin Germany in winter.And when it does rain, itis often just a shower.",
+  "description_en": "When people think of British weather, they think ofrain and perhaps even fog. In fact, taken as a whole, the British weather is noworse than in any other country in Europe. It is perhaps not as warm as in Spain in summer, but then again not as cold asin Germany in winter. And when it does rain, it is often just a shower.",
   "image": "https://i.pinimg.com/originals/96/ff/ff/96ffff6ea29f9f8a56363c2c6b23a340.jpg",
   "description_ru": "Когда думают о британской погоде, думают о дожде и, пожалуй, даже о тумане. На самом деле британская погода в целом не хуже, чем в любой другой стране Европы. Возможно, не такая теплая, как в Испании летом, но и не такая холодная, как в Германии зимой. А когда идет дождь, это часто всего лишь короткий ливень.",
   "translation_words": [
   {
-  "word_en": "weather",
+  "original": "weather",
   "transcription": "/wɛðər/",
-  "word_ru": "погода"
+  "translation": "погода"
   },
   {
-  "word_en": "fog",
+  "original": "fog",
   "transcription": "/fɔɡ/",
-  "word_ru": "туман"
+  "translation": "туман"
   },
   {
-  "word_en": "taken as a whole",
+  "original": "taken as a whole",
   "transcription": "/hoʊl/",
-  "word_ru": "в целом"
+  "translation": "в целом"
   },
   {
-  "word_en": "country",
+  "original": "country",
   "transcription": "/'kəntri/",
-  "word_ru": "страна"
+  "translation": "страна"
   },
   {
-  "word_en": "perhps",
+  "original": "perhps",
   "transcription": "/po'haeps/",
-  "word_ru": "вероятно, возможно"
+  "translation": "вероятно, возможно"
   },
   {
-  "word_en": "shower",
+  "original": "shower",
   "transcription": "/ʃaʊ(ə)r/",
-  "word_ru": "ливень, душ"
+  "translation": "ливень, душ"
   }
   ] 
 }
