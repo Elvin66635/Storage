@@ -27,14 +27,58 @@
   "translation": "страна"
   },
   {
-  "original": "perhps",
+  "original": "perhaps",
   "transcription": "[po'haeps]",
   "translation": "вероятно, возможно"
   },
   {
   "original": "shower",
-  "transcription": "[ʃaʊ(ə)r/]",
+  "transcription": "[ʃaʊ(ə)r]",
   "translation": "ливень, душ"
+  }
+  ] 
+},
+  {
+  "title": "Choosing a Dog",
+  "title_ru": "Выбор собаки",
+  "description_en": "Eric has wanted a dog for a long time. Now that they have a larger garden, Loma and Eric decide to go to the local pet home and see if they can find a suitable animal there. They do not want an especially large dog and it does not have to be a pure breed either. What they have in mind is a mediumsized longhaired mongrel.",
+  "image": "https://ilike.pet/upload/iblock/622/622e8d66252371908d229d15151e6388.jpg",
+  "description_ru": "Эрик давно хотел собаку. Теперь, когда у Лорны и Эрика обширный сад, они решили сходить в местный питомник и посмотреть, найдется ли там подходящая собака. Они не хотят особенно крупную или породистую собаку. Они думают о длинношерстном метисе средней величины.",
+  "translation_words": [
+  {
+  "original": "local",
+  "transcription": "['loukəl]",
+  "translation": "местный"
+  },
+  {
+  "original": "pet home",
+  "transcription": "[pet houm]",
+  "translation": "питомник (для животных)"
+  },
+  {
+  "original": "suitable",
+  "transcription": "['sju:itəbl]",
+  "translation": "подходящий"
+  },
+  {
+  "original": "pure breed",
+  "transcription": "[pjuə bri:d]",
+  "translation": "чистокровный, породистый"
+  },
+  {
+  "original": "medium-sized",
+  "transcription": "['mi:rdjəm saizd]",
+  "translation": "средней величины"
+  },
+  {
+  "original": "longhaired",
+  "transcription": "[ˈləʊnɪərɪd]",
+  "translation": "длинноволосый"
+  },
+  {
+  "original": "mongrel",
+  "transcription": "[ˈmʌŋ.ɡrəl]",
+  "translation": "метис; дворняга"
   }
   ] 
 }
