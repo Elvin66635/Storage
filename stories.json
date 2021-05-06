@@ -111,9 +111,63 @@
   },
   {
   "original": "to adjust",
-  "transcription": "[əˈdʒʌst]",
+  "transcription": "[tə əˈdʒʌst]",
   "translation": "приспосабливать, подгонять"
   }
+  ] 
+},
+   {
+  "title": "At the Vet’s",
+  "title_ru": "У ветеринара",
+  "description_en": "Eric and Loma take their dog to the vet to have it checked over and to have it injected against various diseases which dogs are prone to. They have to wait alongside all the other people with their ill pets. There are children with rabbits and tortoises, cats and dogs. A man with a snake is sitting on his own as no one wishes to sit beside him.",
+  "image": "https://shallowfordvet.com/wp-content/uploads/2017/08/dog-at-vet.jpg",
+  "description_ru": "Эрик и Лорна идут со своей собакой к ветеринару для осмотра и прививок от различных болезней, которым подвержены собаки. Лорна и Эрик должны ждать приема в числе других посетителей с больными домашними животными. Там дети с кроликами и черепахами, кошками и собаками. Мужчина со змеей сидит отдельно, поскольку никому не хочется сидеть рядом с ним.",
+  "translation_words": [
+  {
+  "original": "vet",
+  "transcription": "[vet]",
+  "translation": "ветеринар"
+  },
+  {
+  "original": "to inject",
+  "transcription": "[tə ɪnˈdʒekt]",
+  "translation": "прививать, делать прививку"
+  },
+  {
+  "original": "to check over",
+  "transcription": "[tə tʃek ˈoʊvər]",
+  "translation": "осматривать, проверять"
+  },
+  {
+  "original": "disease",
+  "transcription": "[dɪˈziːz]",
+  "translation": "болезнь"
+  },
+  {
+  "original": "prone to",
+  "transcription": "[prəʊn tə]",
+  "translation": "склонный к чему-либо"
+  },
+  {
+  "original": "pet",
+  "transcription": "[pet]]",
+  "translation": "домашнее животное"
+  },
+  {
+  "original": "rabbit",
+  "transcription": "[ˈræbɪt]",
+  "translation": "кролик"
+  },
+  {
+  "original": "tortoise",
+  "transcription": "[ˈtɔːtəs]",
+  "translation": "черепаха"
+  },
+  {
+  "original": "snake",
+  "transcription": "[sneik]",
+  "translation": "змея"
+ }
   ] 
 }
 ]
