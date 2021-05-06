@@ -208,7 +208,7 @@
   "title": "New Year’s Day",
   "title_ru": "Первый день Нового года",
   "description_en": "Loma: That was a great party last night, wasn’t it? \n Eric: The last guests went home at four о ’clock. \n Loma: I ’m sure Betty would have stayed on, but Paul insisted that they had to go home. \n Eric: Well, they still had an hour’s drive ahead of them.",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6MDVYdfGtIEhlwunpp2mS7Zxdeq6BYaOvDle9bk4_RpDQnn_esffBQomN4RuCUcdiqAg&usqp=CAU",
+  "image": "https://839253.smushcdn.com/1735869/wp-content/uploads/New-Years-Day.jpg?lossy=0&strip=1&webp=1",
   "description_ru": "Лорна: Отличная вечеринка была вчера, правда? \nЭрик: Последние гости разошлись в четыре утра. \nЛорна: Уверена, что Бетти хотела бы остаться, но Пол настаивал, чтобы они шли домой. \nЭрик: Ну, им же еще предстояло целый час ехать.",
   "translation_words": [
   {
@@ -280,12 +280,12 @@
   {
   "title": "A Famous Author",
   "title_ru": "Знаменитый писатель",
-  "description_en": "This famous author was bom in Bombay in 1865. He was brought to England in 1871 where he spent five years separated from his parents. He recalls this period with bitterness in his novel “The Light that Failed”. Later he worked as a journalist in India, and many of his earlier poems and stories were originally published in newspapers. Perhaps his most famous works are his tales for children, “The Jungle Book” and “Kim” which is generally considered to be his masterpiece. \n\nWhat is the name of this author?",
+  "description_en": "This famous author was born in Bombay in 1865. He was brought to England in 1871 where he spent five years separated from his parents. He recalls this period with bitterness in his novel “The Light that Failed”. Later he worked as a journalist in India, and many of his earlier poems and stories were originally published in newspapers. Perhaps his most famous works are his tales for children, “The Jungle Book” and “Kim” which is generally considered to be his masterpiece. \n\nWhat is the name of this author?",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rudyard_Kipling_%28portrait%29.jpg",
-  "description_ru": "Этот знаменитый писатель родился в 1865 г. в Бомбее (Индия). В 1871 г. он прибыл в Англию, где провел пять лет в разлуке со своими родителями. В своем романе «Свет погас» (“The Light that Failed”) он с горечью вспоминает об этом времени. Потом он работал журналистом в Индии, и многие из его ранних стихотворений и рассказов были впервые опубликованы в газетах. Возможно, наиболее известные его произведения - истории для детей; «Книга джунглей» и «Ким» считаются вершинами его творчества. \n\nКак зовут этого писателя?\nRudyard Kipling (1865—1936) \nРедьярд Киплинг",
+  "description_ru": "Этот знаменитый писатель родился в 1865 г. в Бомбее (Индия). В 1871 г. он прибыл в Англию, где провел пять лет в разлуке со своими родителями. В своем романе «Свет погас» (“The Light that Failed”) он с горечью вспоминает об этом времени. Потом он работал журналистом в Индии, и многие из его ранних стихотворений и рассказов были впервые опубликованы в газетах. Возможно, наиболее известные его произведения - истории для детей; «Книга джунглей» и «Ким» считаются вершинами его творчества. \n\nКак зовут этого писателя?\n\nRudyard Kipling (1865—1936) \n\nРедьярд Киплинг",
   "translation_words": [
   {
-  "original": " to bring (brought, brought)",
+  "original": "to bring (brought, brought)",
   "transcription": "[brɪŋ]",
   "translation": "приносить, доставить"
   },
@@ -381,6 +381,135 @@
   "original": "mistake",
   "transcription": "[mɪˈsteɪk]",
   "translation": "ошибка"
+  }
+  ] 
+},
+  
+
+{
+  "title": "Icy Roads",
+  "title_ru": "Гололед",
+  "description_en": "As usual Eric has to hurry as he has spent too long over breakfast reading the newspaper. When he takes the car out of the garage he gets a nasty surprise. The roads are very icy. Instead of trying to drive fast he rings up his office to say that he will be coming a bit later. On the way there are several hold-ups because cars have run into each other.",
+  "image": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/87/48745613-fafe-504f-a5fb9fb81d687732/5a8dbdb124709.image.jpg",
+  "description_ru": "Как обычно, Эрику нужно торопиться, потому что он слишком задержался за завтраком, читая газету. Когда он выезжает из гаража, его ждет неприятный сюрприз. На дорогах сильный гололед. Вместо того чтобы пытаться ехать быстро, Эрик звонит в офис и говорит, что он прибудет немного позже. На дороге много пробок из-за столкновения машин.",
+  "translation_words": [
+  {
+  "original": "icy",
+  "transcription": "['aisi]",
+  "translation": "ледяной, холодный, покрытый льдом"
+  },
+  {
+  "original": "to hurry",
+  "transcription": "[ˈhʌrɪ]",
+  "translation": "спешить, торопиться"
+  },
+  {
+  "original": "nasty",
+  "transcription": "[ˈnɑːstɪ]",
+  "translation": "неприятный, противный, гадкий"
+  },
+  {
+  "original": "surprise",
+  "transcription": "[səˈpraɪz]",
+  "translation": "неожиданность, сюрприз, удивление"
+  },
+  {
+  "original": "to ring up",
+  "transcription": "[rɪŋ ʌp]",
+  "translation": "звонить"
+  },
+ {
+  "original": "office",
+  "transcription": "[ˈɒfɪs]",
+  "translation": "офис"
+  },
+ {
+  "original": "hold-up",
+  "transcription": "[ˈhəʊldʌp]",
+  "translation": "пробка"
+  },
+ {
+  "original": "to run into smth",
+  "transcription": "[rʌn ˈɪntə]",
+  "translation": "врезаться, сталкиваться"
+  }
+  ] 
+},
+{
+  "title": "At the Insurance Office",
+  "title_ru": "В страховой компании",
+  "description_en": "Bill wants to have his car repaired the day after his accident. So that there are no complications he goes to the insurance office personally. He wants a written statement that the company will cover all the costs of the repair. When he gets there, he has to fill in a number of forms and give his version of how the accident happened.",
+  "image": "https://st4.depositphotos.com/13194036/i/600/depositphotos_210648634-stock-photo-man-signing-insurance-claim-form.jpg",
+  "description_ru": "Билл хочет, чтобы его машину отремонтировали на следующий день после ДТП. Чтобы не возникло проблем, он лично едет в офис страховой компании. Ему нужно письменное подтверждение, что компания возьмет на себя все расходы по ремонту. Придя туда, он должен заполнить множество бланков и изложить свою версию происшедшего.",
+  "translation_words": [
+  {
+  "original": "insurance",
+  "transcription": "[ɪnˈʃʊər(ə)ns]",
+  "translation": "страховка"
+  },
+  {
+  "original": "accident",
+  "transcription": "[ˈæksɪd(ə)nt]",
+  "translation": "несчастный случай, ДТП"
+  },
+  {
+  "original": "complication",
+  "transcription": "[kɒmplɪˈkeɪʃ(ə)n]",
+  "translation": "трудность, затруднение, проблема"
+  },
+  {
+  "original": "to cover",
+  "transcription": "[ˈkʌvə]",
+  "translation": "брать на себя, покрывать (расходы)"
+  },
+  {
+  "original": "to fill in",
+  "transcription": "[fil in]",
+  "translation": "заполнять"
+  },
+  {
+  "original": "form",
+  "transcription": "[ˈfɔːm]",
+  "translation": "форма, вид, формуляр, бланк"
+  },
+  {
+  "original": "version",
+  "transcription": "[ˈvɜːʃ(ə)n]",
+  "translation": "версия"
+  }
+  ] 
+},
+{
+  "title": "An English Author",
+  "title_ru":"Английский писатель",
+  "description_en": "The author wanted was born in Portsmouth in 1812. When his father was imprisoned for debt, he was forced to work in a factory at the age of 12. Memories of this period in his life inspired much of his writing. He began writing for several newspapers as “Boz”. Later he wrote many famous books such as “David Copperfield” and “Oliver Twist”. When he died suddenly in 1870 he left unfinished his last novel, “The Mystery of Edwin Drood”.\n\nDo you know the name o f this famous author?",
+  "image": "https://www.biography.com/.image/t_share/MTY2NTQ1NTM2OTM2MDYwMTQ2/charles-dickens.jpg",
+  "description_ru": "Нужный нам автор родился в 1812 г. в Портсмуте. Когда его отец попал в долговую тюрьму, он был вынужден работать на фабрике в возрасте 12 лет. Воспоминания об этом периоде жизни вдохновили его на написание многих произведений. Он начал сотрудничать в разных газетах под псевдонимом «Боз». Позднее он написал много известных книг — например, «Дэвид Копперфилд» и «Оливер Твист». Когда он внезапно умер в 1870 г., остался неоконченным последний его роман — «Тайна Эдвина Друда». \n\nЗнаете ли вы, как зовут этого знаменитого писателя? \n\nCharles Dickens \nЧарльз Диккенс",
+  "translation_words": [
+  {
+  "original": "imprison",
+  "transcription": "[ɪmˈprɪz(ə)n]",
+  "translation": "сажать в тюрьму"
+  },
+  {
+  "original": "debt",
+  "transcription": "[det]",
+  "translation": "долг, долговое обязательство, задолженность"
+  },
+  {
+  "original": "factory",
+  "transcription": "[ˈfækt(ə)rɪ]",
+  "translation": "завод, фабрика, заводской"
+  },
+  {
+  "original": "inspire",
+  "transcription": "[ɪnˈspaɪə]",
+  "translation": "вдохновлять, внушать"
+  },
+  {
+  "original": "suddenly",
+  "transcription": "[ˈsʌd(ə)nlɪ]",
+  "translation": "вдруг, внезапно"
   }
   ] 
 }
