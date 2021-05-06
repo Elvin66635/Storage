@@ -663,6 +663,133 @@
   "translation": "основной, главный"
   }
   ] 
+},
+  {
+  "title": "In the Bank",
+  "title_ru": "В банке",
+  "description_en": "Normally Eric has his bank statements sent to his home. But something must have gone wrong as he has not received any for over four weeks. Eric In the Bank points this out to the bank clerk who is most apologetic. He promises that Eric will receive all the outstanding statements within the next days. As usual, no one is to blame, it’s all the fault of the computer!",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7RWRq4UYDRyPN4EgUMpQ8ja_34DQjmcpj-Rl4QmTy5mzD5KyFvyPG2PAE5OeDDKDbes&usqp=CAU",
+  "description_ru": "Обычно Эрику присылают выписки с его счетов на дом. Но что-то случилось, и он не получил ни одного счета за целый месяц. Эрик указывает на это банковскому служащему, который многократно извиняется. Он обещает, что Эрик получит все недостающие счета в ближайшие дни. Как всегда, упрекнуть некого, всё по вине компьютера!",
+  "translation_words": [
+  {
+  "original": "bank statement",
+  "transcription": "[bæŋk ˈsteɪtm(ə)nt]",
+  "translation": "выписка с банковского счета"
+  },
+  {
+  "original": "to receive",
+  "transcription": "[rɪˈsiːv]",
+  "translation": "получать"
+  },
+  {
+  "original": "bank clerk",
+  "transcription": "[bæŋk klɑːk]",
+  "translation": "банковский служащий"
+  },
+  {
+  "original": "apologetic",
+  "transcription": "[əpɒləˈdʒetɪk]",
+  "translation": "просящий извинения"
+  },
+  {
+  "original": "outstanding",
+  "transcription": "[æʊtˈstændɪŋ]",
+  "translation": "неоплаченный, недостающий"
+  },
+  {
+  "original": "to blame",
+  "transcription": "[bleɪm]",
+  "translation": "упрекать, винить"
+  },
+  {
+  "original": "fault",
+  "transcription": "[fɔːlt]",
+  "translation": "вина, погрешность"
+  }
+  ] 
+},
+ {
+  "title": "A Private Detective",
+  "title_ru": "Частный детектив",
+  "description_en": "This fictitious detective, who appears in novels written by Sir Arthur Conan Doyle, “lived” in Baker Street in London. He was often accompanied by his friend, Dr. Watson, on his mystery solving adventures. He was famous for being able to disguise himself so well that not even his closest friend was able to recognize him. He used science to solve crime and was often called in by Scotland Yard to help.\n\nWhat is the name of this world-famous detective?",
+  "image": "https://laughingsquid.com/wp-content/uploads/2015/12/221B.jpg?w=750",
+  "description_ru": "Этот вымышленный сыщик, действующий в романах сэра Артура Конан Дойла, жил на Бейкер-стрит в Лондоне. В приключениях, связанных с разгадкой тайн, его часто сопровождал его друг, доктор Ватсон. Этот сыщик прославился умением так изменять свою внешность, что его не мог узнать даже близкий друг. В раскрытии преступлений он применял науку, и Скотленд-Ярд часто обращался к нему за помощью. Как зовут этого всемирно известного сыщика?\n\nSherlock Holmes\nШерлок Холмс",
+  "translation_words": [
+  {
+  "original": "fictitious",
+  "transcription": "[fɪkˈtɪʃəs]",
+  "translation": "вымышленный, выдуманный"
+  },
+  {
+  "original": "to appear",
+  "transcription": "[əˈpɪə]",
+  "translation": "появляться, казаться"
+  },
+  {
+  "original": "novel",
+  "transcription": "[ˈnɒv(ə)l]",
+  "translation": "роман, повесть"
+  },
+  {
+  "original": "to accompany",
+  "transcription": "[əˈkʌmpənɪ]",
+  "translation": "сопровождать, сопутствовать"
+  },
+  {
+  "original": "mystery",
+  "transcription": "[ˈmɪst(ə)rɪ]",
+  "translation": "тайна, таинство, мистерия"
+  },
+  {
+  "original": "to recognize",
+  "transcription": "[ˈrekəɡnaɪz]",
+  "translation": "признавать, распознавать, узнавать"
+ }
+  ] 
+},
+ {
+  "title": "A City in Somerset",
+  "title_ru": "Город в Сомерсете",
+  "description_en": "This city is located at the site of a Roman spa which was called Aquae Suli. It was probably built in the 1st and 2nd centuries AD. Many of the extensive Roman baths have been excavated, and fragments of a temple as well as tombs and altars have been found. The King’s Bath was built in 1597 and was used in the 17th century for medicinal purposes. In the 18th century the city was transformed into a social resort by Richard Nash and John Wood.\n\nCan you guess the name of this city?",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Puente_Pulteney%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_51.JPG/600px-Puente_Pulteney%2C_Bath%2C_Inglaterra%2C_2014-08-12%2C_DD_51.JPG",
+  "description_ru": "Этот город расположен на месте римского курорта с целебными водами, который назывался Акве Сули (Aquae Suli). Он был возведен предположительно в I—II веках нашей эры. Многие из обширных римских бань были обнаружены в ходе раскопок, были найдены фрагменты храма, а также алтари и гробницы. «Королевская баня» была построена в 1597 г. и использовалась в XVII в. в лечебных целях. В XVIII в. город был преобразован Ричардом Нэшем и Джоном Вудом в светский курорт. Вы можете угадать название этого города?\n\nBath\nБат",
+  "translation_words": [
+  {
+  "original": "to locate",
+  "transcription": "[lə(ʊ)ˈkeɪt]",
+  "translation": "находиться, размещать"
+  },
+  {
+  "original": "probably",
+  "transcription": "[ˈprɒbəblɪ]",
+  "translation": "вероятно"
+  },
+  {
+  "original": "build, built, built",
+  "transcription": "[bɪld bɪlt bɪlt]",
+  "translation": "строить, создавать"
+  },
+  {
+  "original": "extensive",
+  "transcription": "[ɪkˈstensɪv]",
+  "translation": "обширный, экстенсивный"
+  },
+  {
+  "original": "excavated",
+  "transcription": "[ˈekskəveɪtɪd]",
+  "translation": "выкопанный"
+  },
+  {
+  "original": "tombs",
+  "transcription": "[tuːmz]",
+  "translation": "гробницы"
+  },
+  {
+  "original": "purpose",
+  "transcription": "[ˈpɜːpəs]",
+  "translation": "цель, назначение"
+  }
+  ] 
 }
 ]
 
