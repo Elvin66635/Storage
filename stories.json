@@ -390,7 +390,7 @@
   "title": "Icy Roads",
   "title_ru": "Гололед",
   "description_en": "As usual Eric has to hurry as he has spent too long over breakfast reading the newspaper. When he takes the car out of the garage he gets a nasty surprise. The roads are very icy. Instead of trying to drive fast he rings up his office to say that he will be coming a bit later. On the way there are several hold-ups because cars have run into each other.",
-  "image": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/4/87/48745613-fafe-504f-a5fb9fb81d687732/5a8dbdb124709.image.jpg",
+  "image": "https://www.travelers.com/iw-images/resources/Individuals/Large/auto/safe-driving/drivingicyweather_large.jpg",
   "description_ru": "Как обычно, Эрику нужно торопиться, потому что он слишком задержался за завтраком, читая газету. Когда он выезжает из гаража, его ждет неприятный сюрприз. На дорогах сильный гололед. Вместо того чтобы пытаться ехать быстро, Эрик звонит в офис и говорит, что он прибудет немного позже. На дороге много пробок из-за столкновения машин.",
   "translation_words": [
   {
@@ -482,7 +482,7 @@
 {
   "title": "An English Author",
   "title_ru":"Английский писатель",
-  "description_en": "The author wanted was born in Portsmouth in 1812. When his father was imprisoned for debt, he was forced to work in a factory at the age of 12. Memories of this period in his life inspired much of his writing. He began writing for several newspapers as “Boz”. Later he wrote many famous books such as “David Copperfield” and “Oliver Twist”. When he died suddenly in 1870 he left unfinished his last novel, “The Mystery of Edwin Drood”.\n\nDo you know the name o f this famous author?",
+  "description_en": "The author wanted was born in Portsmouth in 1812. When his father was imprisoned for debt, he was forced to work in a factory at the age of 12. Memories of this period in his life inspired much of his writing. He began writing for several newspapers as “Boz”. Later he wrote many famous books such as “David Copperfield” and “Oliver Twist”. When he died suddenly in 1870 he left unfinished his last novel, “The Mystery of Edwin Drood”.\n\nDo you know the name of this famous author?",
   "image": "https://www.biography.com/.image/t_share/MTY2NTQ1NTM2OTM2MDYwMTQ2/charles-dickens.jpg",
   "description_ru": "Нужный нам автор родился в 1812 г. в Портсмуте. Когда его отец попал в долговую тюрьму, он был вынужден работать на фабрике в возрасте 12 лет. Воспоминания об этом периоде жизни вдохновили его на написание многих произведений. Он начал сотрудничать в разных газетах под псевдонимом «Боз». Позднее он написал много известных книг — например, «Дэвид Копперфилд» и «Оливер Твист». Когда он внезапно умер в 1870 г., остался неоконченным последний его роман — «Тайна Эдвина Друда». \n\nЗнаете ли вы, как зовут этого знаменитого писателя? \n\nCharles Dickens \nЧарльз Диккенс",
   "translation_words": [
@@ -510,6 +510,157 @@
   "original": "suddenly",
   "transcription": "[ˈsʌd(ə)nlɪ]",
   "translation": "вдруг, внезапно"
+  }
+  ] 
+},
+  {
+  "title": "A Sweepstake in the Office",
+  "title_ru": "Лотерея в офисе",
+  "description_en": "Loma: What are you collecting for this time? Is it someone’s birthday or has someone had a baby? \nJanet: No, this time you can even get some money out of it. We are organizing a sweepstake. Everyone who pays a pound draws the name of a horse which runs on Saturday.",
+  "image": "https://i.inews.co.uk/content/uploads/2021/04/PRI_189734230-640x360.jpg",
+  "description_ru": "Лорна: На что ты собираешь сейчас деньги? У кого-то день рождения или новорожденный? \nДженет: Нет, на сей раз и ты можешь кое-что получить. Мы организуем лотерею-пари на скачках. Каждый, кто сдаст фунт, вытягивает имя лошади, которая бежит в субботу.",
+  "translation_words": [
+  {
+  "original": "sweepstake",
+  "transcription": "[ˈswiːpsteɪk]",
+  "translation": "тотализатор, пари на скачках"
+  },
+  {
+  "original": "to collect",
+  "transcription": "[kəˈlekt]",
+  "translation": "собирать"
+  },
+  {
+  "original": "to organize",
+  "transcription": "[ˈɔːɡ(ə)naɪz]",
+  "translation": "организовать"
+  },
+  {
+  "original": "to draw (drew, drawn)",
+  "transcription": "[drɔː druː drɔːn]",
+  "translation": "тащить, тянуть"
+  },
+  {
+  "original": "horse race",
+  "transcription": "[hɔːs reɪs]",
+  "translation": "скачки (на ипподроме)"
+  }
+  ] 
+},
+ {
+  "title": "A Letter from America",
+  "title_ru": "Письмо из Америки",
+  "description_en": "John had stayed with a host family in America the previous year. Their son now wishes to visit Britain. He has written a letter to John, saying that he would arrive at the start of February. The Miller family has been expecting this letter and John writes back immediately saying that they will be delighted to have him stay with them.",
+  "image": "https://s.abcnews.com/images/Technology/letter-stock-gtt-rc-210305_1614973899123_hpMain_16x9_992.jpg",
+  "description_ru": "Джон в прошлом году жил в американской семье. Теперь мальчик из этой семьи хочет посетить Великобританию. Он написал Джону письмо, в котором сообщает, что хочет приехать в начале февраля. Семья Миллеров ожидала этого письма, и Джон тут же пишет ответ, где говорится, что они будут рады его принять.",
+  "translation_words": [
+  {
+  "original": "host",
+  "transcription": "[həʊst]",
+  "translation": "хозяин (принимающий гостей)"
+  },
+  {
+  "original": "previous",
+  "transcription": "[ˈpriːvɪəs]",
+  "translation": "прошлый, предшествующий"
+  },
+  {
+  "original": "to expect",
+  "transcription": "[ɪkˈspekt]",
+  "translation": "ожидать"
+  },
+  {
+  "original": "immediately",
+  "transcription": "[ɪˈmiːdɪətlɪ]",
+  "translation": "епосредственно, тотчас, сразу, тут же"
+  },
+  {
+  "original": "delighted",
+  "transcription": "[dɪˈlaɪtɪd]",
+  "translation": "довольный, радостный"
+  }
+  ] 
+},
+ {
+  "title": "Preparations in the Guest-Room",
+  "title_ru": "Приготовления в комнате для гостей",
+  "description_en": "Loma: Actually, Mike’s coming is a good excuse to clear up the spare room. Perhaps we should buy some new bedclothes. \nEric: That’s a good idea. Those sheets are about 15 years old. \nLoma: We would also have to buy new curtains to match the new duvet covers.",
+  "image": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/11/Best_Duvet_Covers.jpg",
+  "description_ru": "Лорна: Собственно, приезд Майка - хороший повод прибраться в свободной комнате. Может быть, нам стоит купить новое постельное белье. \nЭрик: Хорошая идея. Этим простыням уже около пятнадцати лет. \nЛорна: Тогда нам надо еще купить новые шторы, чтобы они подходили к новым стеганым покрывалам.",
+  "translation_words": [
+  {
+  "original": "preparation",
+  "transcription": "[ˌprepəˈreɪʃ(ə)n]",
+  "translation": "подготовка"
+  },
+  {
+  "original": "excuse",
+  "transcription": "[ɪkˈskjuːs]",
+  "translation": "извинение; оправдание, отговорка, предлог, повод"
+  },
+  {
+  "original": "to clear up",
+  "transcription": "[klɪər ʌp]",
+  "translation": "убирать, убираться, прибираться"
+  },
+  {
+  "original": "bedclothes",
+  "transcription": "[ˈbedkləʊðz]",
+  "translation": "постельное белье"
+  },
+  {
+  "original": "sheet",
+  "transcription": "[ʃiːt]",
+  "translation": "простыня"
+  },
+  {
+  "original": "curtain",
+  "transcription": "[ˈkɜːt(ə)n]",
+  "translation": "штора"
+  },
+  {
+  "original": "to match",
+  "transcription": "[mætʃ]",
+  "translation": "соответствовать, подходить"
+  },
+  {
+  "original": "duvet cover",
+  "transcription": "[ˈd(j)uːveɪ ˈkʌvə]",
+  "translation": "стеганое покрывало"
+  }
+  ] 
+},
+ {
+  "title": "A Town in Scotland",
+  "title_ru": "Город в Шотландии",
+  "description_en": "It is the capital city of Scotland, situated south of the Firth of Forth. A famous castle stands on a rock looking down on the city. The Queen’s husband, Prince Philip, is Duke of this city. The university here was founded as early as 1583. Princes Street is one of the main streets in the city centre where one can find many interesting shops.\n\nDo you know the name of this second-largest city in Scotland?",
+  "image": "https://i.guim.co.uk/img/media/8277fbc431a315f99436b174c2892acaa71f8eee/0_30_5760_3456/master/5760.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=df182199149b58ce7cd461ee18f142d9",
+  "description_ru": "Это столица Шотландии, расположенная к югу от залива Ферт-оф-Форт. Знаменитый замок, стоящий на утесе, возвышается над городом. Супруг королевы, принц Филипп, является герцогом этого города. Здешний университет основан в 1583 г. Одна из главных улиц города — Принсес-стрит, на которой находится много вызывающих интерес магазинов. \n\nВы знаете название этого второго по величине города Шотландии?\n\nEdinburgh \nЭдинбург",
+  "translation_words": [
+  {
+  "original": "rock",
+  "transcription": "[rɒk]",
+  "translation": "скала, камень"
+  },
+  {
+  "original": "Queen",
+  "transcription": "[kwiːn]",
+  "translation": "королева"
+  },
+  {
+  "original": "castle",
+  "transcription": "[ˈkɑːs(ə)l]",
+  "translation": "замок"
+  },
+  {
+  "original": "find, found, found",
+  "transcription": "[faɪnd faʊnd faʊnd]",
+  "translation": "находить, считать"
+  },
+  {
+  "original": "main",
+  "transcription": "[meɪn]",
+  "translation": "основной, главный"
   }
   ] 
 }
