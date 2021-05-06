@@ -203,5 +203,44 @@
   "translation": "мотогонки"
   }
   ] 
+},
+{
+  "title": "New Year’s Day",
+  "title_ru": "Первый день Нового года",
+  "description_en": "Loma: That was a great party last night, wasn’t it? \n Eric: The last guests went home at four о ’clock. \n Loma: I ’m sure Betty would have stayed on, but Paul insisted that they had to go home. \n Eric: Well, they still had an hour’s drive ahead of them.",
+  "image": "",
+  "description_ru": "Лорна: Отличная вечеринка была вчера, правда? \nЭрик: Последние гости разошлись в четыре утра. \nЛорна: Уверена, что Бетти хотела бы остаться, но Пол настаивал, чтобы они шли домой. \nЭрик: Ну, им же еще предстояло целый час ехать.",
+  "translation_words": [
+  {
+  "original": "New Year’s Day",
+  "transcription": "[njuː jiə(r)z deɪ]",
+  "translation": "первый день Нового года"
+  },
+  {
+  "original": "great",
+  "transcription": "[ɡreɪt]",
+  "translation": "отличный, замечательный"
+  },
+  {
+  "original": "to stay on",
+  "transcription": "[steɪ ɒn]",
+  "translation": "оставаться ещё"
+  },
+  {
+  "original": "to insist",
+  "transcription": "[in'sist]",
+  "translation": "настаивать"
+  },
+  {
+  "original": "an hour’s drive",
+  "transcription": "[ˈaʊərz draɪv]",
+  "translation": "часовая поездка"
+  },
+{
+  "original": "ahead of",
+  "transcription": "[əˈhed əv]",
+  "translation": "впереди, перед"
+}
+] 
 }
 ]
