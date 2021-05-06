@@ -41,8 +41,8 @@
   {
   "title": "Choosing a Dog",
   "title_ru": "Выбор собаки",
-  "description_en": "Eric has wanted a dog for a long time. Now that they have a larger garden, Loma and Eric decide to go to the local pet home and see if they can find a suitable animal there. They do not want an especially large dog and it does not have to be a pure breed either. What they have in mind is a mediumsized longhaired mongrel.",
-  "image": "https://ilike.pet/upload/iblock/622/622e8d66252371908d229d15151e6388.jpg",
+  "description_en": "Eric has wanted a dog for a long time. Now that they have a larger garden, Loma and Eric decide to go to the local pet home and see if they can find a suitable animal there. They do not want an especially large dog and it does not have to be a pure breed either. What they have in mind is a medium-sized longhaired mongrel.",
+  "image": "https://www.calibrecleaning.com.au/wp-content/uploads/2018/12/pet-dog-with-family.jpg",
   "description_ru": "Эрик давно хотел собаку. Теперь, когда у Лорны и Эрика обширный сад, они решили сходить в местный питомник и посмотреть, найдется ли там подходящая собака. Они не хотят особенно крупную или породистую собаку. Они думают о длинношерстном метисе средней величины.",
   "translation_words": [
   {
@@ -79,6 +79,40 @@
   "original": "mongrel",
   "transcription": "[ˈmʌŋ.ɡrəl]",
   "translation": "метис; дворняга"
+  }
+  ] 
+},
+ {
+  "title": "Building a Kennel",
+  "title_ru": "Постройка конуры",
+  "description_en": "Loma: Now you have at last got your dog. You will have to build a kennel for it. Eric: Yes, I ’ll go to the building suppliers’ and get some wood. At least I know how big to make the kennel as the dog is fully grown. I have a plan in a book somewhere which I can adjust to its size.",
+  "image": "https://kitsetbuildings.nz/wp-content/uploads/2018/09/110x105x110-dog-kennel-2-800x600.jpg",
+  "description_ru": "Лорна: Теперь наконец у тебя есть собака. Тебе нужно построить для нее конуру. Эрик: Да, я схожу на строительный рынок и куплю досок. По крайней мере, я знаю, какой величины должна быть конура для взрослой собаки. У меня где-то в книге есть чертеж, который можно подогнать по размеру.",
+  "translation_words": [
+  {
+  "original": "kennel",
+  "transcription": "['kenl]",
+  "translation": "конура, собачья будка"
+  },
+  {
+  "original": "building supplier",
+  "transcription": "[ˈbɪldɪŋ səˈplaɪ.ər]",
+  "translation": "строительный рынок"
+  },
+  {
+  "original": "fully grown",
+  "transcription": "[ˈfʊli ɡrəʊn]",
+  "translation": "вполне взрослый"
+  },
+  {
+  "original": "plan",
+  "transcription": "[plæn]",
+  "translation": "чертеж"
+  },
+  {
+  "original": "to adjust",
+  "transcription": "[əˈdʒʌst]",
+  "translation": "приспосабливать, подгонять"
   }
   ] 
 }
