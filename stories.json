@@ -790,6 +790,118 @@
   "translation": "цель, назначение"
   }
   ] 
+},
+ {
+  "title": "A Broken Arm",
+  "title_ru": "Сломанная рука",
+  "description_en": "Sarah had an accident while cycling. She turned a comer and did not see a brick lying in the road. Unfortunately she fell off her bike in such a way that she landed on her arm and broke it. A man in a passing car, who had watched the accident, immediately stopped and gave her a lift to the nearest hospital. There she had her arm put in plaster.",
+  "image": "https://img.freepik.com/free-photo/bike-injuries-woman-cyclist-fell-fell-off-road-bike-while-cycling_53476-4824.jpg?size=626&ext=jpg",
+  "description_ru": "С Сарой произошел несчастный случай, когда она ехала на велосипеде. Она свернула за угол и не заметила кирпич, лежавший на дороге. К несчастью, она упала с велосипеда прямо на руку и сломала ее. Проезжавший мимо автомобилист, увидев это, тотчас остановился и подвез ее до ближайшей больницы. Там ей наложили гипсовую повязку.",
+  "translation_words": [
+  {
+  "original": "to cycle",
+  "transcription": "[ˈsaɪk(ə)l]",
+  "translation": "ездить на велосипеде"
+  },
+  {
+  "original": "brick",
+  "transcription": "[brɪk]",
+  "translation": "кирпич"
+  },
+  {
+  "original": "to break",
+  "transcription": "[breɪk]",
+  "translation": "тормозить"
+  },
+  {
+  "original": "passing",
+  "transcription": "[ˈpɑːsɪŋ]",
+  "translation": "проходящий, проезжающий мимо"
+  },
+  {
+  "original": "immediately",
+  "transcription": "[ɪˈmiːdɪətlɪ]",
+  "translation": "непосредственно, тотчас, тут же"
+  },
+  {
+  "original": "hospital",
+  "transcription": "[ˈhɒspɪt(ə)l]",
+  "translation": "больница"
+  },
+  {
+  "original": "plaster",
+  "transcription": "[ˈplɑːstə]",
+  "translation": "гипс"
+  }
+  ] 
+},
+ {
+  "title": "Rag Day",
+  "title_ru": "Cтуденческий праздник",
+  "description_en": "Eric: Eric: Did you see the students in town today? They were collecting for several charities. The ones I saw were all dressed up like Walt Disney figures.\nLoma: When they come towards you in groups,you don’t have much chance to refuse.\nEric: When it is for a good cause, I don’t mind.",
+  "image": "https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_740,w_1100/v1555435065/shape/mentalfloss/5053905708_97e98e7520_b.jpg?itok=8BHMWa35",
+  "description_ru": "Эрик: Ты сегодня видела в городе студентов? Они собирают пожертвования. Те, кого я видел, оделись персонажами Уолта Диснея.\nЛорна: Когда они окружают тебя целой группой, трудно отказать.\nЭрик: Если это в благих целях, я не против.\n\n. («День лохмотьев, тряпичный день». В феврале и марте студенты в британских университетских городах устраивают уличный карнавал с переодеванием и сборами на нужды благотворительности)",
+  "translation_words": [
+  {
+  "original": "collect",
+  "transcription": "[kəˈlekt]",
+  "translation": "собирать, собираться"
+  },
+  {
+  "original": "charity",
+  "transcription": "[ˈtʃærɪtɪ]",
+  "translation": "благотворительность"
+  },
+  {
+  "original": "dress up",
+  "transcription": "[dres ʌp]",
+  "translation": "наряжать, наряжаться"
+  },
+  {
+  "original": "towards",
+  "transcription": "[təˈwɔːdz]",
+  "translation": "к, в направлении, по отношению к"
+  },
+  {
+  "original": "to refuse",
+  "transcription": "[rɪˈfjuːz]",
+  "translation": "отказывать, отвергать"
+  }
+  ] 
+},
+ {
+  "title": "A Country of Poets and Singers",
+  "title_ru": "Страна поэтов и певцов",
+  "description_en": "The country we are looking for lies in the western part of the United Kingdom. The people who live there are proud to speak their own language which looks almost illegible to foreigners. The second highest mountain in Britain, Snowdon, is here in the Snowdonia National Park. The local people hold annual competitions in music, poetry, arts and crafts. These are called the National Eisteddfod and attract many visitors. \n\nWhat is the name of this country?",
+  "image": "https://static7.depositphotos.com/1004348/691/i/600/depositphotos_6915212-stock-photo-the-village-of-beddgelert-in.jpg",
+  "description_ru": "Страна, которую мы ищем, расположена в западной части Соединенного Королевства. Живущие там люди гордятся собственным языком, который кажется иностранцам почти нечитаемым. Вторая по величине гора Великобритании, Сноудон, находится здесь, в Сноудонском Национальном парке. Местные жители проводят ежегодные конкурсы музыки, поэзии, искусства и художественных ремесел. Они называются «Нэшнл эй- стедвод» и привлекают множество туристов. Как называется эта страна?\n\nWales\nУэльс\n\n        |Самое длинное название на земле|   \nLlanfairpwllgwyngyllgogerychwymdrobwllllantysiliogogogoch — ранее железнодорожная станция в Уэльсе, которая теперь не функционирует, но посещается множеством туристов. Для краткости в быту станция называется просто Лланфайр.",
+  "translation_words": [
+  {
+  "original": "to lie",
+  "transcription": "[laɪ]",
+  "translation": "лежать, находиться"
+  },
+  {
+  "original": "western",
+  "transcription": "[ˈwest(ə)n]",
+  "translation": "западный, ковбойский"
+  },
+  {
+  "original": "proud",
+  "transcription": "[praʊd]",
+  "translation": "гордый"
+  },
+  {
+  "original": "illegible",
+  "transcription": "[ɪˈledʒɪb(ə)l]",
+  "translation": "неразборчивый, нечеткий"
+  },
+  {
+  "original": "competitions",
+  "transcription": "[ˌkɒmpəˈtɪʃənz]",
+  "translation": "соревнования"
+  }
+  ] 
 }
 ]
 
