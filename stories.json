@@ -874,7 +874,7 @@
   "title_ru": "Страна поэтов и певцов",
   "description_en": "The country we are looking for lies in the western part of the United Kingdom. The people who live there are proud to speak their own language which looks almost illegible to foreigners. The second highest mountain in Britain, Snowdon, is here in the Snowdonia National Park. The local people hold annual competitions in music, poetry, arts and crafts. These are called the National Eisteddfod and attract many visitors. \n\nWhat is the name of this country?",
   "image": "https://static7.depositphotos.com/1004348/691/i/600/depositphotos_6915212-stock-photo-the-village-of-beddgelert-in.jpg",
-  "description_ru": "Страна, которую мы ищем, расположена в западной части Соединенного Королевства. Живущие там люди гордятся собственным языком, который кажется иностранцам почти нечитаемым. Вторая по величине гора Великобритании, Сноудон, находится здесь, в Сноудонском Национальном парке. Местные жители проводят ежегодные конкурсы музыки, поэзии, искусства и художественных ремесел. Они называются «Нэшнл эй- стедвод» и привлекают множество туристов. Как называется эта страна?\n\nWales\nУэльс\n\n        |Самое длинное название на земле|   \nLlanfairpwllgwyngyllgogerychwymdrobwllllantysiliogogogoch — ранее железнодорожная станция в Уэльсе, которая теперь не функционирует, но посещается множеством туристов. Для краткости в быту станция называется просто Лланфайр.",
+  "description_ru": "Страна, которую мы ищем, расположена в западной части Соединенного Королевства. Живущие там люди гордятся собственным языком, который кажется иностранцам почти нечитаемым. Вторая по величине гора Великобритании, Сноудон, находится здесь, в Сноудонском Национальном парке. Местные жители проводят ежегодные конкурсы музыки, поэзии, искусства и художественных ремесел. Они называются «Нэшнл эй- стедвод» и привлекают множество туристов. Как называется эта страна?\n\nWales\nУэльс\n\n  |Самое длинное название на земле|   \nLlanfairpwllgwyngyllgogerychwymdrobwllllantysiliogogogoch — ранее железнодорожная станция в Уэльсе, которая теперь не функционирует, но посещается множеством туристов. Для краткости в быту станция называется просто Лланфайр.",
   "translation_words": [
   {
   "original": "to lie",
@@ -900,6 +900,128 @@
   "original": "competitions",
   "transcription": "[ˌkɒmpəˈtɪʃənz]",
   "translation": "соревнования"
+  }
+  ] 
+},  
+ {
+  "title": "A Sightseeing Tour",
+  "title_ru": "Экскурсия по городу",
+  "description_en": "John: There isn't much of interest to see here in Milton Keynes. Everything is so new here. \nMike: I wouldn’t say that. The style of the buildings is so different to back home in the USA. \nJohn: I suppose that’s true. A few of the public buildings won prizes in national architectural competitions.",
+  "image": "https://mediaim.expedia.com/destination/1/cbc6af99bd77a44262471345b80483bd.jpg?impolicy=fcrop&w=536&h=384&q=high",
+  "description_ru": "Джон: Здесь, в Милтон-Кейнс, мало интересного. Здесь всё такое новое. \nМайк: Я бы не сказал. Стиль зданий очень отличается от того, что у нас дома, в США. \nДжон: Может быть, и так. Некоторые общественные здания выиграли призы на национальных архитектурных конкурсах.",
+  "translation_words": [
+  {
+  "original": "sightseeing tour",
+  "transcription": "[ˈsaɪtsiːɪŋ tʊə]",
+  "translation": "экскурсия по городу"
+  },
+  {
+  "original": "style",
+  "transcription": "[staɪl]",
+  "translation": "стиль"
+  },
+  {
+  "original": "different",
+  "transcription": "[ˈdɪf(ə)r(ə)nt]",
+  "translation": "разный, различный"
+  },
+  {
+  "original": "back home",
+  "transcription": "[bæk həʊm]",
+  "translation": "у нас дома"
+  },
+  {
+  "original": "to suppose",
+  "transcription": "[səˈpəʊz]",
+  "translation": "предполагать, полагать"
+  },
+  {
+  "original": "public building",
+  "transcription": "[ˈpʌblɪk ˈbɪldɪŋ]",
+  "translation": "общественное здание"
+  },
+  {
+  "original": "architectural",
+  "transcription": "[ɑːkɪˈtektʃ(ə)r(ə)l]",
+  "translation": "архитектурный"
+  }
+  ] 
+},
+ {
+  "title": "Removing the Plaster Cast",
+  "title_ru": "Снятие гипса",
+  "description_en": "Sarah’s broken arm has healed well. The doctor in the hospital decides to remove the plaster and X-ray the arm again to see if the plaster can stay off or not. Sarah cannot look when the nurse cuts off the plaster with her electric scissors. But the nurse has done this many times before and is finished in two minutes.",
+  "image": "https://media.istockphoto.com/photos/cast-removal-picture-id496379100?k=6&m=496379100&s=612x612&w=0&h=9t5er447_8-zXOXq1ENExINTcTj_YR-ArTuDnGu-wdM=",
+  "description_ru": "Сломанная рука у Сары срослась хорошо. Врач в больнице решает снять гипс, сделав еще один рентген руки, чтобы увидеть, можно ли удалять гипс или нет. Саре страшно смотреть, как медсестра срезает гипс своими электрическими ножницами. Но сестра делала это раньше много раз и справляется со всем за пару минут.",
+  "translation_words": [
+  {
+  "original": "to remove",
+  "transcription": "[rɪˈmuːv]",
+  "translation": "снимать, удалять"
+  },
+  {
+  "original": "to decide",
+  "transcription": "[dɪˈsaɪd]",
+  "translation": "решать"
+  },
+  {
+  "original": "to stay off",
+  "transcription": "[steɪɒf]",
+  "translation": "оставаться"
+  },
+  {
+  "original": "to cut off",
+  "transcription": "[ˈkʌtɒf]",
+  "translation": "срезать"
+  },
+  {
+  "original": "electric",
+  "transcription": "[ɪˈlektrɪk]",
+  "translation": "электрический"
+  },
+  {
+  "original": "scissors",
+  "transcription": "[ˈsɪzəz]",
+  "translation": "ножницы"
+  },
+  {
+  "original": "to be finished",
+  "transcription": "[biːˈfɪnɪʃt]",
+  "translation": "оканчиваться, быть законченным"
+  }
+  ] 
+},
+ {
+  "title": "Post",
+  "title_ru": "Почта",
+  "description_en": "Sue: Post Would you take these letters to the post office for me, please? They should have been posted at the start of the week, but I forgot all about them. \nJill: We had better put first class stamps on them then so that they don’t take ages to arrive.",
+  "image": "https://media.glassdoor.com/l/108716/us-postal-inspection-service-office.jpg",
+  "description_ru": "Сью: Ты не отнесешь эти мои письма на почту? Их надо было отправить еще в начале недели, но я совсем о них забыла. \nДжилл: Тогда мы лучше наклеим марки первого класса, чтобы письма не шли целую вечность.",
+  "translation_words": [
+  {
+  "original": "letter",
+  "transcription": "[ˈletə]",
+  "translation": "письмо"
+  },
+  {
+  "original": "post office",
+  "transcription": "[pəʊst ˈɒfɪs]",
+  "translation": "почта, почтамт"
+  },
+  {
+  "original": "to post",
+  "transcription": "[pəʊst]",
+  "translation": "отправить (письма), бросить в почтовый ящик"
+  },
+  {
+  "original": "first class stamp",
+  "transcription": "[fɜːst klɑːs stæmp]",
+  "translation": "марка первого класса"
+  },
+  {
+  "original": "to take ages",
+  "transcription": "[teɪk eɪdʒ]",
+  "translation": "тянуться очень долго, длиться целую вечность"
   }
   ] 
 }
