@@ -1161,6 +1161,357 @@
   "translation": "склоняться к чему-либо"
   }
   ] 
+},
+  {
+  "title": "A Famous Robber",
+  "title_ru": "Знаменитый разбойник",
+  "description_en": "A legendary outlaw is supposed to have lived in Sherwood Forest with a group of followers in the 12th—13th centuries. He is the hero of many ballads and plays because he is said to have robbed the rich to help the poor. According to legend he was bom of a noble family, but when his family did not want to follow the country’s leader their lands were confiscated, and he became an outlaw. \n\n|Do you know the name of the man whose worst enemy was the Sheriff of Nottingham ?|",
+  "image": "https://static.wikia.nocookie.net/tlos-huggers/images/f/f9/Robin_Hood.jpg/revision/latest?cb=20200822094844",
+  "description_ru": "Этот легендарный разбойник якобы жил в Шервудском лесу со своими сотоварищами в XII—XIII вв. Он является героем многих баллад и пьес, ибо он, как говорят, грабил богатых, чтобы помогать бедным. По преданию, он родился в благородной семье, но когда члены семьи не захотели подчиниться правителю страны, их земли были конфискованы, и этот герой стал изгоем. Знаете ли вы имя человека, чьим злейшим врагом был шериф Ноттингемский? \n\n|Robin Hood| \n|Робин Гуд|",
+  "translation_words": [
+  {
+  "original": "outlaw",
+  "transcription": "[ˈaʊtlɔː]",
+  "translation": "вне закона, разбойник"
+  },
+  {
+  "original": "ballads",
+  "transcription": "[ˈbælədz]",
+  "translation": "балладs"
+  },
+  {
+  "original": "to have robbed",
+  "transcription": "[həv rɒb]",
+  "translation": "ограбить"
+  },
+  {
+  "original": "rich",
+  "transcription": "[rɪtʃ]",
+  "translation": "богатый"
+  },
+  {
+  "original": "poor",
+  "transcription": "[pɔː(r)]",
+  "translation": "бедный"
+  },
+  {
+  "original": "confiscate",
+  "transcription": "[ˈkɒnfɪskeɪt]",
+  "translation": "конфискованный, конфисковать"
+  }
+  ] 
+},
+ {
+  "title": "A Door for the Cat",
+  "title_ru": "Дверца для кошки",
+  "description_en": "Eric: I am fed up opening and closing the door to the garden for that cat.\nLoma: Remember you wanted to build in a cat door? \nEric: So I did. I think I saw a ready-made cat door in the supermarket.\nLoma: If it isn’t too dear, I’ll bring it back next time I go shopping.",
+  "image": "https://media.tractorsupply.com/is/image/TractorSupplyCompany/1181941?$456$",
+  "description_ru": "Эрик: Мне уже надоело всё время открывать и закрывать дверь в сад для этой кошки.\nЛорна: Помнится, ты хотел сделать дверцу для кошки?\nЭрик: Ну да. Кажется, я видел в супермаркете готовую кошачью дверцу.\nЛорна: Если она не очень дорогая, я куплю ее, когда в следующий раз пойду в магазин.",
+  "translation_words": [
+  {
+  "original": "to be fed up",
+  "transcription": "[biː fed ʌp]",
+  "translation": "надоесть"
+  },
+  {
+  "original": "cat door",
+  "transcription": "[kæt dɔː]",
+  "translation": "дверца для кошки"
+  },
+  {
+  "original": "to build in",
+  "transcription": "[bɪld ɪn]",
+  "translation": "встроить"
+  },
+  {
+  "original": "so I did",
+  "transcription": "[səʊ aɪ dɪd]",
+  "translation": "верно"
+  },
+  {
+  "original": "dear",
+  "transcription": "[dɪə(r)]",
+  "translation": "дорогой"
+  },
+  {
+  "original": "ready-made",
+  "transcription": "[ˌred.iˈmeɪd]",
+  "translation": "готовый"
+  }
+  ] 
+},
+ {
+  "title": "Do It Yourself",
+  "title_ru": "Сделай сам",
+  "description_en": "Loma bought a cat door for Eric to build into the kitchen door which leads out to the garden. It all looks quite simple on the plan. There is a template to saw around so that the cat door is guaranteed to fit. When Eric has sawn the hole, he places the cat flap in and screws it in from both sides. Now the cat just has to learn to use it",
+  "image": "https://www.skil.ru/media//contentmanager/items/stepbystep/k/a/kattenluikje-4600_600.png",
+  "description_ru": "Лорна купила дверцу для кошки, чтобы Эрик встроил ее в кухонную дверь, ведущую в сад. На плане всё выглядит очень просто. Прилагается шаблон для выпиливания, чтобы дверца подошла точно. Выпилив дырку, Эрик вставляет откидную дверцу и привинчивает с двух сторон. Теперь кошке остается только научиться ею пользоваться.",
+  "translation_words": [
+  {
+  "original": "to lead out to",
+  "transcription": "[liːd aʊt tuː]",
+  "translation": "вести куда-л."
+  },
+  {
+  "original": "template",
+  "transcription": "[ˈtempleɪt]",
+  "translation": "шаблон"
+  },
+  {
+  "original": "to saw",
+  "transcription": "[ˈsɔː]",
+  "translation": "пилить, выпиливать"
+  },
+  {
+  "original": "to guarantee",
+  "transcription": "[ɡær(ə)nˈtiː]",
+  "translation": "гарантировать"
+  },
+  {
+  "original": "flap",
+  "transcription": "[flæp]",
+  "translation": "откидная доска"
+  },
+  {
+  "original": "to screw in",
+  "transcription": "[skruː ɪn]",
+  "translation": "ввинчивать, привинчивать"
+  }
+  ] 
+},
+ {
+  "title": "A World-Famous Book",
+  "title_ru": "Всемирно известная книга",
+  "description_en": "The book we are looking for is a novel by George Orwell which was published in 1945. It is a satire on revolutionary and post-revolutionary Russia, Animals take over the running of a farm and revolt against the humans, but soon a new tyranny replaces the old one. The slogan becomes, “all animals are equal but some are more equal than others”.\n\n|Can you guess the name of this famous book?",
+  "image": "https://kakoy-smysl.ru/wp-content/uploads/2020/10/dzhordzh-oruell-skotnyiy-dvor-870x400.jpeg",
+  "description_ru": "Книга, которую мы ищем, — роман Джорджа Оруэлла, опубликованный в 1945 г. Это сатира на революционную и послереволюционную Россию. Животные убегают с фермы и восстают против людей, но вскоре новая тирания сменяет старую. Девиз таков: «Все звери равны, но некоторые равнее, чем другие». Вы можете угадать название книги?|\n\nAnimal Farm\n«Скотный двор»\n\n      Джордж Оруэлл\nДжордж Оруэлл (настоящее имя Эрик Артур Блэр, 1903—1950) - журналист и писатель. Самые известные его произведения - «Скотный двор» и «1984».",
+  "translation_words": [
+  {
+  "original": "revolutionary",
+  "transcription": "[revəˈluːʃ(ə)n(ə)rɪ]",
+  "translation": "революционный"
+  },
+  {
+  "original": "revolt",
+  "transcription": "[rɪˈvəʊlt]",
+  "translation": "восстание, бунт"
+  },
+  {
+  "original": "tyranny",
+  "transcription": "[ˈtɪr(ə)nɪ]",
+  "translation": "тиранство, жестокость"
+  },
+  {
+  "original": "equal",
+  "transcription": "[ˈiːkw(ə)l]",
+  "translation": "равный, одинаковый"
+  }
+  ] 
+},
+ {
+  "title": "Golf",
+  "title_ru": "Гольф",
+  "description_en": "Golf is a wide-spread pastime for many people in Britain. Every weekend, no matter what the weather is like, thousands of people take their golf bags and play a round of 18 holes before meeting for a drink in the clubhouse. Most golf courses offer the opportunity for visitors to play for the day without actually joining the club.",
+  "image": "https://www.cdsgolfclub.com/wp-content/uploads/2020/02/win-golf.jpg",
+  "description_ru": "Игра в гольф — широко распространенный в Великобритании вид досуга. Каждый уик-энд в любую погоду тысячи людей берут свои сумки для гольфа, чтобы сыграть раунд на 18 лунках, перед тем как пропустить стаканчик в клубе. На большинстве полей для гольфа посетителям предоставляется возможность играть целый день, не вступая в клуб.",
+  "translation_words": [
+  {
+  "original": "wide-spread",
+  "transcription": "[waɪd spred]",
+  "translation": "широко распространенный"
+  },
+  {
+  "original": "pastime",
+  "transcription": "[ˈpɑːstæɪm]",
+  "translation": "вид досуга, времяпровождение"
+  },
+  {
+  "original": "no matter what",
+  "transcription": "[nəʊ ˈmætə wɒt]",
+  "translation": "несмотря на"
+  },
+  {
+  "original": "round",
+  "transcription": "[raʊnd]",
+  "translation": "раунд"
+  },
+  {
+  "original": "hole",
+  "transcription": "[həʊl]",
+  "translation": "дыра; лунка"
+  },
+  {
+  "original": "clubhouse",
+  "transcription": "[ˈklʌbhaʊs]",
+  "translation": "клуб"
+  },
+  {
+  "original": "opportunity",
+  "transcription": "[ɒpəˈtjuːnɪtɪ]",
+  "translation": "возможность"
+  },
+   {
+  "original": "to join",
+  "transcription": "[dʒɔɪn]",
+  "translation": "присоединяться, становиться членом, вступать"
+  }
+  ] 
+},
+ {
+  "title": "A Scottish Architect",
+  "title_ru": "Шотландский архитектор",
+  "description_en": "He was born in Glasgow in 1868. Along with three fellow students at the Glasgow School of Art he designed a completely new style of metalwork, posters, embroideries etc. After qualifying as an architect he designed many houses and public buildings which gained him fame in the whole of Europe. Some of the ftxmiture he designed is still produced today by an Italian furniture company.\n\n|What is the name of this famous architect?|",
+  "image": "https://api.interior.ru/media/thumb/767x767/images/2019-nt/mac.jpg.webp",
+  "description_ru": "Он родился в Глазго в 1868 г. Вместе с тремя друзьями-студентами в Школе искусств в Глазго он разработал совершенно новый стиль работы по металлу, изготовления плакатов, вышивок и т.д. Став архитектором, он спроектировал много жилых домов и общественных зданий, которые прославили его имя во всей Европе. Некоторые из разработанных им образцов предметов мебели и сейчас производятся одной итальянской мебельной фирмой. Как зовут этого знаменитого архитектора? \n\n|Charles Rennie Mackintosh|\nЧарльз Ренни Макинтош",
+  "translation_words": [
+  {
+  "original": "fellow",
+  "transcription": "[ˈfeləʊ]",
+  "translation": "друг, товарищ"
+  },
+  {
+  "original": "completely",
+  "transcription": "[kəmˈpliːtlɪ]",
+  "translation": "полностью, совершенно"
+  },
+  {
+  "original": "embroidery",
+  "transcription": "[ɪmˈbrɔɪd(ə)rɪ]",
+  "translation": "вышивка, вышивание"
+  },
+  {
+  "original": "qualifying",
+  "transcription": "[ˈkwɒlɪfaɪɪŋ]",
+  "translation": "квалификационный"
+  },
+  {
+  "original": "to gain",
+  "transcription": "[ɡeɪn]",
+  "translation": "получать, набирать"
+  }
+  ] 
+},
+ {
+  "title": "A Thunderstorm",
+  "title_ru": "Гроза",
+  "description_en": "Loma: Just look out the window at that lightning!\nEric: The storm seems to be getting closer all the time.\nLoma: Oh dear! The television has gone blank. The lightning must have struck the aerial.\nEric: What a nuisance, the programme was just beginning to get interesting.",
+  "image": "https://www.farmersalmanac.com/wp-content/uploads/2020/11/Best-Places-Cities-Lightning-A193502306-1184x630.jpg",
+  "description_ru": "Лорна: Смотри, какая там молния!\nЭрик: Кажется, гроза всё ближе и ближе.\nЛорна: О Боже! Телевизор отключился. Видно, молния ударила в антенну.\nЭрик: Вот досада, в программе только начало появляться что-то интересное.",
+  "translation_words": [
+  {
+  "original": "thunderstorm",
+  "transcription": "[ˈθʌndəstɔːm]",
+  "translation": "гроза"
+  },
+  {
+  "original": "lightning",
+  "transcription": "[ˈlaɪtnɪŋ]",
+  "translation": "молния"
+  },
+  {
+  "original": "to get closer",
+  "transcription": "[ɡet ˈkləʊzə]",
+  "translation": "приближаться"
+  },
+  {
+  "original": "to go blank",
+  "transcription": "[ɡəʊ blæŋk]",
+  "translation": "исчезать"
+  },
+  {
+  "original": "to strike",
+  "transcription": "[straɪk]",
+  "translation": "ударить (о молнии)"
+  },
+   {
+  "original": "aerial",
+  "transcription": "[ˈeərɪəl]",
+  "translation": "антенна"
+  },
+  {
+  "original": "nuisance",
+  "transcription": "[ˈnjuːs(ə)ns]",
+  "translation": "неприятность, досада"
+  },
+  {
+  "original": "programme",
+  "transcription": "[ˈprəʊɡræm]",
+  "translation": "программа"
+  }
+  ] 
+},
+ {
+  "title": "Winter Sale",
+  "title_ru": "Зимняя распродажа",
+  "description_en": "Jill: There are some really good bargains at that expensive boutique down the road.\nPete: Has the winter sale started already?\nJill: Yes, there is a large sign in the window, saying everything is halfprice.\nPete: I bet you ve already got your eye on some things!",
+  "image": "https://graphicriver.img.customer.envatousercontent.com/files/305315672/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=99b0184a550251a4aac5f00fe70b624f",
+  "description_ru": "Джилл: В дорогом бутике неподалеку есть действительно выгодные предложения.\nПит: Зимняя распродажа уже началась?\nДжилл: Да, там в витрине большой щит, где написано, что всё идет за полцены.\nПит: Бьюсь об заклад, ты уже себе кое-что присмотрела!",
+  "translation_words": [
+  {
+  "original": "winter sale",
+  "transcription": "[ˈwɪntə seɪl]",
+  "translation": "зимняя распродажа"
+  },
+  {
+  "original": "bargain",
+  "transcription": "[ˈbɑːɡɪn]",
+  "translation": "сделка, предложение"
+  },
+  {
+  "original": "expensive",
+  "transcription": "[ɪkˈspensɪv]",
+  "translation": "дорогой, дорогостоящий"
+  },
+  {
+  "original": "large",
+  "transcription": "[lɑːdʒ]",
+  "translation": "большой, обширный"
+  },
+  {
+  "original": "half price",
+  "transcription": "[hɑːf praɪs]",
+  "translation": "полцены"
+  },
+  {
+  "original": "to have an eye on something",
+  "transcription": "[hæv æn aɪ ɒn ˈsʌmθɪŋ]",
+  "translation": "положить глаз на что-либо"
+  }
+  ] 
+},
+ {
+  "title": "A Landmark of London",
+  "title_ru": "Достопримечательность Лондона",
+  "description_en": "There is a large group of buildings on the north bank of the river Thames. It began as a fortress and palace and later became a state prison. Many traitors spent their last days there before being executed. Today the buildings are used as a store for ancient armour and weapons and other items of public interest. They are guarded by the “beefeaters”, which is the popular name for the Yeomen of the Guard.\n\n|Do you know the name of this landmark?|",
+  "image": "https://www.bsigroup.ru/upload/tour/7/9/9/7991016fdb139c3528fdcf2d9ec0207c.jpg",
+  "description_ru": "На северном берегу Темзы находится крупный комплекс зданий. Вначале он был крепостью и дворцом, а позднее стал государственной тюрьмой. Многие преступники провели там свои последние дни перед казнью. Сегодня эти здания используются как хранилища старинного оружия, доспехов и других предметов, представляющих общественный интерес. Их охраняют бифитеры («мясоеды») — таково народное прозвище дворцовой стражи.\n\n|Вы знаете название этой достопримечательности?|\n\nThe Tower of London \nЛондонский Тауэр",
+  "translation_words": [
+  {
+  "original": "fortress",
+  "transcription": "[ˈfɔːtrɪs]",
+  "translation": "крепость"
+  },
+  {
+  "original": "palace",
+  "transcription": "[ˈpælɪs]",
+  "translation": "дворец, особняк"
+  },
+  {
+  "original": "traitor",
+  "transcription": "[ˈtreɪtə]",
+  "translation": "предатель, изменник"
+  },
+  {
+  "original": "execute",
+  "transcription": "[ˈeksɪkjuːt]",
+  "translation": "выполнять, исполнять"
+  },
+  {
+  "original": "ancient",
+  "transcription": "[ˈeɪnʃ(ə)nt]",
+  "translation": "древний, старинный"
+  }
+  ] 
 }
 ]
 
