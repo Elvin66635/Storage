@@ -2475,5 +2475,361 @@
   "translation": "отплатить кому-либо"
   }
   ]
- }
+ },
+  {
+  "title": "A Local Election",
+  "title_ru": "Местные выборы",
+  "description_en": "Pete: I really don’t know who to vote for in the local election.\nSue: You will have to decide soon since the polling stations close at eight.\nPete: Perhaps I will just close my eyes and put a cross somewhere.\nSue: That’s very democratic, isn’t it?",
+  "image": "https://kfor.com/wp-content/uploads/sites/3/2021/02/polls-for-jackie-story.jpg?w=2560&h=1440&crop=1",
+  "description_ru": "Пит: Совершенно не знаю, за кого голосовать на местных выборах.\nСью: Придется поскорее решить, а то избирательные участки закрываются в восемь.\nПит: Наверное, закрою глаза и где-нибудь поставлю крестик.\nСью: Очень демократично, да?",
+  "translation_words": [
+  {
+  "original": "local election",
+  "transcription": "[ˈləʊk(ə)l ɪˈlekʃ(ə)n]",
+  "translation": "выборы в органы местного"
+  },
+  {
+  "original": "to vote",
+  "transcription": "[vəʊt]",
+  "translation": "голосовать"
+  },
+  {
+  "original": "to decide",
+  "transcription": "[vəʊt]",
+  "translation": "решать"
+  },
+  {
+  "original": "polling station",
+  "transcription": "[ˈpəʊlɪŋ ˈsteɪʃ(ə)n]",
+  "translation": "избирательный участок"
+  },
+  {
+  "original": "to close",
+  "transcription": "[kləʊz]",
+  "translation": "закрывать"
+  },
+  {
+  "original": "democratic",
+  "transcription": "[deməˈkrætɪk]",
+  "translation": "демократический, демократичный"
+  }
+  ] 
+},
+ {
+  "title": "The British Electoral System",
+  "title_ru": "Британская избирательная система",
+  "description_en": "In Britain as opposed to Germany, for example, the people vote less for a party than for a candidate. This explains why a party which would maybe only get 30 per cent of the votes gets 50 per cent or so of the members of parliament. The smaller parties, in particular, like the Liberals, oppose this system as being unfair.",
+  "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1063184564%2F960x0.jpg%3Ffit%3Dscale",
+  "description_ru": "В Великобритании, в отличие, например, от Германии, люди реже голосуют за партию, чем за кандидата. Этим объясняет тот факт, что партия, которая могла бы получить лишь 30 процен тов голосов, может иметь 50 процентов среди членов парламен та. Особенно малые партии, такие, как либеральная, выступа ют против этой системы, считая ее несправедливой.",
+  "translation_words": [
+  {
+  "original": "electoral system",
+  "transcription": "[ɪˈlekt(ə)r(ə)l ˈsɪstəm]",
+  "translation": "избирательная система"
+  },
+  {
+  "original": "candidate",
+  "transcription": "[ˈkændɪdeɪt]",
+  "translation": "кандидат"
+  },
+  {
+  "original": "percent",
+  "transcription": "[pəˈsent]",
+  "translation": "процент"
+  },
+  {
+  "original": "member of parliament",
+  "transcription": "[ˈmembə ɒvˈpɑːləm(ə)nt]",
+  "translation": "член парламента"
+  },
+  {
+  "original": "especially",
+  "transcription": "[ɪˈspeʃ(ə)lɪ]",
+  "translation": "особенно"
+  },
+  {
+  "original": "to oppose",
+  "transcription": "[əˈpəʊz]",
+  "translation": "быть против, выступать против"
+  }
+  ] 
+},
+ {
+  "title": "An English Artist",
+  "title_ru": "Английский художник",
+  "description_en": "This English illustrator and writer was born in 1872. He was England’s main representative of Art Nouveau. He worked as art editor of “The Yellow Book” but was dismissed in 1895 because of a scandal. His greatest achievement as a writer is “The Story of Venus and Tannhauser”, a rather erotic romance. He became very popular with his illustrations for Oscar Wilde’s “Salome”.\n\n|What is the name of this artist who died of tuberculosis when he was only 25years old?|",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcm5zCYIK0Miq4_4cQVsuPvSqJtEZDLaeGw&usqp=CAU",
+  "description_ru": "Этот английский иллюстратор и писатель родился в 1872 г. был ведущим представителем стиля модерн в Англии. Он был художественным редактором «Желтой книги», но был уволев в 1895 г. из-за скандала. Его главное достижение как литератора — роман с элементами эротики «История Венеры и Тангейзера ». Этот художник стал очень популярным благодаря своик иллюстрациям к «Саломее» Оскара Уайльда.\n\n|Как зовут этого художника, который умер от туберкулеза в возрасте 25 лет?|\n\n|Aubrey Beardsley (1872—1898)|\n|Обри Бердслей|",
+  "translation_words": [
+  {
+  "original": "representative",
+  "transcription": "[reprɪˈzentətɪv]",
+  "translation": "представитель"
+  },
+  {
+  "original": "to dismiss",
+  "transcription": "[dɪsˈmɪs]",
+  "translation": "увольнять, освобождать"
+  },
+  {
+  "original": "achievement",
+  "transcription": "[əˈtʃiːvm(ə)nt]",
+  "translation": "достижение, успех"
+  },
+  {
+  "original": "rather",
+  "transcription": "[ˈrɑːðə]",
+  "translation": "скорее, довольно, вернее"
+  }
+  ] 
+},
+ {
+  "title": "Fairy-Tales",
+  "title_ru": "Сказки",
+  "description_en": "Children today, in the age of television and video recorders, still like to be read fairy-tales before they go to bed. The old stories such as Snow White and the Seven Dwarfs or Cinderella are still popular. Puss in Boots or Hansel and Gretel are still as well-known to children today as they were to their parents and grandparents.",
+  "image": "https://cf.ltkcdn.net/childrens-books/images/orig/209431-2143x1399-Open-book-with-fairy-tale-characters.jpg",
+  "description_ru": "Сегодня, в эпоху телевизоров и видеомагнитофонов, дети все равно любят, чтобы им читали сказки перед сном. Старые сказки — такие как «Белоснежка и семь гномов» или «Золушка», по прежнему любимы. «Кот в сапогах» или «Гретель и Гензель» и сейчас так же хорошо известны детям, как их родителям, бабушкам и дедушкам.",
+  "translation_words": [
+  {
+  "original": "fairy-tale",
+  "transcription": "[ˈfeərɪteɪl]",
+  "translation": "сказка"
+  },
+  {
+  "original": "age",
+  "transcription": "[eɪdʒ]",
+  "translation": "возраст, поколение"
+  },
+  {
+  "original": "Snow White",
+  "transcription": "[snəʊ waɪt]",
+  "translation": "Белоснежка"
+  },
+ {
+  "original": "dwarf",
+  "transcription": "[dwɔːf]",
+  "translation": "гном"
+  },
+  {
+  "original": "Cinderella",
+  "transcription": "[sɪndəˈrelə]",
+  "translation": "Золушка"
+  },
+  {
+  "original": "popular",
+  "transcription": "[ˈpɒpjʊlə]",
+  "translation": "популярный, любимый"
+  },
+  {
+  "original": "Puss in Boots",
+  "transcription": "[pʊs ɪn buːt]",
+  "translation": "Кот в сапогах"
+  }
+  ] 
+},
+ {
+  "title": "A May Wedding",
+  "title_ru": "Свадьба в мае",
+  "description_en": "Sarah’s cousin is going to get married today on May 1st. About a hundred people have been invited to the reception after the wedding. A function room has been booked in a hotel and a three man band hired to provide music. Food and drink have also been ordered. When the buffet is layed out it looks as if it would feed twice the amount of people.",
+  "image": "https://i.pinimg.com/236x/3d/f0/4b/3df04b5e8cc912d1ee440f89f5743662--the-twenties-dutch.jpg",
+  "description_ru": "Двоюродная сестра Сары выходит замуж сегодня, 1 мая. Около ста человек приглашено на прием после бракосочетания. В одной из гостиниц сняли банкетный зал, пригласили музы кальное трио. Еда и напитки также заказаны. Когда столы накрыты, кажется, что этого хватит для того, чтобы накормить в два раза больше людей.",
+  "translation_words": [
+  {
+  "original": "reception",
+  "transcription": "[rɪˈsepʃ(ə)n]",
+  "translation": "прием"
+  },
+  {
+  "original": "function room",
+  "transcription": "[ˈfʌŋ(k)ʃ(ə)n ruːm]",
+  "translation": "банкетный зал"
+  },
+ {
+  "original": "to hire",
+  "transcription": "[ˈhaɪə]",
+  "translation": "нанимать, снимать"
+  },
+  {
+  "original": "to provide",
+  "transcription": "[prəˈvaɪd]",
+  "translation": "обеспечивать"
+  },
+  {
+  "original": "buffet",
+  "transcription": "[ˈbʊfeɪ]",
+  "translation": "буфет"
+  },
+  {
+  "original": "to lay out",
+  "transcription": "[leɪ ˈaʊt]",
+  "translation": "выкладывать, накрывать"
+  },
+  {
+  "original": "to feed",
+  "transcription": "[fiːd]",
+  "translation": "кормить"
+  },
+  {
+  "original": "twice",
+  "transcription": "[twaɪs]",
+  "translation": "дважды"
+  },
+  {
+  "original": "amount",
+  "transcription": "[əˈmaʊnt]",
+  "translation": "количество"
+  }
+  ] 
+},
+ {
+  "title": "Mail from the Bank",
+  "title_ru": "Письмо из банка",
+  "description_en": "The postman has just brought the mail and Pete sees the familiar envelope containing his bank statement. On opening the letter he finds that his account is, as usual, overdrawn. He tells himself and Sue that they must spend less for a while so that the account is balanced again. But he says this almost every month and it never seems to work.",
+  "image": "https://www.mybanktracker.com/news/wp-content/uploads/2018/03/man-with-no-money-in-wallet-e1521738605452.jpg",
+  "description_ru": "Почтальон только что принес почту, и Пит видит знакомый конверт, в котором находится выписка с банковских счетов. Открыв письмо, он видит, что счет, как обычно, превышен. Он говорит себе и Сью, что некоторое время им придется меньше тратить, чтобы сбалансировать счет. Но это он говорит почти каждый месяц, и, кажется, это никогда не действует.",
+  "translation_words": [
+  {
+  "original": "to bring, (brought, brought)",
+  "transcription": "[brɪŋ, brɔːt, brɔːt]",
+  "translation": "приносить"
+  },
+  {
+  "original": "mail",
+  "transcription": "[meɪl]",
+  "translation": "почта"
+  },
+  {
+  "original": "familiar",
+  "transcription": "[fəˈmɪlɪə]",
+  "translation": "знакомый, известный"
+  },
+  {
+  "original": "envelope",
+  "transcription": "[ˈenvələʊp]",
+  "translation": "конверт"
+  },
+ {
+  "original": "to overdraw",
+  "transcription": "[əʊvəˈdrɔː]",
+  "translation": "превышать"
+  },
+  {
+  "original": "to balance",
+  "transcription": "[ˈbæl(ə)ns]",
+  "translation": "сбалансировать, сравнять"
+  },
+  {
+  "original": "to work",
+  "transcription": "[wɜːk]",
+  "translation": "работать, действовать на кого-либо"
+  }
+  ] 
+},
+ {
+  "title": "A Typical English Dinner",
+  "title_ru": "Типично английский обед",
+  "description_en": "Loma wants to cook at least one special meal for their American guest. She has bought a large piece of beef from the butcher and prepares the traditional English meal of roast beef, Yorkshire pudding, potatoes and peas. Mike, the young man from America, is very impressed and asks Loma to give him the recipe for Yorkshire pudding.",
+  "image": "https://images.eatsmarter.com/sites/default/files/styles/max_size/public/roast-beef-english-style-with-yorkshire-pudding-573850.jpg",
+  "description_ru": "Лорна хочет приготовить для своего американского гостя по крайней мере одно особенное блюдо. Она купила у мясника большой кусок говядины и готовит традиционный английский обед — ростбиф с йоркширским пудингом, картофелем и горошком. Майк, молодой человек из Америки, весьма впечатлен и просит у Лорны рецепт йоркширского пудинга.",
+  "translation_words": [
+  {
+  "original": "special",
+  "transcription": "[ˈspeʃ(ə)l]",
+  "translation": "специальный, особенный"
+  },
+  {
+  "original": "to prepare",
+  "transcription": "[prɪˈpeə]",
+  "translation": "готовить"
+  },
+  {
+  "original": "Yorkshire pudding",
+  "transcription": "[ˈjɔːkʃ(ɪ)ə ˈpʊdɪŋ]",
+  "translation": "йоркширский пудинг (пирог из взбитого теста, запеченный под куском мяса)"
+  },
+  {
+  "original": "pea",
+  "transcription": "[piː]",
+  "translation": "горошек"
+  },
+  {
+  "original": "to impress",
+  "transcription": "[ɪmˈpres]",
+  "translation": "впечатлять"
+  },
+  {
+  "original": "recipe",
+  "transcription": "[ˈresɪpɪ]",
+  "translation": "рецепт"
+  }
+  ] 
+},
+ {
+  "title": "A Town in Scotland",
+  "title_ru": "Город в Шотландии",
+  "description_en": "The town we are looking for is situated in the county of Fife on the east coast of Scotland. It is the site of one of the oldest universities in Britain which was founded in 1410. There is also an ancient castle there and a cathedral. Golfers will know the town because it is the seat of the Royal and Ancient Golf Club, the governing body for the game of golf.\n|What is the name of this town ?|",
+  "image": "https://i1.wp.com/leaversmagazine.com/wp-content/uploads/2020/03/uni-of-st-andrews.jpg?resize=777%2C437",
+  "description_ru": "Город, который мы ищем, расположен в графстве Файф на восточном побережье Шотландии. В нем находится один из старейших университетов Великобритании, который был основан в 1410 г. Также имеются старинный замок и собор. Любители гольфа угадают этот город, так как он является местонахождением Королевского и Старинного гольф-клуба — главного органа правления игры в гольф.\n\n|Как называется этот город?|\n\n|St. Andrews|\n|Сент-Эндрюс|",
+  "translation_words": [
+  {
+  "original": "to situate",
+  "transcription": "[ˈsɪtʃʊeɪt]",
+  "translation": "располагать"
+  },
+  {
+  "original": "to cost, (cost, cost)",
+  "transcription": "[kɒst]",
+  "translation": "стоить, обходиться"
+  },
+  {
+  "original": "to site",
+  "transcription": "[saɪt]",
+  "translation": "помещать, располагать"
+  },
+  {
+  "original": "to find (found, found)",
+  "transcription": "[faɪnd]",
+  "translation": "находить, считать, обрести"
+  },
+  {
+  "original": "governing body",
+  "transcription": "[ˈɡʌvənɪŋ ˈbɒdɪ]",
+  "translation": "руководящий орган"
+  }
+  ] 
+},
+ {
+  "title": "A Broken Crown",
+  "title_ru": "Сломанная коронка",
+  "description_en": "\nEric: Ouch! I think that bit of toast has broken my crown off.\nLoma: You had better make an appointment at the dentist’s then.\nEric:I don’t want an appointment, I will drive there right now. I can’t possibly go to work with this pain.",
+  "image": "https://www.nassoolsennapolitano.com/wp-content/uploads/2019/03/general.jpg",
+  "description_ru": "Эрик: Ой! Похоже, этот кусок гренки сломал мне коронку. Лорна: Тогда тебе надо бы записаться к зубному врачу. Эрик: Я не хочу записываться, я поеду туда прямо сейчас. Я просто не могу идти на работу с такой болью.",
+  "translation_words": [
+  {
+  "original": "to break (broke, broken)",
+  "transcription": "[breɪk, brəʊk, ˈbrəʊk(ə)n]",
+  "translation": "ломать"
+  },
+  {
+  "original": "crown",
+  "transcription": "[kraʊn]",
+  "translation": "корона; коронка {зубная)"
+  },
+  {
+  "original": "appointment",
+  "transcription": "[əˈpɔɪntm(ə)nt]",
+  "translation": "назначенный срок, прием (у врача и т.п.)"
+  },
+  {
+  "original": "dentist",
+  "transcription": "[ˈdentɪst]",
+  "translation": "зубной врач"
+  },
+  {
+  "original": "possibly",
+  "transcription": "[ˈpɒsɪblɪ]",
+  "translation": "возможно"
+  }
+  ] 
+}
 ]
