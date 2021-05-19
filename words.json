@@ -1,204 +1,390 @@
- [
-    {
-        "word": "abandon",
-        "phonetics": [
-            {
-                "text": "/əˈbændən/",
-                "audio": "https://lex-audio.useremarkable.com/mp3/abandon_us_1.mp3"
-            }
+{
+    "pages": [
+        [
+            {"word":"abandon","phonetic":"/əˈbændən/","audio":"https://lex-audio.useremarkable.com/mp3/abandon_us_1.mp3","translation":"оставить, забросить"},
+            {"word":"addict","phonetic":"/ˈædɪkt/","audio":"https://lex-audio.useremarkable.com/mp3/addict_us_1.mp3","translation":"наркоман, привыкать"},
+            {"word":"abate","phonetic":"/əˈbeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/abate_us_1.mp3","translation":"уменьшаться, ослабевать"},
+            {"word":"addition","phonetic":"/əˈdɪʃ(ə)n/","audio":"https://lex-audio.useremarkable.com/mp3/addition_us_1.mp3","translation":"добавление, сложение"},
+            {"word":"adhere","phonetic":"/ədˈhɪr/","audio":"https://lex-audio.useremarkable.com/mp3/adhere_us_1.mp3","translation":"придерживаться"},
+            {"word":"adjacent","phonetic":"/əˈdʒeɪs(ə)nt/","audio":"https://lex-audio.useremarkable.com/mp3/adjacent_us_1.mp3","translation":"смежный, прилегающий"},
+            {"word":"adjective","phonetic":"/ˈædʒəktɪv/","audio":"https://lex-audio.useremarkable.com/mp3/adjective_us_1.mp3","translation":"прилагательное"},
+            {"word":"abrupt","phonetic":"/əˈbrəpt/","audio":"https://lex-audio.useremarkable.com/mp3/abrupt_us_1.mp3","translation":"крутой, резкий"},
+            {"word":"abound","phonetic":"/əˈbaʊnd/","audio":"https://lex-audio.useremarkable.com/mp3/abound_us_1.mp3","translation":"изобиловать"},
+            {"word":"abnormal","phonetic":"/æbˈnɔrməl/","audio":"https://lex-audio.useremarkable.com/mp3/abnormal_us_1.mp3","translation":"ненормальный, аномальный"}
         ],
-        "meanings": [
-            {
-                "partOfSpeech": "transitive verb",
-                "definitions": [
-                    {
-                        "definition": "Cease to support or look after (someone); desert.",
-                        "synonyms": [
-                            "desert",
-                            "leave",
-                            "leave high and dry",
-                            "turn one's back on",
-                            "cast aside",
-                            "break with",
-                            "break up with"
-                        ],
-                        "example": "her natural mother had abandoned her at an early age"
-                    },
-                    {
-                        "definition": "Give up completely (a course of action, a practice, or a way of thinking)",
-                        "synonyms": [
-                            "renounce",
-                            "relinquish",
-                            "dispense with",
-                            "forswear",
-                            "disclaim",
-                            "disown",
-                            "disavow",
-                            "discard",
-                            "wash one's hands of"
-                        ],
-                        "example": "he had clearly abandoned all pretense of trying to succeed"
-                    },
-                    {
-                        "definition": "Allow oneself to indulge in (a desire or impulse)",
-                        "synonyms": [
-                            "indulge in",
-                            "give way to",
-                            "give oneself up to",
-                            "yield to",
-                            "lose oneself in",
-                            "lose oneself to"
-                        ],
-                        "example": "they abandoned themselves to despair"
-                    }
-                ]
-            },
-            {
-                "partOfSpeech": "noun",
-                "definitions": [
-                    {
-                        "definition": "Complete lack of inhibition or restraint.",
-                        "synonyms": [
-                            "uninhibitedness",
-                            "recklessness",
-                            "lack of restraint",
-                            "lack of inhibition",
-                            "unruliness",
-                            "wildness",
-                            "impulsiveness",
-                            "impetuosity",
-                            "immoderation",
-                            "wantonness"
-                        ],
-                        "example": "she sings and sways with total abandon"
-                    }
-                ]
-            }
-        ]
-    },
-  {
-        "word": "abate",
-        "phonetics": [
-            {
-                "text": "/əˈbeɪt/",
-                "audio": "https://lex-audio.useremarkable.com/mp3/abate_us_1.mp3"
-            }
+        [
+            {"word":"abort","phonetic":"/əˈbɔrt/","audio":"https://lex-audio.useremarkable.com/mp3/abort_us_1.mp3","translation":"прерывать"},
+            {"word":"about","phonetic":"/əˈbaʊt/","audio":"https://lex-audio.useremarkable.com/mp3/about_us_1.mp3","translation":"примерно"},
+            {"word":"abide","phonetic":"/əˈbaɪd/","audio":"https://lex-audio.useremarkable.com/mp3/abide_us_1.mp3","translation":"смириться, выносить"},
+            {"word":"aboard","phonetic":"/əˈbɔrd/","audio":"https://lex-audio.useremarkable.com/mp3/aboard_us_1.mp3","translation":"на борту"},
+            {"word":"abroad","phonetic":"/əˈbrɔd/","audio":"https://lex-audio.useremarkable.com/mp3/abroad_us_1.mp3","translation":"за границу"},
+            {"word":"able","phonetic":"/ˈeɪbəl/","audio":"https://lex-audio.useremarkable.com/mp3/able_us_1.mp3","translation":"способный, могущий"},
+            {"word":"abduct","phonetic":"/æbˈdəkt/","audio":"https://lex-audio.useremarkable.com/mp3/abduct_us_1_rr.mp3","translation":"похищать"},
+            {"word":"abolish","phonetic":"/əˈbɑlɪʃ/","audio":"https://lex-audio.useremarkable.com/mp3/abolish_us_1.mp3","translation":"упразднять"},
+            {"word":"adjust","phonetic":"/əˈdʒəst/","audio":"https://lex-audio.useremarkable.com/mp3/adjust_us_1.mp3","translation":"настраивать, поправлять и т.д."},
+            {"word":"admire","phonetic":"/ədˈmaɪ(ə)r/","audio":"https://lex-audio.useremarkable.com/mp3/admire_us_1.mp3","translation":"восхищаться"},
+            {"word":"acute","phonetic":"/əˈkjut/","audio":"https://lex-audio.useremarkable.com/mp3/acute_us_1.mp3","translation":"острый"}
         ],
-        "meanings": [
-            {
-                "partOfSpeech": "intransitive verb",
-                "definitions": [
-                    {
-                        "definition": "(of something perceived as hostile, threatening, or negative) become less intense or widespread.",
-                        "synonyms": [
-                            "subside",
-                            "die away",
-                            "die down",
-                            "die out",
-                            "drop away",
-                            "drop off",
-                            "lessen",
-                            "ease",
-                            "ease off",
-                            "let up",
-                            "decrease",
-                            "diminish",
-                            "moderate",
-                            "decline",
-                            "fade",
-                            "dwindle",
-                            "slacken",
-                            "recede",
-                            "cool off",
-                            "tail off",
-                            "peter out",
-                            "taper off",
-                            "wane",
-                            "ebb",
-                            "relent",
-                            "desist",
-                            "weaken",
-                            "become weaker",
-                            "come to an end"
-                        ],
-                        "example": "the storm suddenly abated"
-                    }
-                ]
-            }
-        ]
-    },
-  {
-        "word": "hello",
-        "phonetics": [
-            {
-                "text": "/həˈloʊ/",
-                "audio": "https://lex-audio.useremarkable.com/mp3/hello_us_1_rr.mp3"
-            },
-            {
-                "text": "/hɛˈloʊ/",
-                "audio": "https://lex-audio.useremarkable.com/mp3/hello_us_2_rr.mp3"
-            }
+        [
+            {"word":"adamant","phonetic":"/ˈædəmənt/","audio":"https://lex-audio.useremarkable.com/mp3/adamant_us_1.mp3","translation":"непреклонный"},
+            {"word":"admit","phonetic":"/ədˈmɪt/","audio":"https://lex-audio.useremarkable.com/mp3/admit_us_1.mp3","translation":"признавать, допускать"},
+            {"word":"adolescent","phonetic":"/ˌædəˈlɛs(ə)nt/","audio":"https://lex-audio.useremarkable.com/mp3/adolescent_us_1.mp3","translation":"подросток, подростковый"},
+            {"word":"adopt","phonetic":"/əˈdɑpt/","audio":"https://lex-audio.useremarkable.com/mp3/adopt_us_1.mp3","translation":"принимать, перенимать"},
+            {"word":"adopt","phonetic":"/əˈdɑpt/","audio":"https://lex-audio.useremarkable.com/mp3/adopt_us_1.mp3","translation":"усыновить или взять (животное)"},
+            {"word":"adore","phonetic":"/əˈdɔ(ə)r/","audio":"https://lex-audio.useremarkable.com/mp3/adore_us_1.mp3","translation":"обожать"},
+            {"word":"adorn","phonetic":"/əˈdɔrn/","audio":"https://lex-audio.useremarkable.com/mp3/adorn_us_1.mp3","translation":"украшать"},
+            {"word":"adult","phonetic":"/əˈdəlt/","audio":"https://lex-audio.useremarkable.com/mp3/adult_us_2_rr.mp3","translation":"взрослый"},
+            {"word":"adultery","phonetic":"/əˈdəlt(ə)ri/","audio":"https://lex-audio.useremarkable.com/mp3/adultery_us_1.mp3","translation":"прелюбодеяние, неверность"},
+            {"word":"advance","phonetic":"/ədˈvæns/","audio":"https://lex-audio.useremarkable.com/mp3/advance_us_1.mp3","translation":"продвигаться, продвижение"}
         ],
-        "meanings": [
-            {
-                "partOfSpeech": "noun",
-                "definitions": [
-                    {
-                        "definition": "An utterance of “hello”; a greeting.",
-                        "synonyms": [
-                            "greeting",
-                            "welcome",
-                            "salutation",
-                            "saluting",
-                            "hailing",
-                            "address",
-                            "hello",
-                            "hallo"
-                        ],
-                        "example": "she was getting polite nods and hellos from people"
-                    }
-                ]
-            }
-           
-        ]
-    },
-  {
-        "word": "abduct",
-        "phonetics": [
-            {
-                "text": "/æbˈdəkt/",
-                "audio": "https://lex-audio.useremarkable.com/mp3/abduct_us_1_rr.mp3"
-            },
-            {
-                "text": "/əbˈdəkt/",
-                "audio": "https://lex-audio.useremarkable.com/mp3/abduct_us_2_rr.mp3"
-            }
+        [
+            {"word":"advantage","phonetic":"/ədˈvæn(t)ɪdʒ/","audio":"https://lex-audio.useremarkable.com/mp3/advantage_us_1.mp3","translation":"преимущество"},
+            {"word":"absorb","phonetic":"/əbˈzɔrb/","audio":"https://lex-audio.useremarkable.com/mp3/absorb_us_2.mp3","translation":"впитывать, поглощать"},
+            {"word":"abuse","phonetic":"/əˈbjuz/","audio":"https://lex-audio.useremarkable.com/mp3/abuse_us_2.mp3","translation":"оскорблять, бранить, брань"},
+            {"word":"acclaim","phonetic":"/əˈkleɪm/","audio":"https://lex-audio.useremarkable.com/mp3/acclaim_us_1.mp3","translation":"приветствовать, аплодировать"},
+            {"word":"acknowledge","phonetic":"/əkˈnɑlədʒ/","audio":"https://lex-audio.useremarkable.com/mp3/acknowledge_us_1.mp3","translation":"признавать, подтверждать"},
+            {"word":"accident","phonetic":"/ˈæksədənt/","audio":"https://lex-audio.useremarkable.com/mp3/accident_us_1.mp3","translation":"случайность"},
+            {"word":"acquire","phonetic":"/əˈkwaɪ(ə)r/","audio":"https://lex-audio.useremarkable.com/mp3/acquire_us_1.mp3","translation":"обретать"},
+            {"word":"acid","phonetic":"/ˈæsəd/","audio":"https://lex-audio.useremarkable.com/mp3/acid_us_1.mp3","translation":"кислота"},
+            {"word":"accommodate","phonetic":"/əˈkɑməˌdeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/accommodate_us_1.mp3","translation":"размещать, вмещать"},
+            {"word":"ache","phonetic":"/eɪk/","audio":"https://lex-audio.useremarkable.com/mp3/ache_us_1.mp3","translation":"боль, болеть"}
         ],
-        "meanings": [
-            {
-                "partOfSpeech": "transitive verb",
-                "definitions": [
-                    {
-                        "definition": "Take (someone) away illegally by force or deception; kidnap.",
-                        "synonyms": [
-                            "abduct",
-                            "carry off",
-                            "capture",
-                            "seize",
-                            "snatch",
-                            "hold to ransom",
-                            "take as hostage",
-                            "hijack"
-                        ],
-                        "example": "the millionaire who disappeared may have been abducted"
-                    },
-                    {
-                        "definition": "(of a muscle) move (a limb or part) away from the midline of the body or from another part.",
-                        "example": "the posterior rectus muscle, which abducts the eye"
-                    }
-                ]
-            }
+        [
+            {"word":"accident","phonetic":"/ˈæksədənt/","audio":"https://lex-audio.useremarkable.com/mp3/accident_us_1.mp3","translation":"происшествие, напр.  ДТП"},
+            {"word":"access","phonetic":"/ˈækˌsɛs/","audio":"https://lex-audio.useremarkable.com/mp3/access_us_5.mp3","translation":"доступ"},
+            {"word":"accompany","phonetic":"/əˈkəmp(ə)ni/","audio":"https://lex-audio.useremarkable.com/mp3/accompany_us_1.mp3","translation":"сопровождать"},
+            {"word":"accord","phonetic":"/əˈkɔrd/","audio":"https://lex-audio.useremarkable.com/mp3/accord_us_1.mp3","translation":"согласие"},
+            {"word":"account","phonetic":"/əˈkaʊnt/","audio":"https://lex-audio.useremarkable.com/mp3/account_us_1.mp3","translation":"отчёт"},
+            {"word":"act","phonetic":"/ækt/","audio":"https://lex-audio.useremarkable.com/mp3/act_us_2.mp3","translation":"действовать"},
+            {"word":"accomplish","phonetic":"/əˈkɑmplɪʃ/","audio":"https://lex-audio.useremarkable.com/mp3/accomplish_us_1.mp3","translation":"выполнить, завершить"},
+            {"word":"account","phonetic":"/əˈkaʊnt/","audio":"https://lex-audio.useremarkable.com/mp3/account_us_1.mp3","translation":"счёт (в банке)"},
+            {"word":"accurate","phonetic":"/ˈækjərət/","audio":"https://lex-audio.useremarkable.com/mp3/accurate_us_1.mp3","translation":"точный"},
+            {"word":"accustom","phonetic":"/əˈkəstəm/","audio":"https://lex-audio.useremarkable.com/mp3/accustom_us_1.mp3","translation":"приучить"}
+        ],
+        [
+            {"word":"accessory","phonetic":"/əkˈsɛs(ə)ri/","audio":"https://lex-audio.useremarkable.com/mp3/accessory_us_1.mp3","translation":"принадлежность, аксессуар"},
+            {"word":"acquaint","phonetic":"/əˈkweɪnt/","audio":"https://lex-audio.useremarkable.com/mp3/acquaint_us_1.mp3","translation":"знакомить"},
+            {"word":"accuse","phonetic":"/əˈkjuz/","audio":"https://lex-audio.useremarkable.com/mp3/accuse_us_1.mp3","translation":"обвинять"},
+            {"word":"achieve","phonetic":"/əˈtʃiv/","audio":"https://lex-audio.useremarkable.com/mp3/achieve_us_1.mp3","translation":"достигать"},
+            {"word":"absent","phonetic":"/ˈæbsənt/","audio":"https://lex-audio.useremarkable.com/mp3/absent_us_1.mp3","translation":"отсутствующий"},
+            {"word":"abundant","phonetic":"/əˈbəndənt/","audio":"https://lex-audio.useremarkable.com/mp3/abundant_us_1.mp3","translation":"обильный"},
+            {"word":"acquit","phonetic":"/əˈkwɪt/","audio":"https://lex-audio.useremarkable.com/mp3/acquit_us_1.mp3","translation":"оправдать (в суде)"},
+            {"word":"accept","phonetic":"/əkˈsɛpt/","audio":"https://lex-audio.useremarkable.com/mp3/accept_us_1.mp3","translation":"принять"},
+            {"word":"accelerate","phonetic":"/əkˈsɛləˌreɪt/","audio":"https://lex-audio.useremarkable.com/mp3/accelerate_us_1.mp3","translation":"ускорять"},
+            {"word":"across","phonetic":"/əˈkrɔs/","audio":"https://lex-audio.useremarkable.com/mp3/across_us_1.mp3","translation":"за, через"},
+            {"word":"abuse","phonetic":"/əˈbjuz/","audio":"https://lex-audio.useremarkable.com/mp3/abuse_us_2.mp3","translation":"злоупотреблять"}
+        ],
+        [
+            {"word":"abuse","phonetic":"/əˈbjuz/","audio":"https://lex-audio.useremarkable.com/mp3/abuse_us_2.mp3","translation":"насилие, домогательство"},
+            {"word":"adventure","phonetic":"/ædˈvɛn(t)ʃər/","audio":"https://lex-audio.useremarkable.com/mp3/adventure_us_1.mp3","translation":"приключение"},
+            {"word":"adverb","phonetic":"/ˈædˌvərb/","audio":"https://lex-audio.useremarkable.com/mp3/adverb_us_1.mp3","translation":"наречие"},
+            {"word":"adversary","phonetic":"/ˈædvərˌsɛri/","audio":"https://lex-audio.useremarkable.com/mp3/adversary_us_1.mp3","translation":"противник, соперник"},
+            {"word":"adverse","phonetic":"/ædˈvərs/","audio":"https://lex-audio.useremarkable.com/mp3/adverse_us_2_rr.mp3","translation":"неблагоприятный"},
+            {"word":"advertise","phonetic":"/ˈædvərˌtaɪz/","audio":"https://lex-audio.useremarkable.com/mp3/advertise_us_1.mp3","translation":"рекламировать"},
+            {"word":"advice","phonetic":"/ədˈvaɪs/","audio":"https://lex-audio.useremarkable.com/mp3/advice_us_1.mp3","translation":"совет (неисчисл!)"},
+            {"word":"advise","phonetic":"/ədˈvaɪz/","audio":"https://lex-audio.useremarkable.com/mp3/advise_us_1.mp3","translation":"советовать"},
+            {"word":"advocate","phonetic":"/ˈædvəkət/","audio":"https://lex-audio.useremarkable.com/mp3/advocate_us_2.mp3","translation":"защищать, отстаивать"},
+            {"word":"aerial","phonetic":"/ˈɛriəl/","audio":"https://lex-audio.useremarkable.com/mp3/aerial_us_1.mp3","translation":"воздушный"},
+            {"word":"aerial","phonetic":"/ˈɛriəl/","audio":"https://lex-audio.useremarkable.com/mp3/aerial_us_1.mp3","translation":"антенна"}
+        ],
+        [
+            {"word":"affair","phonetic":"/əˈfɛr/","audio":"https://lex-audio.useremarkable.com/mp3/affair_us_1.mp3","translation":"дело, занятие"},
+            {"word":"affair","phonetic":"/əˈfɛr/","audio":"https://lex-audio.useremarkable.com/mp3/affair_us_1.mp3","translation":"роман, любовная история"},
+            {"word":"affect","phonetic":"/əˈfɛkt/","audio":"https://lex-audio.useremarkable.com/mp3/affect_us_1.mp3","translation":"воздействовать"},
+            {"word":"affection","phonetic":"/əˈfɛkʃ(ə)n/","audio":"https://lex-audio.useremarkable.com/mp3/affection_us_1.mp3","translation":"привязанность, влечение"},
+            {"word":"affiliate","phonetic":"/əˈfɪliˌeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/affiliate_us_1.mp3","translation":"филиал, отделение, мл. партнёр"},
+            {"word":"affirm","phonetic":"/əˈfərm/","audio":"https://lex-audio.useremarkable.com/mp3/affirm_us_1.mp3","translation":"утверждать, подтверждать"},
+            {"word":"afflict","phonetic":"/əˈflɪkt/","audio":"https://lex-audio.useremarkable.com/mp3/afflict_us_1.mp3","translation":"поражать, вредить"},
+            {"word":"affluent","phonetic":"/ˈæfluənt/","audio":"https://lex-audio.useremarkable.com/mp3/affluent_us_1.mp3","translation":"обеспеченный, состоятельный"},
+            {"word":"afford","phonetic":"/əˈfɔrd/","audio":"https://lex-audio.useremarkable.com/mp3/afford_us_1.mp3","translation":"позволить себе"},
+            {"word":"afraid","phonetic":"/əˈfreɪd/","audio":"https://lex-audio.useremarkable.com/mp3/afraid_us_1.mp3","translation":"напуганный"},
+            {"word":"aftermath","phonetic":"/ˈæftərˌmæθ/","audio":"https://lex-audio.useremarkable.com/mp3/aftermath_us_1.mp3","translation":"последствие, результат"}
+        ],
+        [
+            {"word":"age","phonetic":"/eɪdʒ/","audio":"https://lex-audio.useremarkable.com/mp3/age_us_1.mp3","translation":"век, эпоха"},
+            {"word":"age","phonetic":"/eɪdʒ/","audio":"https://lex-audio.useremarkable.com/mp3/age_us_1.mp3","translation":"возраст"},
+            {"word":"agenda","phonetic":"/əˈdʒɛndə/","audio":"https://lex-audio.useremarkable.com/mp3/agenda_us_1.mp3","translation":"повестка дня"},
+            {"word":"aggravate","phonetic":"/ˈæɡrəˌveɪt/","audio":"https://lex-audio.useremarkable.com/mp3/aggravate_us_1.mp3","translation":"обострять"},
+            {"word":"aggregate","phonetic":"/ˈæɡrɪɡət/","audio":"https://lex-audio.useremarkable.com/mp3/aggregate_us_1.mp3","translation":"совокупный"},
+            {"word":"agile","phonetic":"/ˈædʒəl/","audio":"https://lex-audio.useremarkable.com/mp3/agile_us_1.mp3","translation":"проворный, гибкий"},
+            {"word":"agitate","phonetic":"/ˈædʒəˌteɪt/","audio":"https://lex-audio.useremarkable.com/mp3/agitate_us_1.mp3","translation":"волновать"},
+            {"word":"agree","phonetic":"/əˈɡri/","audio":"https://lex-audio.useremarkable.com/mp3/agree_us_1.mp3","translation":"соглашаться"},
+            {"word":"agreement","phonetic":"/əˈɡrimənt/","audio":"https://lex-audio.useremarkable.com/mp3/agreement_us_1.mp3","translation":"соглашение, договор"},
+            {"word":"agriculture","phonetic":"/ˈæɡrəˌkəltʃər/","audio":"https://lex-audio.useremarkable.com/mp3/agriculture_us_1.mp3","translation":"сельское хозяйство"},
+            {"word":"almost","phonetic":"/ˈɔlˌmoʊst/","audio":"https://lex-audio.useremarkable.com/mp3/almost_us_1_rr.mp3","translation":"почти"}
+        ],
+        [
+            {"word":"alternate","phonetic":"/ˈɔltərˌneɪt/","audio":"https://lex-audio.useremarkable.com/mp3/alternate_us_2.mp3","translation":"чередовать, чередующийся"},
+            {"word":"airborne","phonetic":"/ˈɛrˌbɔrn/","audio":"https://lex-audio.useremarkable.com/mp3/airborne_us_1.mp3","translation":"находящийся в воздухе"},
+            {"word":"aim","phonetic":"/eɪm/","audio":"https://lex-audio.useremarkable.com/mp3/aim_us_1.mp3","translation":"цель"},
+            {"word":"alert","phonetic":"/əˈlərt/","audio":"https://lex-audio.useremarkable.com/mp3/alert_us_1.mp3","translation":"тревога, бдительный"},
+            {"word":"aisle","phonetic":"/aɪl/","audio":"https://lex-audio.useremarkable.com/mp3/aisle_us_1.mp3","translation":"проход"},
+            {"word":"ailment","phonetic":"/ˈeɪlmənt/","audio":"https://lex-audio.useremarkable.com/mp3/ailment_us_1.mp3","translation":"недомогание, болезнь"},
+            {"word":"alas","phonetic":"/əˈlæs/","audio":"https://lex-audio.useremarkable.com/mp3/alas_us_1.mp3","translation":"увы"},
+            {"word":"alienate","phonetic":"/ˈeɪljəˌneɪt/","audio":"https://lex-audio.useremarkable.com/mp3/alienate_us_1.mp3","translation":"отчуждать, отдалять, отвергать"},
+            {"word":"albeit","phonetic":"/ɔlˈbiɪt/","audio":"https://lex-audio.useremarkable.com/mp3/albeit_us_1_rr.mp3","translation":"хотя"},
+            {"word":"align","phonetic":"/əˈlaɪn/","audio":"https://lex-audio.useremarkable.com/mp3/align_us_1.mp3","translation":"выравнивать, выстраивать"},
+            {"word":"air","phonetic":"/ɛr/","audio":"https://lex-audio.useremarkable.com/mp3/air_us_1.mp3","translation":"вид, впечатление"}
+        ],
+        [
+            {"word":"aid","phonetic":"/eɪd/","audio":"https://lex-audio.useremarkable.com/mp3/aid_1_us_1_abbr.mp3","translation":"помощь, помогать"},
+            {"word":"aircraft","phonetic":"/ˈɛrˌkræft/","audio":"https://lex-audio.useremarkable.com/mp3/aircraft_us_1.mp3","translation":"самолёт, авиация"},
+            {"word":"ahead","phonetic":"/əˈhɛd/","audio":"https://lex-audio.useremarkable.com/mp3/ahead_us_1.mp3","translation":"вперёд, впереди"},
+            {"word":"ample","phonetic":"/ˈæmpəl/","audio":"https://lex-audio.useremarkable.com/mp3/ample_us_1.mp3","translation":"обильный, широкий"},
+            {"word":"amplify","phonetic":"/ˈæmpləˌfaɪ/","audio":"https://lex-audio.useremarkable.com/mp3/amplify_us_1.mp3","translation":"усиливать"},
+            {"word":"amuse","phonetic":"/əˈmjuz/","audio":"https://lex-audio.useremarkable.com/mp3/amuse_us_1.mp3","translation":"развлечь, порадовать"},
+            {"word":"ambush","phonetic":"/ˈæmbʊʃ/","audio":"https://lex-audio.useremarkable.com/mp3/ambush_us_1.mp3","translation":"засада"},
+            {"word":"ancestor","phonetic":"/ˈænˌsɛstər/","audio":"https://lex-audio.useremarkable.com/mp3/ancestor_us_1.mp3","translation":"предок"},
+            {"word":"ambiguous","phonetic":"/æmˈbɪɡjuəs/","audio":"https://lex-audio.useremarkable.com/mp3/ambiguous_us_1.mp3","translation":"двусмысленный, неоднозначный"},
+            {"word":"anchor","phonetic":"/ˈæŋkər/","audio":"https://lex-audio.useremarkable.com/mp3/anchor_us_1.mp3","translation":"якорь, закреплять"},
+            {"word":"ancient","phonetic":"/ˈeɪn(t)ʃənt/","audio":"https://lex-audio.useremarkable.com/mp3/ancient_us_1.mp3","translation":"древний"}
+        ],
+        [
+            {"word":"amend","phonetic":"/əˈmɛnd/","audio":"https://lex-audio.useremarkable.com/mp3/amend_us_1.mp3","translation":"исправить, улучшить"},
+            {"word":"anew","phonetic":"/əˈn(j)u/","audio":"https://lex-audio.useremarkable.com/mp3/anew_us_1.mp3","translation":"заново"},
+            {"word":"anger","phonetic":"/ˈæŋɡər/","audio":"https://lex-audio.useremarkable.com/mp3/anger_us_1.mp3","translation":"гнев"},
+            {"word":"ammunition","phonetic":"/ˌæmjəˈnɪʃ(ə)n/","audio":"https://lex-audio.useremarkable.com/mp3/ammunition_us_1.mp3","translation":"боеприпасы"},
+            {"word":"angle","phonetic":"/ˈæŋɡəl/","audio":"https://lex-audio.useremarkable.com/mp3/angle_us_1.mp3","translation":"угол, угловой"},
+            {"word":"angry","phonetic":"/ˈæŋɡri/","audio":"https://lex-audio.useremarkable.com/mp3/angry_us_1.mp3","translation":"злой"},
+            {"word":"anguish","phonetic":"/ˈæŋɡwɪʃ/","audio":"https://lex-audio.useremarkable.com/mp3/anguish_us_1.mp3","translation":"мука, страдание"},
+            {"word":"animate","phonetic":"/ˈænəˌmeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/animate_us_1.mp3","translation":"живой, одушевлённый, оживлять"},
+            {"word":"amenity","phonetic":"/əˈmɛnədi/","audio":"https://lex-audio.useremarkable.com/mp3/amenity_us_2_rr.mp3","translation":"удобство, обустройство"},
+            {"word":"ankle","phonetic":"/ˈæŋk(ə)l/","audio":"https://lex-audio.useremarkable.com/mp3/ankle_us_1.mp3","translation":"лодыжка, щиколотка"},
+            {"word":"anniversary","phonetic":"/ˌænəˈvərs(ə)ri/","audio":"https://lex-audio.useremarkable.com/mp3/anniversary_us_1.mp3","translation":"годовщина"}
+        ],
+        [
+            {"word":"announce","phonetic":"/əˈnaʊns/","audio":"https://lex-audio.useremarkable.com/mp3/announce_us_1.mp3","translation":"объявлять"},
+            {"word":"alien","phonetic":"/ˈeɪliən/","audio":"https://lex-audio.useremarkable.com/mp3/alien_us_1_rr.mp3","translation":"чужак, пришелец, иммигрант"},
+            {"word":"alarm","phonetic":"/əˈlɑrm/","audio":"https://lex-audio.useremarkable.com/mp3/alarm_us_1.mp3","translation":"тревога, сигнализация"},
+            {"word":"amaze","phonetic":"/əˈmeɪz/","audio":"https://lex-audio.useremarkable.com/mp3/amaze_us_1.mp3","translation":"поражать, изумлять"},
+            {"word":"akin","phonetic":"/əˈkɪn/","audio":"https://lex-audio.useremarkable.com/mp3/akin_us_1.mp3","translation":"похожий"},
+            {"word":"alone","phonetic":"/əˈloʊn/","audio":"https://lex-audio.useremarkable.com/mp3/alone_us_1.mp3","translation":"в одиночестве"},
+            {"word":"amount","phonetic":"/əˈmaʊnt/","audio":"https://lex-audio.useremarkable.com/mp3/amount_us_1.mp3","translation":"количество (неисчисл.)"},
+            {"word":"amber","phonetic":"/ˈæmbər/","audio":"https://lex-audio.useremarkable.com/mp3/amber_us_1.mp3","translation":"янтарь"},
+            {"word":"alike","phonetic":"/əˈlaɪk/","audio":"https://lex-audio.useremarkable.com/mp3/_alike_1_us_1.mp3","translation":"подобно"},
+            {"word":"allow","phonetic":"/əˈlaʊ/","audio":"https://lex-audio.useremarkable.com/mp3/allow_us_1.mp3","translation":"разрешать"},
+            {"word":"allowance","phonetic":"/əˈlaʊəns/","audio":"https://lex-audio.useremarkable.com/mp3/allowance_us_1.mp3","translation":"выплата, пособие"}
+        ],
+        [
+            {"word":"alive","phonetic":"/əˈlaɪv/","audio":"https://lex-audio.useremarkable.com/mp3/alive_us_1.mp3","translation":"живой"},
+            {"word":"allege","phonetic":"/əˈlɛdʒ/","audio":"https://lex-audio.useremarkable.com/mp3/allege_us_1.mp3","translation":"утверждать, приписывать"},
+            {"word":"aloud","phonetic":"/əˈlaʊd/","audio":"https://lex-audio.useremarkable.com/mp3/aloud_us_1.mp3","translation":"вслух"},
+            {"word":"allure","phonetic":"/əˈlʊr/","audio":"https://lex-audio.useremarkable.com/mp3/allure_us_1.mp3","translation":"очарование, очаровывать"},
+            {"word":"allot","phonetic":"/əˈlɑt/","audio":"https://lex-audio.useremarkable.com/mp3/allot_us_1.mp3","translation":"выделять, отводить"},
+            {"word":"allegiance","phonetic":"/əˈlidʒəns/","audio":"https://lex-audio.useremarkable.com/mp3/allegiance_us_1.mp3","translation":"верность"},
+            {"word":"allocate","phonetic":"/ˈæləˌkeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/allocate_us_1.mp3","translation":"распределять (ресурсы)"},
+            {"word":"ally","phonetic":"/ˈælaɪ/","audio":"https://lex-audio.useremarkable.com/mp3/ally_us_1.mp3","translation":"союзник"},
+            {"word":"allude","phonetic":"/əˈlud/","audio":"https://lex-audio.useremarkable.com/mp3/allude_us_1.mp3","translation":"намекать, указывать"},
+            {"word":"ambassador","phonetic":"/æmˈbæsədər/","audio":"https://lex-audio.useremarkable.com/mp3/ambassador_us_1_rr.mp3","translation":"посол"},
+            {"word":"alongside","phonetic":"/əˌlɔŋˈsaɪd/","audio":"https://lex-audio.useremarkable.com/mp3/alongside_us_2.mp3","translation":"рядом"}
+        ],
+        [
+            {"word":"altitude","phonetic":"/ˈæltəˌt(j)ud/","audio":"https://lex-audio.useremarkable.com/mp3/altitude_us_1.mp3","translation":"высота"},
+            {"word":"although","phonetic":"/ɔlˈðoʊ/","audio":"https://lex-audio.useremarkable.com/mp3/although_us_1.mp3","translation":"хотя и"},
+            {"word":"alter","phonetic":"/ˈɔltər/","audio":"https://lex-audio.useremarkable.com/mp3/alter_us_1.mp3","translation":"изменять"},
+            {"word":"amateur","phonetic":"/ˈæmədər/","audio":"https://lex-audio.useremarkable.com/mp3/amateur_us_7.mp3","translation":"любитель, любительский"},
+            {"word":"altogether","phonetic":"/ˌɔltəˈɡɛðər/","audio":"https://lex-audio.useremarkable.com/mp3/altogether_us_1.mp3","translation":"в целом"},
+            {"word":"annual","phonetic":"/ˈænj(u)əl/","audio":"https://lex-audio.useremarkable.com/mp3/annual_us_1.mp3","translation":"ежегодный"},
+            {"word":"ant","phonetic":"/ænt/","audio":"https://lex-audio.useremarkable.com/mp3/ant_1_us_1.mp3","translation":"муравей"},
+            {"word":"anthem","phonetic":"/ˈænθəm/","audio":"https://lex-audio.useremarkable.com/mp3/anthem_us_1.mp3","translation":"гимн"},
+            {"word":"anticipate","phonetic":"/ænˈtɪsəˌpeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/anticipate_us_1.mp3","translation":"ожидать"},
+            {"word":"antique","phonetic":"/ænˈtik/","audio":"https://lex-audio.useremarkable.com/mp3/antique_us_1.mp3","translation":"старинный"},
+            {"word":"anxiety","phonetic":"/æŋˈzaɪədi/","audio":"https://lex-audio.useremarkable.com/mp3/anxiety_us_1.mp3","translation":"беспокойство, тревога"}
+        ],
+        [
+            {"word":"anxious","phonetic":"/ˈæŋ(k)ʃəs/","audio":"https://lex-audio.useremarkable.com/mp3/anxious_us_1.mp3","translation":"озабоченный, встревоженный"},
+            {"word":"anymore","phonetic":"/ˌɛniˈmɔr/","audio":"https://lex-audio.useremarkable.com/mp3/anymore_us_1.mp3","translation":"больше не"},
+            {"word":"anyway","phonetic":"/ˈɛniˌweɪ/","audio":"https://lex-audio.useremarkable.com/mp3/anyway_us_1.mp3","translation":"в любом случае"},
+            {"word":"anywhere","phonetic":"/ˈɛniˌ(h)wɛr/","audio":"https://lex-audio.useremarkable.com/mp3/anywhere_us_1.mp3","translation":"где угодно, куда угодно"},
+            {"word":"apart","phonetic":"/əˈpɑrt/","audio":"https://lex-audio.useremarkable.com/mp3/apart_us_1.mp3","translation":"отдельно, врозь"},
+            {"word":"apartment","phonetic":"/əˈpɑrtmənt/","audio":"https://lex-audio.useremarkable.com/mp3/apartment_us_1.mp3","translation":"квартира"},
+            {"word":"ape","phonetic":"/eɪp/","audio":"https://lex-audio.useremarkable.com/mp3/ape_us_1.mp3","translation":"обезьяна (крупная)"},
+            {"word":"apiece","phonetic":"/əˈpis/","audio":"https://lex-audio.useremarkable.com/mp3/apiece_us_1.mp3","translation":"каждый, за штуку"},
+            {"word":"apology","phonetic":"/əˈpɑlədʒi/","audio":"https://lex-audio.useremarkable.com/mp3/apology_us_1.mp3","translation":"извинение(я)"},
+            {"word":"appal","phonetic":"/əˈpɔːl/","audio":"https://lex-audio.useremarkable.com/mp3/appal_gb_1.mp3","translation":"потрясать, ужасать"},
+            {"word":"apparent","phonetic":"/əˈpɛrənt/","audio":"https://lex-audio.useremarkable.com/mp3/apparent_us_1.mp3","translation":"явный, видимый"}
+        ],
+        [
+            {"word":"appeal","phonetic":"/əˈpil/","audio":"https://lex-audio.useremarkable.com/mp3/appeal_us_1.mp3","translation":"обращаться, взывать"},
+            {"word":"appear","phonetic":"/əˈpɪr/","audio":"https://lex-audio.useremarkable.com/mp3/appear_us_1.mp3","translation":"казаться"},
+            {"word":"appear","phonetic":"/əˈpɪr/","audio":"https://lex-audio.useremarkable.com/mp3/appear_us_1.mp3","translation":"появиться"},
+            {"word":"applause","phonetic":"/əˈplɔz/","audio":"https://lex-audio.useremarkable.com/mp3/applause_us_1.mp3","translation":"аплодисменты"},
+            {"word":"appliance","phonetic":"/əˈplaɪəns/","audio":"https://lex-audio.useremarkable.com/mp3/appliance_us_1.mp3","translation":"прибор, приспособление"},
+            {"word":"apply","phonetic":"/əˈplaɪ/","audio":"https://lex-audio.useremarkable.com/mp3/apply_us_1.mp3","translation":"применять, применяться"},
+            {"word":"apply","phonetic":"/əˈplaɪ/","audio":"https://lex-audio.useremarkable.com/mp3/apply_us_1.mp3","translation":"обращаться (с заявлением)"},
+            {"word":"appoint","phonetic":"/əˈpɔɪnt/","audio":"https://lex-audio.useremarkable.com/mp3/appoint_us_1.mp3","translation":"назначать, утверждать"},
+            {"word":"appraise","phonetic":"/əˈpreɪz/","audio":"https://lex-audio.useremarkable.com/mp3/appraise_us_1.mp3","translation":"оценивать"},
+            {"word":"appreciate","phonetic":"/əˈpriʃiˌeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/appreciate_us_1.mp3","translation":"ценить"},
+            {"word":"apprentice","phonetic":"/əˈprɛn(t)əs/","audio":"https://lex-audio.useremarkable.com/mp3/apprentice_us_1.mp3","translation":"ученик, стажёр"}
+        ],
+        [
+            {"word":"approach","phonetic":"/əˈproʊtʃ/","audio":"https://lex-audio.useremarkable.com/mp3/approach_us_1.mp3","translation":"приближаться, подходить"},
+            {"word":"appropriate","phonetic":"/əˈproʊpriət/","audio":"https://lex-audio.useremarkable.com/mp3/appropriate_us_1.mp3","translation":"присвоить"},
+            {"word":"appropriate","phonetic":"/əˈproʊpriət/","audio":"https://lex-audio.useremarkable.com/mp3/appropriate_us_1.mp3","translation":"подходящий, присущий"},
+            {"word":"approve","phonetic":"/əˈpruv/","audio":"https://lex-audio.useremarkable.com/mp3/approve_us_1.mp3","translation":"утвердить, одобрить (офиц.)"},
+            {"word":"approximate","phonetic":"/əˈprɑksəmət/","audio":"https://lex-audio.useremarkable.com/mp3/approximate_us_1.mp3","translation":"приблизительный"},
+            {"word":"apron","phonetic":"/ˈeɪprən/","audio":"https://lex-audio.useremarkable.com/mp3/apron_us_1.mp3","translation":"фартук, передник"},
+            {"word":"apt","phonetic":"/æpt/","audio":"https://lex-audio.useremarkable.com/mp3/apt_us_1.mp3","translation":"склонный, способный"},
+            {"word":"aquatic","phonetic":"/əˈkwɑdɪk/","audio":"https://lex-audio.useremarkable.com/mp3/aquatic_us_1_rr.mp3","translation":"водный"},
+            {"word":"arbitrary","phonetic":"/ˈɑrbəˌtrɛri/","audio":"https://lex-audio.useremarkable.com/mp3/arbitrary_us_1.mp3","translation":"произвольный"},
+            {"word":"arc","phonetic":"/ɑrk/","audio":"https://lex-audio.useremarkable.com/mp3/arc_us_1.mp3","translation":"дуга"},
+            {"word":"arch","phonetic":"/ɑrtʃ/","audio":"https://lex-audio.useremarkable.com/mp3/arch_1_us_1.mp3","translation":"арка, изгибать"}
+        ],
+        [
+            {"word":"archive","phonetic":"/ˈɑrˌkaɪv/","audio":"https://lex-audio.useremarkable.com/mp3/archive_us_1.mp3","translation":"архив"},
+            {"word":"area","phonetic":"/ˈɛriə/","audio":"https://lex-audio.useremarkable.com/mp3/area_us_1.mp3","translation":"область, участок"},
+            {"word":"argue","phonetic":"/ˈɑrɡju/","audio":"https://lex-audio.useremarkable.com/mp3/argue_us_1.mp3","translation":"спорить, доказывать"},
+            {"word":"arm","phonetic":"/ɑrm/","audio":"https://lex-audio.useremarkable.com/mp3/arm_us_1.mp3","translation":"рука"},
+            {"word":"arms","phonetic":"/ɑrmz/","audio":"https://lex-audio.useremarkable.com/mp3/arms_us_1.mp3","translation":"оружие"},
+            {"word":"arouse","phonetic":"/əˈraʊz/","audio":"https://lex-audio.useremarkable.com/mp3/arouse_us_1.mp3","translation":"вызывать, пробуждать"},
+            {"word":"arrange","phonetic":"/əˈreɪndʒ/","audio":"https://lex-audio.useremarkable.com/mp3/arrange_us_1.mp3","translation":"организовать, уладить и т.д."},
+            {"word":"array","phonetic":"/əˈreɪ/","audio":"https://lex-audio.useremarkable.com/mp3/array_us_1.mp3","translation":"ряд, порядок, строй"},
+            {"word":"annoy","phonetic":"/əˈnɔɪ/","audio":"https://lex-audio.useremarkable.com/mp3/annoy_us_1.mp3","translation":"раздражать, надоедать"},
+            {"word":"arrest","phonetic":"/əˈrɛst/","audio":"https://lex-audio.useremarkable.com/mp3/arrest_us_1.mp3","translation":"задерживать, тормозить"},
+            {"word":"arrive","phonetic":"/əˈraɪv/","audio":"https://lex-audio.useremarkable.com/mp3/arrive_us_1.mp3","translation":"прибывать"}
+        ],
+        [
+            {"word":"arrogant","phonetic":"/ˈɛrəɡənt/","audio":"https://lex-audio.useremarkable.com/mp3/arrogant_us_2.mp3","translation":"высокомерный"},
+            {"word":"arrow","phonetic":"/ˈɛroʊ/","audio":"https://lex-audio.useremarkable.com/mp3/arrow_us_1.mp3","translation":"стрела, стрелка"},
+            {"word":"arson","phonetic":"/ˈɑrs(ə)n/","audio":"https://lex-audio.useremarkable.com/mp3/arson_us_2.mp3","translation":"поджог"},
+            {"word":"article","phonetic":"/ˈɑrdək(ə)l/","audio":"https://lex-audio.useremarkable.com/mp3/article_us_1.mp3","translation":"вещь, изделие"},
+            {"word":"article","phonetic":"/ˈɑrdək(ə)l/","audio":"https://lex-audio.useremarkable.com/mp3/article_us_1.mp3","translation":"статья"},
+            {"word":"artificial","phonetic":"/ˌɑrdəˈfɪʃəl/","audio":"https://lex-audio.useremarkable.com/mp3/artificial_us_1.mp3","translation":"искусственный"},
+            {"word":"ascend","phonetic":"/əˈsɛnd/","audio":"https://lex-audio.useremarkable.com/mp3/ascend_us_1.mp3","translation":"восходить"},
+            {"word":"ascertain","phonetic":"/ˌæsərˈteɪn/","audio":"https://lex-audio.useremarkable.com/mp3/ascertain_us_1.mp3","translation":"выяснить, установить"},
+            {"word":"atop","phonetic":"/əˈtɑp/","audio":"https://lex-audio.useremarkable.com/mp3/atop_us_1.mp3","translation":"наверху"},
+            {"word":"atrocity","phonetic":"/əˈtrɑsədi/","audio":"https://lex-audio.useremarkable.com/mp3/atrocity_us_1.mp3","translation":"зверство, злодеяние"},
+            {"word":"attach","phonetic":"/əˈtætʃ/","audio":"https://lex-audio.useremarkable.com/mp3/attach_us_1.mp3","translation":"прикрепить, привязать"}
+        ],
+        [
+            {"word":"attack","phonetic":"/əˈtæk/","audio":"https://lex-audio.useremarkable.com/mp3/attack_us_1.mp3","translation":"нападать, нападение"},
+            {"word":"attain","phonetic":"/əˈteɪn/","audio":"https://lex-audio.useremarkable.com/mp3/attain_us_1.mp3","translation":"достигать"},
+            {"word":"attempt","phonetic":"/əˈtɛm(p)t/","audio":"https://lex-audio.useremarkable.com/mp3/attempt_us_1.mp3","translation":"попытка, пытаться"},
+            {"word":"attend","phonetic":"/əˈtɛnd/","audio":"https://lex-audio.useremarkable.com/mp3/attend_us_1.mp3","translation":"уделить внимание, посетить"},
+            {"word":"attic","phonetic":"/ˈædɪk/","audio":"https://lex-audio.useremarkable.com/mp3/attic_us_1.mp3","translation":"чердак"},
+            {"word":"attitude","phonetic":"/ˈædəˌt(j)ud/","audio":"https://lex-audio.useremarkable.com/mp3/attitude_us_1.mp3","translation":"отношение"},
+            {"word":"attorney","phonetic":"/əˈtərni/","audio":"https://lex-audio.useremarkable.com/mp3/attorney_us_1.mp3","translation":"адвокат, прокурор, поверенный"},
+            {"word":"attract","phonetic":"/əˈtrækt/","audio":"https://lex-audio.useremarkable.com/mp3/attract_us_1.mp3","translation":"привлекать, притягивать"},
+            {"word":"attribute","phonetic":"/əˈtrɪˌbjut/","audio":"https://lex-audio.useremarkable.com/mp3/attribute_us_1.mp3","translation":"приписывать, относить"},
+            {"word":"audible","phonetic":"/ˈɔdəb(ə)l/","audio":"https://lex-audio.useremarkable.com/mp3/audible_us_1.mp3","translation":"слышимый"},
+            {"word":"audience","phonetic":"/ˈɔdiəns/","audio":"https://lex-audio.useremarkable.com/mp3/audience_us_1.mp3","translation":"аудитория (люди)"}
+        ],
+        [
+            {"word":"augment","phonetic":"/ɔɡˈmɛnt/","audio":"https://lex-audio.useremarkable.com/mp3/augment_us_1.mp3","translation":"увеличить, нарастить"},
+            {"word":"aunt","phonetic":"/ænt/","audio":"https://lex-audio.useremarkable.com/mp3/aunt_us_1_rr.mp3","translation":"тётя"},
+            {"word":"authorities","phonetic":"/ɔːˈθɒrɪti/","audio":"https://lex-audio.useremarkable.com/mp3/authority_gb_1_8.mp3","translation":"органы власти"},
+            {"word":"authority","phonetic":"/əˈθɔrədi/","audio":"https://lex-audio.useremarkable.com/mp3/authority_us_1_rr.mp3","translation":"власть"},
+            {"word":"authorize","phonetic":"/ˈɔθəˌraɪz/","audio":"https://lex-audio.useremarkable.com/mp3/authorize_us_1.mp3","translation":"дать полномочия, поручение"},
+            {"word":"available","phonetic":"/əˈveɪləb(ə)l/","audio":"https://lex-audio.useremarkable.com/mp3/available_us_1.mp3","translation":"доступный, в наличии"},
+            {"word":"avalanche","phonetic":"/ˈævəˌlæn(t)ʃ/","audio":"https://lex-audio.useremarkable.com/mp3/avalanche_us_1.mp3","translation":"лавина"},
+            {"word":"average","phonetic":"/ˈæv(ə)rɪdʒ/","audio":"https://lex-audio.useremarkable.com/mp3/average_us_1.mp3","translation":"средний"},
+            {"word":"avert","phonetic":"/əˈvərt/","audio":"https://lex-audio.useremarkable.com/mp3/avert_us_1.mp3","translation":"предотвращать, отводить"},
+            {"word":"avid","phonetic":"/ˈævəd/","audio":"https://lex-audio.useremarkable.com/mp3/avid_us_1.mp3","translation":"заядлый, рьяный, алчный"},
+            {"word":"avoid","phonetic":"/əˈvɔɪd/","audio":"https://lex-audio.useremarkable.com/mp3/avoid_us_1.mp3","translation":"избегать"}
+        ],
+        [
+            {"word":"await","phonetic":"/əˈweɪt/","audio":"https://lex-audio.useremarkable.com/mp3/await_us_1.mp3","translation":"ожидать"},
+            {"word":"awake","phonetic":"/əˈweɪk/","audio":"https://lex-audio.useremarkable.com/mp3/awake_us_1.mp3","translation":"проснуться, бодрствующий"},
+            {"word":"award","phonetic":"/əˈwɔrd/","audio":"https://lex-audio.useremarkable.com/mp3/award_us_1.mp3","translation":"награда, премия, присуждать"},
+            {"word":"aware","phonetic":"/əˈwɛr/","audio":"https://lex-audio.useremarkable.com/mp3/aware_us_1.mp3","translation":"осведомлённый"},
+            {"word":"awe","phonetic":"/ɔ/","audio":"https://lex-audio.useremarkable.com/mp3/awe_us_1.mp3","translation":"трепет, благоговение"},
+            {"word":"awesome","phonetic":"/ˈɔsəm/","audio":"https://lex-audio.useremarkable.com/mp3/awesome_us_2.mp3","translation":"здорово, классно"},
+            {"word":"awful","phonetic":"/ˈɔfəl/","audio":"https://lex-audio.useremarkable.com/mp3/awful_us_1.mp3","translation":"ужасный"},
+            {"word":"awhile","phonetic":"/əˈ(h)waɪl/","audio":"https://lex-audio.useremarkable.com/mp3/awhile_us_1.mp3","translation":"какое-то время"},
+            {"word":"awkward","phonetic":"/ˈɔkwərd/","audio":"https://lex-audio.useremarkable.com/mp3/awkward_us_1.mp3","translation":"неуклюжий"},
+            {"word":"axis","phonetic":"/ˈæksəs/","audio":"https://lex-audio.useremarkable.com/mp3/axis_us_1.mp3","translation":"ось"},
+            {"word":"ash","phonetic":"/æʃ/","audio":"https://lex-audio.useremarkable.com/mp3/ash_us_1.mp3","translation":"пепел, зола"}
+        ],
+        [
+            {"word":"ashamed","phonetic":"/əˈʃeɪmd/","audio":"https://lex-audio.useremarkable.com/mp3/ashamed_us_1.mp3","translation":"пристыженный"},
+            {"word":"ashtray","phonetic":"/ˈæʃˌtreɪ/","audio":"https://lex-audio.useremarkable.com/mp3/ashtray_us_1.mp3","translation":"пепельница"},
+            {"word":"aside","phonetic":"/əˈsaɪd/","audio":"https://lex-audio.useremarkable.com/mp3/aside_us_1.mp3","translation":"в стороне, в сторону"},
+            {"word":"asleep","phonetic":"/əˈslip/","audio":"https://lex-audio.useremarkable.com/mp3/asleep_us_1.mp3","translation":"спящий"},
+            {"word":"aspire","phonetic":"/əˈspaɪ(ə)r/","audio":"https://lex-audio.useremarkable.com/mp3/aspire_us_1.mp3","translation":"стремиться"},
+            {"word":"ass","phonetic":"/æs/","audio":"https://lex-audio.useremarkable.com/mp3/ass_us_3.mp3","translation":"жопа"},
+            {"word":"assassin","phonetic":"/əˈsæsn/","audio":"https://lex-audio.useremarkable.com/mp3/assassin_us_1.mp3","translation":"убийца"},
+            {"word":"assault","phonetic":"/əˈsɔlt/","audio":"https://lex-audio.useremarkable.com/mp3/assault_us_1.mp3","translation":"нападение, нападать"},
+            {"word":"assemble","phonetic":"/əˈsɛmbəl/","audio":"https://lex-audio.useremarkable.com/mp3/assemble_us_1.mp3","translation":"собирать"},
+            {"word":"assert","phonetic":"/əˈsərt/","audio":"https://lex-audio.useremarkable.com/mp3/assert_us_1.mp3","translation":"утверждать, отстаивать"},
+            {"word":"assess","phonetic":"/əˈsɛs/","audio":"https://lex-audio.useremarkable.com/mp3/assess_us_1.mp3","translation":"оценить"}    
+        ],
+        [
+            {"word":"asset","phonetic":"/ˈæsɛt/","audio":"https://lex-audio.useremarkable.com/mp3/asset_us_1.mp3","translation":"актив, имущество"},
+            {"word":"assign","phonetic":"/əˈsaɪn/","audio":"https://lex-audio.useremarkable.com/mp3/assign_us_1.mp3","translation":"назначать, присваивать"},
+            {"word":"assimilate","phonetic":"/əˈsɪməˌleɪt/","audio":"https://lex-audio.useremarkable.com/mp3/assimilate_us_1.mp3","translation":"усваивать"},
+            {"word":"assist","phonetic":"/əˈsɪst/","audio":"https://lex-audio.useremarkable.com/mp3/assist_us_1.mp3","translation":"помогать"},
+            {"word":"associate","phonetic":"/əˈsoʊsiˌeɪt/","audio":"https://lex-audio.useremarkable.com/mp3/associate_us_2.mp3","translation":"общаться, связываться"},
+            {"word":"assume","phonetic":"/əˈsum/","audio":"https://lex-audio.useremarkable.com/mp3/assume_us_1.mp3","translation":"предпогалать"},
+            {"word":"assume","phonetic":"/əˈsum/","audio":"https://lex-audio.useremarkable.com/mp3/assume_us_1.mp3","translation":"принимать на себя"},
+            {"word":"assure","phonetic":"/əˈʃʊr/","audio":"https://lex-audio.useremarkable.com/mp3/assure_us_1.mp3","translation":"уверять"},
+            {"word":"astonish","phonetic":"/əˈstɑnɪʃ/","audio":"https://lex-audio.useremarkable.com/mp3/astonish_us_1.mp3","translation":"изумлять"},
+            {"word":"astound","phonetic":"/əˈstaʊnd/","audio":"https://lex-audio.useremarkable.com/mp3/astound_us_1.mp3","translation":"изумлять"},
+            {"word":"asylum","phonetic":"/əˈsaɪləm/","audio":"https://lex-audio.useremarkable.com/mp3/asylum_us_1.mp3","translation":"убежище"}    
+        ],
+        [
+            {"word":"backbone","phonetic":"/ˈbækˌboʊn/","audio":"https://lex-audio.useremarkable.com/mp3/backbone_us_1.mp3","translation":"хребет"},
+            {"word":"background","phonetic":"/ˈbækˌɡraʊnd/","audio":"https://lex-audio.useremarkable.com/mp3/background_us_1.mp3","translation":"фон"},
+            {"word":"background","phonetic":"/ˈbækˌɡraʊnd/","audio":"https://lex-audio.useremarkable.com/mp3/background_us_1.mp3","translation":"происхождение, предыстория и т.д."},
+            {"word":"badge","phonetic":"/bædʒ/","audio":"https://lex-audio.useremarkable.com/mp3/badge_us_1.mp3","translation":"значок"},
+            {"word":"baffled","phonetic":"/ˈbaf(ə)l/","audio":"https://lex-audio.useremarkable.com/mp3/baffle_gb_1.mp3","translation":"в неодумении, в тупике"},
+            {"word":"bag","phonetic":"/bæɡ/","audio":"https://lex-audio.useremarkable.com/mp3/bag_us_1.mp3","translation":"сумка, мешок"},
+            {"word":"bail","phonetic":"/beɪl/","audio":"https://lex-audio.useremarkable.com/mp3/bail_us_1.mp3","translation":"залог"},
+            {"word":"bait","phonetic":"/beɪt/","audio":"https://lex-audio.useremarkable.com/mp3/bait_us_1.mp3","translation":"приманка"},
+            {"word":"bake","phonetic":"/beɪk/","audio":"https://lex-audio.useremarkable.com/mp3/bake_us_1.mp3","translation":"печь (выпекать)"},
+            {"word":"bald","phonetic":"/bɔld/","audio":"https://lex-audio.useremarkable.com/mp3/bald_us_1.mp3","translation":"лысый, плешивый"},
+            {"word":"bale","phonetic":"/beɪl/","audio":"https://lex-audio.useremarkable.com/mp3/bale_us_1.mp3","translation":"тюк"}    
+        ],
+        [
+            {"word":"balloon","phonetic":"/bəˈlun/","audio":"https://lex-audio.useremarkable.com/mp3/balloon_us_1.mp3","translation":"воздушный шар"},
+            {"word":"ballot","phonetic":"/ˈbælət/","audio":"https://lex-audio.useremarkable.com/mp3/ballot_us_1.mp3","translation":"госолование, бюллетень"},
+            {"word":"ban","phonetic":"/bæn/","audio":"https://lex-audio.useremarkable.com/mp3/ban_us_1.mp3","translation":"запрещать"},
+            {"word":"band","phonetic":"/bænd/","audio":"https://lex-audio.useremarkable.com/mp3/band_us_1.mp3","translation":"ансамбль"},
+            {"word":"bandage","phonetic":"/ˈbændɪdʒ/","audio":"https://lex-audio.useremarkable.com/mp3/bandage_us_1.mp3","translation":"повязка"},
+            {"word":"bang","phonetic":"/bæŋ/","audio":"https://lex-audio.useremarkable.com/mp3/bang_us_1.mp3","translation":"удар, взрыв"},
+            {"word":"banish","phonetic":"/ˈbænɪʃ/","audio":"https://lex-audio.useremarkable.com/mp3/banish_us_1.mp3","translation":"отгонять"},
+            {"word":"bank","phonetic":"/bæŋk/","audio":"https://lex-audio.useremarkable.com/mp3/bank_us_1.mp3","translation":"берег (реки, озера)"},
+            {"word":"bankrupt","phonetic":"/ˈbæŋkˌrəpt/","audio":"https://lex-audio.useremarkable.com/mp3/bankrupt_us_1.mp3","translation":"банкрот, неплатежеспособный"},
+            {"word":"banner","phonetic":"/ˈbænər/","audio":"https://lex-audio.useremarkable.com/mp3/banner_us_1.mp3","translation":"знамя, транспарант"},
+            {"word":"baptize","phonetic":"/ˈbæpˌtaɪz/","audio":"https://lex-audio.useremarkable.com/mp3/baptize_us_1_rr.mp3","translation":"крестить"}    
+        ],
+        [
+            {"word":"bar","phonetic":"/bɑr/","audio":"https://lex-audio.useremarkable.com/mp3/bar_us_1.mp3","translation":"загораживать"},
+            {"word":"bar","phonetic":"/bɑr/","audio":"https://lex-audio.useremarkable.com/mp3/bar_us_1.mp3","translation":"пластина, брусок, прут и т. д."},
+            {"word":"barb","phonetic":"/bɑrb/","audio":"https://lex-audio.useremarkable.com/mp3/barb_us_1.mp3","translation":"шип, зазубрина"},
+            {"word":"barber","phonetic":"/ˈbɑrbər/","audio":"https://lex-audio.useremarkable.com/mp3/barber_us_1.mp3","translation":"парикмахер"},
+            {"word":"bare","phonetic":"/bɛr/","audio":"https://lex-audio.useremarkable.com/mp3/bare_us_1.mp3","translation":"голый"},
+            {"word":"barely","phonetic":"/ˈbɛrli/","audio":"https://lex-audio.useremarkable.com/mp3/barely_us_1.mp3","translation":"едва, лишь только"},
+            {"word":"bargain","phonetic":"/ˈbɑrɡən/","audio":"https://lex-audio.useremarkable.com/mp3/bargain_us_1.mp3","translation":"сделка, торговаться"},
+            {"word":"bark","phonetic":"/bɑrk/","audio":"https://lex-audio.useremarkable.com/mp3/bark_us_1.mp3","translation":"лаять"},
+            {"word":"bark","phonetic":"/bɑrk/","audio":"https://lex-audio.useremarkable.com/mp3/bark_us_1.mp3","translation":"кора"},
+            {"word":"barn","phonetic":"/bɑrn/","audio":"https://lex-audio.useremarkable.com/mp3/barn_us_1.mp3","translation":"сарай"},
+            {"word":"barrel","phonetic":"/ˈbɛrəl/","audio":"https://lex-audio.useremarkable.com/mp3/barrel_us_1.mp3","translation":"бочка"}    
+        ],
+        [
+            {"word":"barren","phonetic":"/ˈbɛrən/","audio":"https://lex-audio.useremarkable.com/mp3/barren_us_1.mp3","translation":"бесплодный"},
+            {"word":"bartender","phonetic":"/ˈbɑrˌtɛndər/","audio":"https://lex-audio.useremarkable.com/mp3/bartender_us_1.mp3","translation":"бармен"},
+            {"word":"base","phonetic":"/beɪs/","audio":"https://lex-audio.useremarkable.com/mp3/base_us_1.mp3","translation":"основа, основывать"},
+            {"word":"basement","phonetic":"/ˈbeɪsmənt/","audio":"https://lex-audio.useremarkable.com/mp3/basement_us_1.mp3","translation":"подвал"},
+            {"word":"bash","phonetic":"/bæʃ/","audio":"https://lex-audio.useremarkable.com/mp3/bash_us_1.mp3","translation":"колотить"},
+            {"word":"basket","phonetic":"/ˈbæskət/","audio":"https://lex-audio.useremarkable.com/mp3/basket_us_1.mp3","translation":"корзина"},
+            {"word":"bastard","phonetic":"/ˈbæstərd/","audio":"https://lex-audio.useremarkable.com/mp3/bastard_us_1.mp3","translation":"ублюдок"},
+            {"word":"bat","phonetic":"/bæt/","audio":"https://lex-audio.useremarkable.com/mp3/bat_us_1.mp3","translation":"бита"},
+            {"word":"bat","phonetic":"/bæt/","audio":"https://lex-audio.useremarkable.com/mp3/bat_us_1.mp3","translation":"летучая мышь"},
+            {"word":"batch","phonetic":"/bætʃ/","audio":"https://lex-audio.useremarkable.com/mp3/batch_us_1.mp3","translation":"партия, серия, группа"},
+            {"word":"bath","phonetic":"/bæθ/","audio":"https://lex-audio.useremarkable.com/mp3/bath_us_1.mp3","translation":"ванна"}    
+        ],
+        [
+            {"word":"bathe","phonetic":"/beɪð/","audio":"https://lex-audio.useremarkable.com/mp3/bathe_us_1.mp3","translation":"купаться, купать"},
+            {"word":"batter","phonetic":"/ˈbædər/","audio":"https://lex-audio.useremarkable.com/mp3/batter_us_1.mp3","translation":"паста, тесто, взбивать"},
+            {"word":"battle","phonetic":"/ˈbædl/","audio":"https://lex-audio.useremarkable.com/mp3/battle_us_1.mp3","translation":"битва"},
+            {"word":"bay","phonetic":"/beɪ/","audio":"https://lex-audio.useremarkable.com/mp3/bay_us_1.mp3","translation":"залив"},
+            {"word":"bean","phonetic":"/bin/","audio":"https://lex-audio.useremarkable.com/mp3/bean_us_1.mp3","translation":"боб"},
+            {"word":"beam","phonetic":"/bim/","audio":"https://lex-audio.useremarkable.com/mp3/beam_us_1.mp3","translation":"балка, перекладина"},
+            {"word":"beam","phonetic":"/bim/","audio":"https://lex-audio.useremarkable.com/mp3/beam_us_1.mp3","translation":"луч"},
+            {"word":"beak","phonetic":"/bik/","audio":"https://lex-audio.useremarkable.com/mp3/beak_us_1.mp3","translation":"клюв"},
+            {"word":"bead","phonetic":"/bid/","audio":"https://lex-audio.useremarkable.com/mp3/bead_us_1.mp3","translation":"шарик, бусинка"},
+            {"word":"beard","phonetic":"/ˈbɪrd/","audio":"https://lex-audio.useremarkable.com/mp3/beard_us_1.mp3","translation":"борода"},
+            {"word":"beaver","phonetic":"/ˈbivər/","audio":"https://lex-audio.useremarkable.com/mp3/beaver_us_1.mp3","translation":"бобр"}    
         ]
-    }
-]
-
+    ]
+}
