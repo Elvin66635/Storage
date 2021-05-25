@@ -2831,5 +2831,269 @@
   "translation": "возможно"
   }
   ] 
+},
+{
+  "title": "At the Dentist’s",
+  "title_ru": "У зубного врача",
+  "description_en": "Eric is back at the dentist’s to have his new crown fitted. For a couple of days, he just had a temporary crown which was awkward for chewing. Now the dentist removes the cover and tries the new crown for size. Fortunately it fits first time. The dentist mixes up the adhesive and sticks the new crown in place.",
+  "image": "https://static01.nyt.com/images/2020/06/24/multimedia/00xp-virus-dentist1/00xp-virus-dentist1-mobileMasterAt3x.jpg",
+  "description_ru": "Эрик снова у зубного врача, чтобы поставить новую коронку. На пару дней ему поставили временную коронку, с которой было неудобно жевать. Теперь зубной врач снимает ее и примеряет новую коронку. По счастью, она подходит с первого раза. Зубной врач смешивает цемент и ставит коронку на место.",
+  "translation_words": [
+  {
+  "original": "temporary",
+  "transcription": "[ˈtemp(ə)rərɪ]",
+  "translation": "временный"
+  },
+  {
+  "original": "awkward",
+  "transcription": "[ˈɔːkwəd]",
+  "translation": "неловкий, неудобный"
+  },
+  {
+  "original": "to chew",
+  "transcription": "[tʃuː]",
+  "translation": "жевать"
+  },
+  {
+  "original": "to remove",
+  "transcription": "[rɪˈmuːv]",
+  "translation": "удалять, снимать"
+  },
+  {
+  "original": "cover",
+  "transcription": "[ˈkʌvə]",
+  "translation": "покрытие"
+  },
+  {
+  "original": "to mix up",
+  "transcription": "[ˈmɪksʌp]",
+  "translation": "смешивать"
+  },
+  {
+  "original": "adhesive",
+  "transcription": "[ədˈhiːsɪv]",
+  "translation": "связывающий материал, цемент (в стоматологии)"
+  },
+  {
+  "original": "in place",
+  "transcription": "[ɪn pleɪs]",
+  "translation": "на место"
+  }
+  ] 
+},
+ {
+  "title": "An English Writer",
+  "title_ru": "Английский писатель",
+  "description_en": "This English journalist and thriller writer was bom in 1908 and was educated at Eton and Sandhurst. He subsequently worked for Reuters and as foreign manager for Kemsley newspapers. His first novel, Casino Royale, published in 1953, introduced his handsome, tough, romantic hero James Bond who appeared in many different settings in later books, e. g.‘Live and Let Die’(1954),‘Diamonds are Forever’ (1956) and‘Goldfinger’(1964).\n\n|What is the name of this author?|",
+  "image": "https://i1.wp.com/cms.sofrep.com/wp-content/uploads/2020/08/Ian-fleming.jpg?fit=1100%2C619&ssl=1",
+  "description_ru": "Этот английский журналист и автор криминальных романов родился в 1908 г. и получил образование в Итоне и Сандхерсте. Впоследствии он работал для агентства «Рейтер» и в качестве корреспондента за рубежом для газет «Кемсли». Его первый роман, «Казино Руайяль», был опубликован в 1953 г. и представил публике красивого, сильного, романтичного героя Джеймса Бонда, выступавшего потом во множестве разных ситуаций в позднейших книгах — например, «Живи и дай умереть другим » (1954), «Бриллианты навсегда» (1956) и «Голдфингер» (1964). \n\n|Как зовут этого автора?| \n\n|Ian Fleming (1908—1964)| \n|Ян (Иен) Флеминг|",
+  "translation_words": [
+  {
+  "original": "thriller",
+  "transcription": "[ˈθrɪlə]",
+  "translation": "триллер, боевик"
+  },
+  {
+  "original": "subsequently",
+  "transcription": "[ˈsʌbsɪkwəntlɪ]",
+  "translation": "впоследствии, в дальнейшем"
+  },
+  {
+  "original": "foreign",
+  "transcription": "[ˈfɒrɪn]",
+  "translation": "иностранный"
+  },
+  {
+  "original": "introduce",
+  "transcription": "[ɪntrəˈdjuːs]",
+  "translation": "представлять, знакомить"
+  },
+  {
+  "original": "tp appear",
+  "transcription": "[əˈpɪə]",
+  "translation": "появляться, казаться"
+  }
+  ] 
+},
+ {
+  "title": "Bowling",
+  "title_ru": "Игра в боулинг",
+  "description_en": "John: Would you like to come bowling with us tonight?\nEric: I don’t know if I’m fit enough, last time I had backache for days afterwards.\nJohn: If you take it easy, you’ll be alright. I know the old bones are not what they used to be.",
+  "image": "https://images.squarespace-cdn.com/content/v1/5c2c0e9b12b13f8feab9b9cf/1548303924224-EZRZDLLGBRKFAYSJOF1R/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/shutterstock_420254671.jpg?format=2500w",
+  "description_ru": "Джон: Хочешь сегодня вечером сыграть с нами в боулинг?\nЭрик: Не знаю, насколько я в форме, — в прошлый раз у меня потом несколько дней болела спина.\nДжон: Если будешь играть потихоньку, всё будет в порядке. Конечно, старые косточки уже не те, что раньше.",
+  "translation_words": [
+  {
+  "original": "bowling",
+  "transcription": "[ˈbəʊlɪŋ]",
+  "translation": "боулинг"
+  },
+  {
+  "original": "backache",
+  "transcription": "[ˈbækeɪk]",
+  "translation": "боль в спине"
+  },
+  {
+  "original": "afterwards",
+  "transcription": "[ˈɑːftəwədz]",
+  "translation": "после, спустя, потом"
+  },
+  {
+  "original": "to take it easy",
+  "transcription": "[teɪk ɪt ˈiːzɪ]",
+  "translation": "делать что-либо не в полную"
+  },
+  {
+  "original": "what they used to be",
+  "transcription": "[wɒt ðeɪ ˈjuːzd tuː biː]",
+  "translation": "...что были раньше"
+  }
+  ] 
+},
+ {
+  "title": "A Shower",
+  "title_ru": "Ливень",
+  "description_en": "\nEric: Look at those clouds. I bet it will rain any minute, and we don’t have an umbrella with us.\nLoma: A little bit o f rain won’t do you any harm.\nEric: Well, this morning I got absolutely soaked.\nLoma: Look, there’s a cafe across the road. Let’s go in there until the clouds have passed.",
+  "image": "https://s7d2.scene7.com/is/image/TWCNews/heavy_rain-1_jpgjpg-1",
+  "description_ru": "Эрик: Смотри, какие тучи. Бьюсь об заклад, что через минуту пойдет дождь, а у нас с собой нет зонта.\nЛорна: Немного дождя тебе не повредит.\nЭрик: Ну, сегодня утром я абсолютно промок.\nЛорна: Смотри, там через дорогу кафе. Зайдем туда, пока тучи не пройдут мимо.",
+  "translation_words": [
+  {
+  "original": "shower",
+  "transcription": "[ˈʃaʊə]",
+  "translation": "ливень"
+  },
+  {
+  "original": "cloud",
+  "transcription": "[klaʊd]",
+  "translation": "облако,туча"
+  },
+  {
+  "original": "umbrella",
+  "transcription": "[ʌmˈbrelə]",
+  "translation": "зонтик"
+  },
+ {
+  "original": "harm",
+  "transcription": "[hɑːm]",
+  "translation": "вред, ущерб"
+  },
+  {
+  "original": "absolutely",
+  "transcription": "[ˈæbsəluːtlɪ]",
+  "translation": "абсолютно"
+  },
+  {
+  "original": "to get soaked",
+  "transcription": "[ɡet səʊkt]",
+  "translation": "промокнуть"
+  },
+  {
+  "original": "to pass",
+  "transcription": "[pɑːs]",
+  "translation": "пройти мимо"
+  }
+  ] 
+},
+ {
+  "title": "A Mystery Trip",
+  "title_ru": "Таинственная поездка",
+  "description_en": "Loma and Eric cannot decide where to go on holiday. While browsing through various catalogues they come across an offer for a mystery trip. There is a guarantee of a good hotel, sun and sand, but no clue as to where it is. Eric and Loma decide to give it a try. In the travel agency they are only told that it is somewhere on the Mediterranean.",
+  "image": "https://www.themediterraneantraveller.com/wp-content/uploads/2019/05/italy-sardinia-arutas-beach.jpg",
+  "description_ru": "Лорна и Эрик не могут решить, куда отправиться в отпуск. Пролистав разные каталоги, они натыкаются на рекламу таинственной поездки. Гарантируется хороший отель, солнце и пляж, но нет никаких указаний, где это находится. Эрик и Лорна решают попытать счастья. В турагентстве им говорят только, что это где-то на Средиземном море.",
+  "translation_words": [
+  {
+  "original": "mystery",
+  "transcription": "[mɪst(ə)rɪ]",
+  "translation": "тайна"
+  },
+  {
+  "original": "to browse through",
+  "transcription": "[braʊz θruː]",
+  "translation": "листать, просматривать"
+  },
+ {
+  "original": "to come across",
+  "transcription": "[kʌm əˈkrɒs]",
+  "translation": "натыкаться на что-либо, находить"
+  },
+  {
+  "original": "guarantee",
+  "transcription": "[ɡær(ə)nˈtiː]",
+  "translation": "гарантия"
+  },
+  {
+  "original": "clue",
+  "transcription": "[kluː]",
+  "translation": "указание, ключ к разгадке"
+  },
+  {
+  "original": "to give something a try",
+  "transcription": "[ɡɪv ˈsʌmθɪŋ ə traɪ]",
+  "translation": "попытаться"
+  },
+  {
+  "original": "Mediterranean",
+  "transcription": "[ˌmedɪtəˈreɪnɪən]",
+  "translation": "Средиземное море"
+  }
+  ] 
+},
+ {
+  "title": "T.V. Programmes",
+  "title_ru": "Телепрограммы",
+  "description_en": "Eric: Did you see the new so-called comedy show on television last night?\nDave: I turned the box off after five minutes. These Т.V. stations just seem to offer rubbish these days.\nEric: I quite agree. I don’t think I would miss the television at all if I got rid of it.",
+  "image": "https://s3-eu-west-1.amazonaws.com/uploads.playbaamboozle.com/uploads/images/70280/1592855748_51999",
+  "description_ru": "Эрик: Ты смотрел это новое так называемое «комедийное шоу» вчера вечером?\nДейв: Я выключил ящик через пять минут. Кажется, эти телеканалы запускают сейчас одну белиберду.\nЭрик: Совершенно согласен. Не думаю, что мне бы сильно не хватало телевизора, если бы я от него избавился.",
+  "translation_words": [
+  {
+  "original": "programme",
+  "transcription": "[ˈprəʊɡræm]",
+  "translation": "программа"
+  },
+  {
+  "original": "so-called",
+  "transcription": "[ˌsəʊˈkɔːld]",
+  "translation": "так называемый"
+  },
+  {
+  "original": "comedy show",
+  "transcription": "[ˈkɒmɪdɪ ʃəʊ]",
+  "translation": "комедийное, юмористическое шоу"
+  },
+  {
+  "original": "to turn off",
+  "transcription": "[ˈtɜːnɒf]",
+  "translation": "выключать"
+  },
+ {
+  "original": "box",
+  "transcription": "[bɒks]",
+  "translation": "ящик (разг. о телевизоре)"
+  },
+  {
+  "original": "station",
+  "transcription": "[ˈsteɪʃ(ə)n]",
+  "translation": "станция, телевизионный канал"
+  },
+  {
+  "original": "rubbish",
+  "transcription": "[ˈrʌbɪʃ]",
+  "translation": "мусор,ерунда, белиберда"
+  },
+  {
+  "original": "to agree",
+  "transcription": "[əˈɡriː]",
+  "translation": "соглашаться"
+  },
+  {
+  "original": "to miss something",
+  "transcription": "[mɪs ˈsʌmθɪŋ]",
+  "translation": "не хватать чего-либо"
+  },
+  {
+  "original": "to get rid of something",
+  "transcription": "[ɡet rɪdˈ ɒv sʌmθɪŋ]",
+  "translation": "избавляться от чего-либо"
+  }
+  ] 
 }
 ]
