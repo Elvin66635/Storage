@@ -1,0 +1,672 @@
+[
+   {
+      "title":"A Crossword Puzzle",
+      "title_ru":"Подписка",
+      "description_en":"Sue and Pete always solve the crossword puzzle in the Sunday newspaper. When they complete it they send it off to try and win a prize. This week it is especially worthwhile: The first prize for the lucky winner is a cruise in the Caribbean. Sue and Pete are especially keen on winning as they have always wanted to have a holiday on a ship.",
+      "image":"https://public-platform.s3.amazonaws.com/wp-content/uploads/sites/30/2020/05/20191753/crossword-puzzle.jpg",
+      "description_ru":"Сью и Пит всегда решают кроссворд в воскресной газете. Когда они разгадывают его полностью, то посылают ответы в газету, в надежде выиграть приз. На этой неделе дело особенно того стоит: первый приз для счастливчика победителя — круиз по Карибскому морю. Сью и Пит очень хотят выиграть, потому что всегда хотели провести отпуск на корабле.",
+      "translation_words":[
+         {
+            "original":"crossword puzzle",
+            "transcription":"[ˈkrɒswɜːd ˈpʌz(ə)l]",
+            "translation":"кроссворд"
+         },
+         {
+            "original":"to complete",
+            "transcription":"[kəmˈpliːt]",
+            "translation":"оканчивать"
+         },
+         {
+            "original":"especially",
+            "transcription":"[ɪˈspeʃ(ə)lɪ]",
+            "translation":"особенно"
+         },
+         {
+            "original":"worthwhile",
+            "transcription":"[wɜːθˈwaɪl]",
+            "translation":"быть ценным, стоящим чего-либо"
+         },
+         {
+            "original":"cruise",
+            "transcription":"[kruːz]",
+            "translation":"круиз"
+         },
+         {
+            "original":"Caribbean",
+            "transcription":"[ˌkærɪˈbiːən]",
+            "translation":"Карибское море"
+         },
+         {
+            "original":"keen",
+            "transcription":"[kiːn]",
+            "translation":"сильно желающий чего-либо, стремящийся к чему-либо"
+         }
+      ]
+   },
+   {
+      "title":"A New Fax Machine",
+      "title_ru":"Новый факсовый аппарат",
+      "description_en":"Tom has bought a fax machine as he intends to work more from his office at home in the future. The service engineer who delivers the machine has to put in Tom’s fax number and name, the time and date. This information is printed automatically on all messages which Tom sends.",
+      "image":"https://www.openaccessgovernment.org/wp-content/uploads/2019/03/dreamstime_s_126183369.jpg",
+      "description_ru":"Том купил факс, поскольку в будущем он намерен больше работать дома. Техник, который доставил аппарат, должен ввести номер факса, имя, время и дату. Эта информация автоматически отражается на всех сообщениях, которые отправляет Том.",
+      "translation_words":[
+         {
+            "original":"fax machine",
+            "transcription":"[fæks məˈʃiːn]",
+            "translation":"факсовый аппарат"
+         },
+         {
+            "original":"to intend",
+            "transcription":"[ɪnˈtend]",
+            "translation":"намереваться"
+         },
+         {
+            "original":"in future",
+            "transcription":"[ɪn ˈfjuːtʃə]",
+            "translation":"в будущем"
+         },
+         {
+            "original":"to deliver",
+            "transcription":"[dɪˈlɪvə]",
+            "translation":"поставлять; доставлять"
+         },
+         {
+            "original":"date",
+            "transcription":"[deɪt]",
+            "translation":"дата"
+         },
+         {
+            "original":"to print",
+            "transcription":"[prɪnt]",
+            "translation":"печатать"
+         },
+         {
+            "original":"message",
+            "transcription":"[ˈmesɪdʒ]",
+            "translation":"сообщение"
+         }
+      ]
+   },
+   {
+      "title":"An Irish Playwright",
+      "title_ru":"Ирландский драматург",
+      "description_en":"This Irish playwright was bom in Dublin in 1880 and was, according to his biography, educated in the streets of Dublin. At the early age of 14, he was already labouring on the railroad. His first fame as a playwright came in 1923 with “Shadow of a Gunman”. His play “The Plough and the Stars” provoked nationalist riots in 1926. He moved to England in 1926 and settled there permanently. Later works include “Red Roses for Me” (1942) and “The Bishop’s Bonfire” (1955). He died in 1964.\n\n|What is the name of this playwright?|",
+      "image":"https://i2.wp.com/stairnaheireann.net/wp-content/uploads/2016/03/soc6.jpg?resize=750%2C944&ssl=1",
+      "description_ru":"Этот ирландский драматург родился в 1880 г. в Дублине и был, согласно его биографии, воспитан на улицах Дублина. В четырнадцать лет он уже работал на железной дороге. Как драматург он стал известен в 1923 г. благодаря пьесе «Тень стрелка». Его пьеса «Плуг и звезды» послужила толчком к национальным волнениям в 1926 г. Он отправился в Англию в 1926 г. и поселился там навсегда. К более поздним его произведениям принадлежат «Красные розы для меня» (1942) и «Костер епископа» (1955). Он умер в 1964 г. \n\n|Как зовут этого драматурга?| \n\n|Sean O'Casey\nШон О’Кейси|",
+      "translation_words":[
+         {
+            "original":"playwright",
+            "transcription":"[ˈpleɪraɪt]",
+            "translation":"драматург"
+         },
+         {
+            "original":"to educate",
+            "transcription":"[ˈedjʊkeɪt]",
+            "translation":"воспитывать, давать образование"
+         },
+         {
+            "original":"labouring",
+            "transcription":"[ˈleɪbərɪŋ]",
+            "translation":"трудящийся, рабочий"
+         },
+         {
+            "original":"railroad",
+            "transcription":"[ˈreɪlrəʊd]",
+            "translation":"железнодорожный, железная дорога"
+         },
+         {
+            "original":"to include",
+            "transcription":"[ɪnˈkluːd]",
+            "translation":"включать, заключать"
+         },
+         {
+            "original":"permanently",
+            "transcription":"[ˈpɜːm(ə)nəntlɪ]",
+            "translation":"постоянно, надолго"
+         }
+      ]
+   },
+   {
+      "title":"A Treat for Easter",
+      "title_ru":"Пасхальный обед",
+      "description_en":"Loma: I have ordered lamb for Easter. With the leftovers I can make a curry.\nEric: If it tastes as good as the roast lamb you made last Easter, there won’t be any left.\nLoma: It is not often that I get compliments for my cooking. The spring weather must be affecting you",
+      "image":"https://static01.nyt.com/images/2015/03/18/multimedia/recipe-lab-lamb/recipe-lab-lamb-superJumbo.jpg",
+      "description_ru":"Лорна: Я заказала к Пасхе ягненка. Из остатков можно приготовить карри.\nЭрик: Если это будет так же вкусно, как жаркое из ягненка на прошлую Пасху, там ничего не останется.\nЛорна: Не часто мне делают комплименты за мою стряпню. Это на тебя весенняя погода действует.",
+      "translation_words":[
+         {
+            "original":"treat",
+            "transcription":"[triːt]",
+            "translation":"праздничное угощение"
+         },
+         {
+            "original":"lamb",
+            "transcription":"[læm]",
+            "translation":"ягненок"
+         },
+         {
+            "original":"leftover",
+            "transcription":"[ˈleftəʊvə]",
+            "translation":"остаток"
+         },
+         {
+            "original":"roast",
+            "transcription":"[rəʊst]",
+            "translation":"жаркое"
+         },
+         {
+            "original":"compliment",
+            "transcription":"[ˈkɒmplɪment]",
+            "translation":"комплимент"
+         },
+         {
+            "original":"spring",
+            "transcription":"[sprɪŋ]",
+            "translation":"весна"
+         },
+         {
+            "original":"to affect",
+            "transcription":"[əˈfekt]",
+            "translation":"влиять, действовать"
+         }
+      ]
+   },
+   {
+      "title":"A Town in Warwickshire",
+      "title_ru":"Город в Уорвикшире",
+      "description_en":"This town is the birthplace of the most famous English playwright, William Shakespeare. It is situated on the river Avon which is in fact a part of the name of the town. On April 23rd, Shakespeare’s birthday, the Shakespeare Festival begins here every year. It is visited by people from all over the world. Many quaint houses in the “Tudor” style, which was the building style of Shakespeare’s day and age, still exist in this town.\n\n|What is the name of the town ?|",
+      "image":"https://turizm.world/wp-content/uploads/2016/04/birthplace-museum-stratford-upon-avon-england.jpg",
+      "description_ru":"В этом городе родился знаменитый английский драматург Уильям Шекспир. Город расположен на реке Эйвон, чье название, по сути, является частью названия города. 23 апреля, в день рождения Шекспира, здесь каждый год открывается Шекспировский фестиваль. На него съезжаются люди со всего мира. В этом городе до сих пор существует много живописных домов в стиле эпохи Тюдоров — архитектурном стиле времен Шекспира.\n\n|Как называется этот город?| \n\n|Stratford-upon-Avon|\n|Стратфорд-на-Эйвоне|",
+      "translation_words":[
+         {
+            "original":"birthplace",
+            "transcription":"[ˈbɜːθpleɪs]",
+            "translation":"место рождения, родина"
+         },
+         {
+            "original":"situate",
+            "transcription":"[ˈsɪtʃʊeɪt]",
+            "translation":"располагать, размещать"
+         },
+         {
+            "original":"quaint",
+            "transcription":"[kweɪnt]",
+            "translation":"причудливый, необычный"
+         },
+         {
+            "original":"still",
+            "transcription":"[stɪl]",
+            "translation":"еще, все еще, все-таки, неподвижный"
+         },
+         {
+            "original":"exist",
+            "transcription":"[ɪɡˈzɪst]",
+            "translation":"существовать, быть, находиться"
+         }
+      ]
+   },
+   {
+      "title":"Easter",
+      "title_ru":"Пасха",
+      "description_en":"Loma: After lunch, shall we go out on our bikes, or would you rather laze around in the garden?\nEric: It depends on how many bottles of wine we get through with our roast lamb.\nLoma: You could of course drink tea, but I suppose a cool bottle of rose would be nice.",
+      "image":"https://premierlawns.co.uk/wp-content/uploads/2021/03/Easter-garden-decor-1200x800.jpg",
+      "description_ru":"Лорна: Покатаемся после обеда на велосипеде или ты захочешь отдохнуть в саду?\nЭрик: Это зависит от того, сколько бутылок вина мы осилим под жаркое из ягненка.\nЛорна: Ты, конечно, можешь пить чай, но мне кажется, бутылка прохладного розового — очень неплохо.",
+      "translation_words":[
+         {
+            "original":"lunch",
+            "transcription":"[lʌn(t)ʃ]",
+            "translation":"обед"
+         },
+         {
+            "original":"to laze around",
+            "transcription":"[leɪz əˈraʊnd]",
+            "translation":"лениться, отдыхать"
+         },
+         {
+            "original":"to get through",
+            "transcription":"[ˈɡet θruː]",
+            "translation":"одолеть, осилить"
+         },
+         {
+            "original":"of course",
+            "transcription":"[əv kɔːs]",
+            "translation":"конечно"
+         },
+         {
+            "original":"to depend",
+            "transcription":"[dɪˈpend]",
+            "translation":"зависеть"
+         },
+         {
+            "original":"to suppose",
+            "transcription":"[səˈpəʊz]",
+            "translation":"предполагать"
+         },
+         {
+            "original":"cool",
+            "transcription":"[kuːl]",
+            "translation":"прохладный, охлажденный"
+         }
+      ]
+   },
+   {
+      "title":"At the Greengrocer’s",
+      "title_ru":"У торговца овощами",
+      "description_en":"Loma: Those are very nice-looking tomatoes.\nGrocer: They are fresh in today. They come from a farm which grows vegetables organically.\nLoma: Then I will take six. Do you have lettuce and cucumber from the same farm?\nGrocer: Yes, of course. And these potatoes are also from the same place.",
+      "image":"https://www.goodfruitandvegetables.com.au/images/transform/v1/crop/frm/cmVmMQsbi2AtDjEpmZLhes/d3eb47a2-54de-4961-afba-bf7dd01474fc.jpg/r0_0_5760_3840_w1200_h678_fmax.jpg",
+      "description_ru":"Лорна: Помидоры на вид очень хорошие.\nПродавец: Они только сегодня поступили. Они с фермы, где овощи выращивают на органике.\nЛорна: Тогда я возьму шесть штук. А у вас есть салат-латук и огурцы с той же фермы?\nПродавец: Да, конечно. И эта картошка тоже оттуда.",
+      "translation_words":[
+         {
+            "original":"greengrocer",
+            "transcription":"[ˈɡriːnɡrəʊsə]",
+            "translation":"торговец овощами, продавец овощей"
+         },
+         {
+            "original":"tomato",
+            "transcription":"[təˈmɑːtəʊ]",
+            "translation":"томат, помидор"
+         },
+         {
+            "original":"to grow",
+            "transcription":"[ɡrəʊ]",
+            "translation":"расти, выращивать"
+         },
+         {
+            "original":"vegetable",
+            "transcription":"[ˈvedʒtəb(ə)l]",
+            "translation":"овощ"
+         },
+         {
+            "original":"organically",
+            "transcription":"[ɔːˈɡænɪk(ə)lɪ]",
+            "translation":"органически"
+         },
+         {
+            "original":"lettuce",
+            "transcription":"[ˈletɪs]",
+            "translation":"салат-латук"
+         },
+         {
+            "original":"cucumber",
+            "transcription":"[cucumber]",
+            "translation":"огурец"
+         },
+         {
+            "original":"potato",
+            "transcription":"[pəˈteɪtəʊ]",
+            "translation":"картофель, картошка"
+         }
+      ]
+   },
+   {
+      "title":"A Duchy",
+      "title_ru":"Герцогство",
+      "description_en":"We are looking for a duchy situated in the extreme south-west of England. Many ships have come to grief on the rocky coast there. In bygone centuries pirates were at work there, misdirecting ships so that they would run aground. In olden days brandy and wine were smuggled across from France. Today it is a popular area for tourism as the Gulf Stream warms the waters around the coastline.\n\n|What is the name of this duchy which belongs to the Prince of Wales?|",
+      "image":"https://leger.imgix.net/Destinations/Uk_D17/Portreath_P4865/portreath-25886.jpg?w=600&h=350&auto=compress,enhance,format&q=50&fit=crop&crop=edges",
+      "description_ru":"Мы ищем герцогство, расположенное на крайнем юго-западе Англии. Много кораблей пострадало там на скалистых утесах. В прошлые века там орудовали пираты, обманом заводя корабли на скалы. В старые времена туда контрабандой доставляли бренди и вино из Франции. Сейчас это популярный курорт, поскольку Гольфстрим согревает там воду у побережья.\n\n|Как называется это герцогство, принадлежащее принцу Уэльскому?|\n\n|Cornwall| \n|Корнуолл|",
+      "translation_words":[
+         {
+            "original":"extreme",
+            "transcription":"[ɪkˈstriːm]",
+            "translation":"крайний, экстремальный, чрезвычайный"
+         },
+         {
+            "original":"come to grief",
+            "transcription":"[kʌm tuː ɡriːf]",
+            "translation":"потерпеть поражение, попасть в беду"
+         },
+         {
+            "original":"bygone",
+            "transcription":"[ˈbaɪɡɒn]",
+            "translation":"прошлый, пережитый"
+         },
+         {
+            "original":"to misdirect",
+            "transcription":"[]",
+            "translation":"адресовать неправильно, неверно направлять"
+         },
+         {
+            "original":"brandy",
+            "transcription":"[ˈbrændɪ]",
+            "translation":"бренди, коньяк"
+         },
+         {
+            "original":"smuggle",
+            "transcription":"[ˈsmʌɡ(ə)l]",
+            "translation":"заниматься контрабандой, провозить контрабандой"
+         },
+         {
+            "original":"coastline",
+            "transcription":"[ˈkəʊs(t)laɪn]",
+            "translation":"береговая линия"
+         }
+      ]
+   },
+   {
+      "title":"Taking Work Home",
+      "title_ru":"Работа на дому",
+      "description_en":"Eric has had a lot of work in his office lately. As he did not manage to complete everything, he decides to take some papers home with him. His wife is not exactly pleased when she sees him arrive with a briefcase full of work. But when Eric explains that he would otherwise have to work late in the evenings, she agrees that he has chosen the better alternative.",
+      "image":"https://specials-images.forbesimg.com/imageserve/1125572473/960x0.jpg?cropX1=0&cropX2=5425&cropY1=0&cropY2=3617",
+      "description_ru":"В последнее время у Эрика много работы в офисе. Поскольку он не успевает всё закончить вовремя, он решает взять некоторые документы домой. Его жена не в восторге, видя, что он приезжает с портфелем, полным деловых бумаг. Но когда Эрик объясняет, что иначе ему пришлось бы допоздна работать в офисе, она соглашается, что он сделал лучший выбор.",
+      "translation_words":[
+         {
+            "original":"lately",
+            "transcription":"[ˈleɪtlɪ]",
+            "translation":"недавно; в последнее время"
+         },
+         {
+            "original":"to manage",
+            "transcription":"[ˈmænɪdʒ]",
+            "translation":"справляться, управлять, руководить"
+         },
+         {
+            "original":"to complete",
+            "transcription":"[kəmˈpliːt]",
+            "translation":"заканчивать"
+         },
+         {
+            "original":"not exactly",
+            "transcription":"[nɒt ɪɡˈzæk(t)lɪ]",
+            "translation":"не очень, не совсем"
+         },
+         {
+            "original":"pleased",
+            "transcription":"[pliːzd]",
+            "translation":"довольный, радостный"
+         },
+         {
+            "original":"briefcase",
+            "transcription":"[ˈbriːfkeɪs]",
+            "translation":"портфель"
+         },
+         {
+            "original":"to explain",
+            "transcription":"[ɪkˈspleɪn]",
+            "translation":"объяснять"
+         },
+         {
+            "original":"to agree",
+            "transcription":"[əˈɡriː]",
+            "translation":"соглашаться"
+         },
+         {
+            "original":"to choose",
+            "transcription":"[tʃuːz]",
+            "translation":"выбирать"
+         },
+         {
+            "original":"alternative",
+            "transcription":"[ɔːlˈtɜːnətɪv]",
+            "translation":"альтернатива, выбор из двух возможностей"
+         }
+      ]
+   },
+   {
+      "title":"Who is it?",
+      "title_ru":"Кто это?",
+      "description_en":"The authoress, sketcher and painter we are looking for was bom in Kensington in 1866 to wealthy parents. She was never sent to school and grew up a very lonely child. She is famous for her children’s books such as “The Tale of Peter Rabbit” or “Squirrel Nutkin” which was her first great success, published in 1903. All of her books concern small animals, and they have been enjoyed by generations of children and adults alike. \n\n|What is the name of the artist?|",
+      "image":"https://cdn.shopify.com/s/files/1/0591/9493/articles/Beatrix-Potter_1024x1024.jpg?v=1605609004",
+      "description_ru":"Писательница, рисовальщица и художница, которую мы ищем, родилась в Кенсингтоне в 1866 г. в семье состоятельных родителей. Она никогда не ходила в школу и росла очень одиноким ребенком. Она известна своими детскими книгами «История кролика Питера» (1900 г.) и «Бельчонок Наткин», опубликованный в 1903 г. и принесший ей успех. Все ее книги рассказывают о разных зверюшках и любимы поколениями детей и взрослых.\n\n|Как зовут эту художницу?| \n\n|Beatrix Potter (1866-1943)| \n|Беатрис Поттер|",
+      "translation_words":[
+         {
+            "original":"sketcher",
+            "transcription":"[sketʃə]",
+            "translation":"рисовальщик"
+         },
+         {
+            "original":"wealthy",
+            "transcription":"[ˈwelθɪ]",
+            "translation":"богатый, состоятельный"
+         },
+         {
+            "original":"to grow (grew, grown) up",
+            "transcription":"[ɡrəʊ (ɡruː, ɡrəʊn) ʌp]",
+            "translation":"вырастать, подрасти"
+         },
+         {
+            "original":"success",
+            "transcription":"[səkˈses]",
+            "translation":"успех, удача"
+         },
+         {
+            "original":"to concern",
+            "transcription":"[kənˈsɜːn]",
+            "translation":"описывать"
+         },
+         {
+            "original":"generation",
+            "transcription":"[dʒenəˈreɪʃ(ə)n]",
+            "translation":"поколение, генерация"
+         }
+      ]
+   },
+   {
+      "title":"A Win in the Pools",
+      "title_ru":"Выигрыш на тотализаторе",
+      "description_en":"Eric: I think I have won some money on the pools.\nJohn: A lot?\nEric: No, we will certainly not be millionaires, but it should be one or two hundred pounds.\nJohn: That’s not bad. But you have probably paid more in during the last two years.",
+      "image":"https://www.telegraph.co.uk/content/dam/betting/Better-Collective/football-mobile-bet-xlarge.jpg",
+      "description_ru":"Эрик: Похоже, я выиграл на тотализаторе.\nДжон: Много?\nЭрик: Нет, конечно, миллионерами мы не будем, но одну или две сотни фунтов получим.\nДжон: Неплохо. Но ты, должно быть, больше просадил там за последние два года.",
+      "translation_words":[
+         {
+            "original":"pool",
+            "transcription":"[puːl]",
+            "translation":"футбольный тотализатор"
+         },
+         {
+            "original":"certainly",
+            "transcription":"[ˈsɜːtnlɪ]",
+            "translation":"определенно, точно"
+         },
+         {
+            "original":"millionaire",
+            "transcription":"[mɪljəˈneə]",
+            "translation":"миллионер"
+         },
+         {
+            "original":"to pay in",
+            "transcription":"[peɪ ɪn]",
+            "translation":"вкладывать деньги, платить"
+         },
+         {
+            "original":"probably",
+            "transcription":"[ˈprɒbəblɪ]",
+            "translation":"вероятно"
+         },
+         {
+            "original":"during",
+            "transcription":"[ˈdjʊərɪŋ]",
+            "translation":"во время, в течение"
+         }
+      ]
+   },
+   {
+      "title":"At the Tailor’s",
+      "title_ru":"У портного",
+      "description_en":"Eric wants to buy a new suit, but as he has been invited to this is a good reason to have a new suit made now. At the tailor’s shop he is shown a lot of different materials and eventually is able to choose one. Then he is measured by the tailor and is told to come back next week for the first fitting. He needed one anyway, a wedding he thinks that",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Raja_Daswani_Fitting.jpg",
+      "description_ru":"Эрик хочет купить новый костюм. Костюм ему всё равно был нужен, но поскольку его пригласили на свадьбу, есть веская причина сшить костюм прямо сейчас. В ателье Эрику показывают множество разных материалов, и наконец он решает выбрать один из них. Затем портной снимает с Эрика мерку и говорит, чтобы он пришел на первую примерку на следующей неделе.",
+      "translation_words":[
+         {
+            "original":"tailor",
+            "transcription":"[ˈteɪlə]",
+            "translation":"портной"
+         },
+         {
+            "original":"suit",
+            "transcription":"[suːt]",
+            "translation":"костюм"
+         },
+         {
+            "original":"reason",
+            "transcription":"[ˈriːz(ə)n]",
+            "translation":"причина,довод"
+         },
+         {
+            "original":"material",
+            "transcription":"[məˈtɪərɪəl]",
+            "translation":"материал, материя"
+         },
+         {
+            "original":"eventually",
+            "transcription":"[ɪˈventʃʊəlɪ]",
+            "translation":"наконец"
+         },
+         {
+            "original":"to be able to",
+            "transcription":"[bɪ ˈeɪbl tuː]",
+            "translation":"быть в состоянии"
+         },
+         {
+            "original":"to choose",
+            "transcription":"[tʃuːz]",
+            "translation":"выбирать"
+         },
+         {
+            "original":"to measure",
+            "transcription":"[ˈmeʒə]",
+            "translation":"мерить, измерять, снимать мерку"
+         },
+         {
+            "original":"fitting",
+            "transcription":"[ˈfɪtɪŋ]",
+            "translation":"примерка"
+         }
+      ]
+   },
+   {
+      "title":"A Discoverer",
+      "title_ru":"Первооткрыватель",
+      "description_en":"A famous sailor, bom in 1728, left records of his three main voyages in “An Account of a Voyage around the World 1768-71 compiled from his log-book and diaries from one of the botanists who accompanied him. He discovered the east coast of Australia and also a strait and islands which are named after him. He rediscovered the Hawaii islands. On his third trip to Hawaii in 1779, he was murdered by natives there. \n\n|What is the name of this great seaman ?|",
+      "image":"https://iprosurv.com/wp-content/uploads/2019/09/CAptain-James-Cook.jpg",
+      "description_ru":"Знаменитый мореплаватель, родившийся в 1728 г., оставил воспоминания о своих трех главных путешествиях в «Отчете о путешествии вокруг света в 1768—71 гг.», составленном по материалам его судового журнала и запискам одного из ботаников, сопровождавших его. Он открыл восточное побережье Австралии, а также пролив и острова, названные его именем. Он вновь открыл Гавайские острова. Во время своего третьего путешествия на Гавайи в 1779 г. он был убит туземцами. Как зовут этого знаменитого мореплавателя? \n\n|James Cook (1728— 1779)| \n|Джеймс Кук|",
+      "translation_words":[
+         {
+            "original":"sailor",
+            "transcription":"[ˈseɪlə]",
+            "translation":"мореплаватель, моряк"
+         },
+         {
+            "original":"record",
+            "transcription":"[rɪˈkɔːd]",
+            "translation":"запись, воспоминание"
+         },
+         {
+            "original":"voyage",
+            "transcription":"[ˈvɔɪɪdʒ]",
+            "translation":"путешествие"
+         },
+         {
+            "original":"log-book",
+            "transcription":"[ˈlɒɡbʊk]",
+            "translation":"журнал"
+         },
+         {
+            "original":"diary",
+            "transcription":"[ˈdaɪərɪ]",
+            "translation":"дневник, записная книжка"
+         },
+         {
+            "original":"to compile",
+            "transcription":"[kəmˈpaɪl]",
+            "translation":"компилировать, составлять"
+         },
+         {
+            "original":"to discover",
+            "transcription":"[dɪˈskʌvə]",
+            "translation":"обнаруживать, открывать"
+         },
+         {
+            "original":"to murder",
+            "transcription":"[ˈmɜːdə]",
+            "translation":"убивать"
+         }
+      ]
+   },
+   {
+      "title":"A List of Wedding Presents",
+      "title_ru":"Список свадебных подарков",
+      "description_en":"Sarah has received a list of wedding presents from her cousin, which seems quite a sensible idea to her. There are quite a few household items written down, as her cousin will immediately move into a house of her own with her husband. Sarah chooses a series of expensive pots and pans which she will buy together with her parents and her brother.",
+      "image":"https://www.alfonsolongobardi.com/wp-content/uploads/2020/03/Great-Wedding-Gift-List-05.jpg",
+      "description_ru":"Сара получила от своей двоюродной сестры список свадебных подарков, что кажется ей вполне разумной идеей. В нем довольно много вещей, нужных в домашнем хозяйстве, так как двоюродная сестра как раз переезжает с мужем в новый собственный дом. Сара выбирает дорогой набор кастрюль и сковород, которые она купит вместе со своими родителями и братом.",
+      "translation_words":[
+         {
+            "original":"list",
+            "transcription":"[lɪst]",
+            "translation":"список, перечень"
+         },
+         {
+            "original":"sensible",
+            "transcription":"[ˈsensɪb(ə)l]",
+            "translation":"разумный"
+         },
+         {
+            "original":"quite a few",
+            "transcription":"[kwaɪt ə fjuː]",
+            "translation":"довольно много"
+         },
+         {
+            "original":"household",
+            "transcription":"[ˈhaʊshəʊld]",
+            "translation":"домашнее хозяйство"
+         },
+         {
+            "original":"item",
+            "transcription":"[ˈaɪtəm]",
+            "translation":"предмет; пункт"
+         },
+         {
+            "original":"immediately",
+            "transcription":"[ɪˈmiːdɪətlɪ]",
+            "translation":"непосредственно, тотчас"
+         },
+         {
+            "original":"of her own",
+            "transcription":"[ɒv hə(r) əʊn]",
+            "translation":"собственный"
+         },
+         {
+            "original":"series",
+            "transcription":"[ˈsɪəriːz]",
+            "translation":"серия; ряд, набор"
+         },
+         {
+            "original":"expensive",
+            "transcription":"[ɪkˈspensɪv]",
+            "translation":"дорогой, дорогостоящий"
+         }
+      ]
+   },
+   {
+      "title":"In the Travel Agency",
+      "title_ru":"В турагентстве",
+      "description_en":"Eric: We would like to go to Paris for a long weekend. Could you arrange the flight and hotel for us, please?\nAgent: Of course. Which standard of hotel would you like?\nEric: Well, something in the centre of Paris which does not cost the earth.",
+      "image":"https://miro.medium.com/max/3798/1*RbBwF9pMlxQm45cVjDch4w.jpeg",
+      "description_ru":"Эрик: Мы хотели бы отправиться в Париж на несколько выходных дней. Будьте добры, вы могли бы подобрать для нас рейс и гостиницу?\nАгент: Конечно. Какой класс отеля вы предпочитаете?\nЭрик: Ну, что-нибудь в центре Парижа и не по заоблачной цене.",
+      "translation_words":[
+         {
+            "original":"to arrange",
+            "transcription":"[əˈreɪn(d)ʒ]",
+            "translation":"согласовывать, подбирать"
+         },
+         {
+            "original":"flight",
+            "transcription":"[flaɪt]",
+            "translation":"полет, рейс"
+         },
+         {
+            "original":"standard",
+            "transcription":"[ˈstændəd]",
+            "translation":"стандарт, класс"
+         },
+         {
+            "original":"centre",
+            "transcription":"[ˈsentə]",
+            "translation":"центр"
+         },
+         {
+            "original":"to cost the earth",
+            "transcription":"[kɒst ðiː ɜːθ]",
+            "translation":"стоить очень дорого"
+         }
+      ]
+   }
+]
