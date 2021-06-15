@@ -383,5 +383,185 @@
             "translation":"ошибка"
          }
       ]
+   },
+    {
+      "title":"New Year’s Day",
+      "title_ru":"Первый день Нового года",
+      "description_en":"Loma: That was a great party last night, wasn’t it? \n Eric: The last guests went home at four о ’clock. \n Loma: I ’m sure Betty would have stayed on, but Paul insisted that they had to go home. \n Eric: Well, they still had an hour’s drive ahead of them.",
+      "image":"https://839253.smushcdn.com/1735869/wp-content/uploads/New-Years-Day.jpg?lossy=0&strip=1&webp=1",
+      "description_ru":"Лорна: Отличная вечеринка была вчера, правда? \nЭрик: Последние гости разошлись в четыре утра. \nЛорна: Уверена, что Бетти хотела бы остаться, но Пол настаивал, чтобы они шли домой. \nЭрик: Ну, им же еще предстояло целый час ехать.",
+      "translation_words":[
+         {
+            "original":"New Year’s Day",
+            "transcription":"[njuː jiə(r)z deɪ]",
+            "translation":"первый день Нового года"
+         },
+         {
+            "original":"great",
+            "transcription":"[ɡreɪt]",
+            "translation":"отличный, замечательный"
+         },
+         {
+            "original":"to stay on",
+            "transcription":"[steɪ ɒn]",
+            "translation":"оставаться ещё"
+         },
+         {
+            "original":"to insist",
+            "transcription":"[in'sist]",
+            "translation":"настаивать"
+         },
+         {
+            "original":"an hour’s drive",
+            "transcription":"[ˈaʊərz draɪv]",
+            "translation":"часовая поездка"
+         },
+         {
+            "original":"ahead of",
+            "transcription":"[əˈhed əv]",
+            "translation":"впереди, перед"
+         }
+      ]
+   },
+   {
+      "title":"New Year’s Day",
+      "title_ru":"Первый день Нового года",
+      "description_en":"Pete: Have you already phoned your parents to wish them a happy new year? \nSue: I ’ve tried several times, but no one picks up the receiver.\nPete: Maybe their party was as good as ours and they can’t get out of bed.",
+      "image":"https://img.championat.com/s/735x490/news/big/y/p/kak-aktivno-vstretit-novyj-god-2021_16087375151636517489.jpg",
+      "description_ru":"Пит: Ты уже позвонила своим родителям, чтобы поздравить их с Новым годом? \nСью: Я несколько раз пыталась, но никто не снимает трубку. \nПит: Наверное, у них была такая же веселая вечеринка, как у нас, и они не могут встать с постели.",
+      "translation_words":[
+         {
+            "original":"to phone s.o. up",
+            "transcription":"[foun ʌp]",
+            "translation":"звонить кому-либо"
+         },
+         {
+            "original":"several",
+            "transcription":"[ˈsevrəl]",
+            "translation":"несколько"
+         },
+         {
+            "original":"to pick up",
+            "transcription":"[pɪk ʌp]",
+            "translation":"снимать трубку"
+         },
+         {
+            "original":"receiver",
+            "transcription":"[rɪˈsiːvə]",
+            "translation":"телефонная трубка"
+         },
+         {
+            "original":"as good as",
+            "transcription":"[əz ɡʊd əz]",
+            "translation":"такой же (хороший), как"
+         }
+      ]
+   },
+   {
+      "title":"A Famous Author",
+      "title_ru":"Знаменитый писатель",
+      "description_en":"This famous author was born in Bombay in 1865. He was brought to England in 1871 where he spent five years separated from his parents. He recalls this period with bitterness in his novel “The Light that Failed”. Later he worked as a journalist in India, and many of his earlier poems and stories were originally published in newspapers. Perhaps his most famous works are his tales for children, “The Jungle Book” and “Kim” which is generally considered to be his masterpiece. \n\nWhat is the name of this author?",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Rudyard_Kipling_%28portrait%29.jpg",
+      "description_ru":"Этот знаменитый писатель родился в 1865 г. в Бомбее (Индия). В 1871 г. он прибыл в Англию, где провел пять лет в разлуке со своими родителями. В своем романе «Свет погас» (“The Light that Failed”) он с горечью вспоминает об этом времени. Потом он работал журналистом в Индии, и многие из его ранних стихотворений и рассказов были впервые опубликованы в газетах. Возможно, наиболее известные его произведения - истории для детей; «Книга джунглей» и «Ким» считаются вершинами его творчества. \n\nКак зовут этого писателя?\n\nRudyard Kipling (1865—1936) \n\nРедьярд Киплинг",
+      "translation_words":[
+         {
+            "original":"to bring (brought, brought)",
+            "transcription":"[brɪŋ]",
+            "translation":"приносить, доставить"
+         },
+         {
+            "original":"to spend",
+            "transcription":"[spend]",
+            "translation":"потратить"
+         },
+         {
+            "original":"bitterness",
+            "transcription":"[bɪtənəs]",
+            "translation":"горечь"
+         },
+         {
+            "original":"to consider",
+            "transcription":"[kənˈsɪdə]",
+            "translation":"считать, рассматривать"
+         },
+         {
+            "original":"masterpiece",
+            "transcription":"[ˈmɑːstəpiːs]",
+            "translation":"шедевр"
+         }
+      ]
+   },
+   {
+      "title":"Discussing the Weekend",
+      "title_ru":"Обсуждая выходные",
+      "description_en":"John: Did you enjoy yourselves in Scotland? \nEric: Yes, we had a really good time. I think everyone needs a few short breaks throughout the year. One long holiday in summer is not enough. \nJohn: The trouble is that you can’t just take time off work when it suits you.",
+      "image":"https://www.ncertbooks.guru/wp-content/uploads/2021/01/Conversation-Between-Two-Friends-about-weekend-plans.jpg",
+      "description_ru":"Джон: Вам понравилось в Шотландии? \nЭрик: Да, мы отлично провели время. Думаю, каждому нужен короткий отпуск несколько раз в году. Одного большого отпуска летом недостаточно. \nДжон: Проблема в том, что ты не всегда можешь взять отпуск, когда тебе это удобно.",
+      "translation_words":[
+         {
+            "original":"to discuss",
+            "transcription":"[dɪˈskʌs]",
+            "translation":"обсуждать"
+         },
+         {
+            "original":"break",
+            "transcription":"[breɪk]",
+            "translation":"перерыв, пауза, отпуск"
+         },
+         {
+            "original":"throughout",
+            "transcription":"[θruːˈaʊt]",
+            "translation":"в течение, в продолжение"
+         },
+         {
+            "original":"to take time off work",
+            "transcription":"[teɪk taɪm ɒf wɜːk]",
+            "translation":"брать отпуск"
+         },
+         {
+            "original":"to suit",
+            "transcription":"[suːt]",
+            "translation":"подходить"
+         }
+      ]
+   },
+   {
+      "title":"A New Telephone Directory",
+      "title_ru":"Новая телефонная книга",
+      "description_en":"Loma: I picked up the new telephone directory at the post office today and would you believe it — they have spelt our name wrong again. \nEric: I thought I had made enough fuss last year so that it would not happen again. \nLoma: They have changed the name from last year, but they made a different mistake.",
+      "image":"https://us.123rf.com/450wm/olegdudko/olegdudko1908/olegdudko190800756/128032614-old-fashioned-phone-on-background.jpg?ver=6",
+      "description_ru":"Лорна: Я сегодня взяла на почте новую телефонную книгу, и представляешь, — они опять неправильно написали нашу фамилию. \nЭрик: Я думал, что в прошлом году я приложил достаточно усилий, чтобы это не повторилось. \nЛорна: Они изменили фамилию по сравнению с прошлым годом, но сделали другую ошибку.",
+      "translation_words":[
+         {
+            "original":"telephone directory",
+            "transcription":"[ˈtelɪfəʊn dɪˈrekt(ə)rɪ]",
+            "translation":"телефонная книга, телефонный справочник"
+         },
+         {
+            "original":"post office",
+            "transcription":"[pəʊst ˈɒfɪs]",
+            "translation":"почта"
+         },
+         {
+            "original":"to spell (spelt, spelt)",
+            "transcription":"[spel, spelt]",
+            "translation":"произносить по буквам"
+         },
+         {
+            "original":"fuss",
+            "transcription":"[fʌs]",
+            "translation":"усилия; суета, волнение"
+         },
+         {
+            "original":"different",
+            "transcription":"[ˈdɪf(ə)r(ə)nt]",
+            "translation":"другой, иной"
+         },
+         {
+            "original":"mistake",
+            "transcription":"[mɪˈsteɪk]",
+            "translation":"ошибка"
+         }
+      ]
    }
 ]
