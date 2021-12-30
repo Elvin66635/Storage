@@ -1,27 +1,32 @@
 [
    {
+      "id":1,
       "image":"https://cdn.pixabay.com/photo/2017/06/17/04/17/family-2411131_1280.png",
       "title":"Семья",
-      "complexity":5
+      "complexity":1
    },
    {
+      "id":2,
       "image":"https://icons-for-free.com/iconfiles/png/512/case+job+work+icon-1320185594726714045.png",
       "title":"Работа",
-      "complexity":2
+      "complexity":1
    },
    {
+      "id":3,
       "image":"https://cdn0.iconfinder.com/data/icons/holidays-icons-rounded/110/Travel-Bag-512.png",
       "title":"Путешествие",
-      "complexity":4
+      "complexity":1
    },
    {
-   "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Creative-Tail-Animal-dog.svg/1024px-Creative-Tail-Animal-dog.svg.png",
-   "title":"Животные",
-   "complexity":2
+      "id":4,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Creative-Tail-Animal-dog.svg/1024px-Creative-Tail-Animal-dog.svg.png",
+      "title":"Животные",
+      "complexity":1
    },
    {
-   "image":"https://icons-for-free.com/iconfiles/png/512/headphone+media+music+play+sound+icon-1320165688976660633.png",
-   "title":"Музыка",
-   "complexity":3
+      "id":5,
+      "image":"https://icons-for-free.com/iconfiles/png/512/headphone+media+music+play+sound+icon-1320165688976660633.png",
+      "title":"Музыка",
+      "complexity":1
    }
 ]
