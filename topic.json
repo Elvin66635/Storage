@@ -1,6 +1,14 @@
 [
    {
-   "image":"https://i.pinimg.com/originals/96/ff/ff/96ffff6ea29f9f8a56363c2c6b23a340.jpg",
-   "title":"Семья"
-}
+      "image":"https://i.pinimg.com/originals/96/ff/ff/96ffff6ea29f9f8a56363c2c6b23a340.jpg",
+      "title":"Семья"
+   },
+   {
+      "image":"https://icons-for-free.com/iconfiles/png/512/case+job+work+icon-1320185594726714045.png",
+      "title":"Работа"
+   },
+   {
+      "image":"https://cdn0.iconfinder.com/data/icons/holidays-icons-rounded/110/Travel-Bag-512.png",
+      "title":"Путешествие"
+   }
 ]
