@@ -43,6 +43,7 @@
       "optionTwo":"Argentina2",
       "optionThree":"Argentina3",
       "optionFour":"Argentina4",
+      "correctAnswer":1,
       "quizDetails":[
          {
             "question":"Что-то про путешествие"
