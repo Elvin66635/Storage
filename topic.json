@@ -7,10 +7,18 @@
       "quizDetails":[
          {
             "question":"Что-то про семью",
-            "optionOne":"Argentina1",
-            "optionTwo":"Argentina2",
-            "optionThree":"Argentina3",
-            "optionFour":"Argentina4",
+            "optionOne":"Family1",
+            "optionTwo":"Family1",
+            "optionThree":"Family1",
+            "optionFour":"Family1",
+            "correctAnswer":1
+         },
+         {
+            "question":"Что-то про семью2",
+            "optionOne":"Family2",
+            "optionTwo":"Family2",
+            "optionThree":"Family2",
+            "optionFour":"Family2",
             "correctAnswer":1
          }
       ]
