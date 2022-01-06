@@ -20,6 +20,22 @@
             "optionThree":"Family2",
             "optionFour":"Family2",
             "correctAnswer":1
+         },
+          {
+            "question":"Что-то про семью3",
+            "optionOne":"Family3",
+            "optionTwo":"Family3",
+            "optionThree":"Family1",
+            "optionFour":"Family1",
+            "correctAnswer":1
+         },
+         {
+            "question":"Что-то про семью4",
+            "optionOne":"Family4",
+            "optionTwo":"Family4",
+            "optionThree":"Family2",
+            "optionFour":"Family2",
+            "correctAnswer":1
          }
       ]
    },
