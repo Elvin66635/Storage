@@ -10,7 +10,6 @@
             "optionOne":"Family1",
             "optionTwo":"Family1",
             "optionThree":"Family1",
-            "optionFour":"Family1",
             "correctAnswer":1
          },
          {
@@ -18,7 +17,6 @@
             "optionOne":"Family2",
             "optionTwo":"Family2",
             "optionThree":"Family2",
-            "optionFour":"Family2",
             "correctAnswer":1
          },
          {
@@ -26,7 +24,6 @@
             "optionOne":"Family3",
             "optionTwo":"Family3",
             "optionThree":"Family1",
-            "optionFour":"Family1",
             "correctAnswer":1
          },
          {
@@ -34,7 +31,6 @@
             "optionOne":"Family4",
             "optionTwo":"Family4",
             "optionThree":"Family2",
-            "optionFour":"Family2",
             "correctAnswer":1
          },
          {
@@ -42,7 +38,6 @@
             "optionOne":"Family5",
             "optionTwo":"Family5",
             "optionThree":"Family5",
-            "optionFour":"Family5",
             "correctAnswer":1
          },
          {
@@ -50,7 +45,6 @@
             "optionOne":"Family6",
             "optionTwo":"Family6",
             "optionThree":"Family6",
-            "optionFour":"Family6",
             "correctAnswer":1
          },
          {
@@ -58,7 +52,6 @@
             "optionOne":"Family7",
             "optionTwo":"Family7",
             "optionThree":"Family7",
-            "optionFour":"Family7",
             "correctAnswer":1
          },
          {
@@ -66,7 +59,6 @@
             "optionOne":"Family8",
             "optionTwo":"Family8",
             "optionThree":"Family8",
-            "optionFour":"Family18",
             "correctAnswer":1
          },
          {
@@ -74,7 +66,6 @@
             "optionOne":"Family9",
             "optionTwo":"Family9",
             "optionThree":"Family9",
-            "optionFour":"Family9",
             "correctAnswer":1
          },
          {
@@ -82,7 +73,6 @@
             "optionOne":"Family10",
             "optionTwo":"Family10",
             "optionThree":"Family10",
-            "optionFour":"Family110",
             "correctAnswer":1
          }
       ]
@@ -98,7 +88,6 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
-            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
@@ -114,7 +103,6 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
-            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
@@ -130,7 +118,6 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
-            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
@@ -146,7 +133,6 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
-            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
