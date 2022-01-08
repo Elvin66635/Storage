@@ -35,7 +35,7 @@
          },
          {
             "question":"Daughter",
-            "optionOne":"Сестра",
+            "optionOne":"Дочь",
             "optionTwo":"Брат",
             "optionThree":"Тетя",
             "correctAnswer":1
