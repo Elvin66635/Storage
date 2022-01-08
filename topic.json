@@ -6,74 +6,130 @@
       "complexity":1,
       "quizDetails":[
          {
-            "question":"Что-то про семью",
-            "optionOne":"Family1",
-            "optionTwo":"Family1",
-            "optionThree":"Family1",
+            "question":"Family",
+            "optionOne":"Родители",
+            "optionTwo":"Cемья",
+            "optionThree":"Мать",
             "correctAnswer":2
          },
          {
-            "question":"Что-то про семью2",
-            "optionOne":"Family2",
-            "optionTwo":"Family2",
-            "optionThree":"Family2",
+            "question":"Parents",
+            "optionOne":"Отец",
+            "optionTwo":"Семья",
+            "optionThree":"Родители",
+            "correctAnswer":3
+         },
+         {
+            "question":"Father",
+            "optionOne":"Отец",
+            "optionTwo":"Мать",
+            "optionThree":"Внучка",
+            "correctAnswer":1
+         },
+         {
+            "question":"Mother",
+            "optionOne":"Брат",
+            "optionTwo":"Дядя",
+            "optionThree":"Мать",
+            "correctAnswer":3
+         },
+         {
+            "question":"Daughter",
+            "optionOne":"Сестра",
+            "optionTwo":"Брат",
+            "optionThree":"Тетя",
+            "correctAnswer":1
+         },
+         {
+            "question":"Son",
+            "optionOne":"Бабушка",
+            "optionTwo":"Сын",
+            "optionThree":"Внук",
             "correctAnswer":2
          },
          {
-            "question":"Что-то про семью3",
-            "optionOne":"Family3",
-            "optionTwo":"Family3",
-            "optionThree":"Family1",
+            "question":"Sister",
+            "optionOne":"Внук",
+            "optionTwo":"Сестра",
+            "optionThree":"Дедушка",
             "correctAnswer":2
          },
          {
-            "question":"Что-то про семью4",
-            "optionOne":"Family4",
-            "optionTwo":"Family4",
-            "optionThree":"Family2",
+            "question":"Brother",
+            "optionOne":"Брат",
+            "optionTwo":"Мать",
+            "optionThree":"Тетя",
+            "correctAnswer":1
+         },
+         {
+            "question":"Grandparents",
+            "optionOne":"Племянники",
+            "optionTwo":"Внучата",
+            "optionThree":"Бабушка и Дедушка",
+            "correctAnswer":3
+         },
+         {
+            "question":"Grandchildren",
+            "optionOne":"Внучата (внуки и внучки)",
+            "optionTwo":"Племянник",
+            "optionThree":"Бабушка и Дедушка",
+            "correctAnswer":1
+         },
+		 {
+            "question":"Grandfather",
+            "optionOne":"Бабушка",
+            "optionTwo":"Дедушка",
+            "optionThree":"Внук",
             "correctAnswer":2
          },
          {
-            "question":"Что-то про семью5",
-            "optionOne":"Family5",
-            "optionTwo":"Family5",
-            "optionThree":"Family5",
+            "question":"Grandmother",
+            "optionOne":"Внук",
+            "optionTwo":"Сестра",
+            "optionThree":"Бабушка",
+            "correctAnswer":3
+         },
+         {
+            "question":"Grandson",
+            "optionOne":"Внук",
+            "optionTwo":"Мать",
+            "optionThree":"Дедушка",
+            "correctAnswer":1
+         },
+         {
+            "question":"Granddaughter",
+            "optionOne":"Внучка",
+            "optionTwo":"Дядя",
+            "optionThree":"Племянница",
+            "correctAnswer":1
+         },
+		  {
+            "question":"Aunt",
+            "optionOne":"Племянники",
+            "optionTwo":"Внучата",
+            "optionThree":"Тетя",
+            "correctAnswer":3
+         },
+         {
+            "question":"Uncle",
+            "optionOne":"Дядя",
+            "optionTwo":"Племянник",
+            "optionThree":"Отец",
+            "correctAnswer":1
+         },
+		 {
+            "question":"Nephew",
+            "optionOne":"Бабушка",
+            "optionTwo":"Племянник",
+            "optionThree":"Внук",
             "correctAnswer":2
          },
          {
-            "question":"Что-то про семью6",
-            "optionOne":"Family6",
-            "optionTwo":"Family6",
-            "optionThree":"Family6",
-            "correctAnswer":2
-         },
-         {
-            "question":"Что-то про семью7",
-            "optionOne":"Family7",
-            "optionTwo":"Family7",
-            "optionThree":"Family7",
-            "correctAnswer":2
-         },
-         {
-            "question":"Что-то про семью8",
-            "optionOne":"Family8",
-            "optionTwo":"Family8",
-            "optionThree":"Family8",
-            "correctAnswer":2
-         },
-         {
-            "question":"Что-то про семью9",
-            "optionOne":"Family9",
-            "optionTwo":"Family9",
-            "optionThree":"Family9",
-            "correctAnswer":2
-         },
-         {
-            "question":"Что-то про семью10",
-            "optionOne":"Family10",
-            "optionTwo":"Family10",
-            "optionThree":"Family10",
-            "correctAnswer":2
+            "question":"Niece",
+            "optionOne":"Внук",
+            "optionTwo":"Сестра",
+            "optionThree":"Племянница",
+            "correctAnswer":3
          }
       ]
    },
@@ -88,6 +144,7 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
@@ -103,6 +160,7 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
@@ -118,6 +176,7 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
@@ -133,6 +192,74 @@
             "optionOne":"Argentina1",
             "optionTwo":"Argentina2",
             "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
+            "correctAnswer":1
+         }
+      ]
+   }
+]
+
+   },
+   {
+      "id":2,
+      "image":"https://icons-for-free.com/iconfiles/png/512/case+job+work+icon-1320185594726714045.png",
+      "title":"Работа",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"Что-то про работу",
+            "optionOne":"Argentina1",
+            "optionTwo":"Argentina2",
+            "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
+            "correctAnswer":1
+         }
+      ]
+   },
+   {
+      "id":3,
+      "image":"https://cdn0.iconfinder.com/data/icons/holidays-icons-rounded/110/Travel-Bag-512.png",
+      "title":"Путешествие",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"Что-то про путешествие",
+            "optionOne":"Argentina1",
+            "optionTwo":"Argentina2",
+            "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
+            "correctAnswer":1
+         }
+      ]
+   },
+   {
+      "id":4,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Creative-Tail-Animal-dog.svg/1024px-Creative-Tail-Animal-dog.svg.png",
+      "title":"Животные",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"Что-то про животных",
+            "optionOne":"Argentina1",
+            "optionTwo":"Argentina2",
+            "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
+            "correctAnswer":1
+         }
+      ]
+   },
+   {
+      "id":5,
+      "image":"https://icons-for-free.com/iconfiles/png/512/headphone+media+music+play+sound+icon-1320165688976660633.png",
+      "title":"Музыка",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"Что-то про музыку",
+            "optionOne":"Argentina1",
+            "optionTwo":"Argentina2",
+            "optionThree":"Argentina3",
+            "optionFour":"Argentina4",
             "correctAnswer":1
          }
       ]
