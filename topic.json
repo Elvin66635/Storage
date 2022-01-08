@@ -10,70 +10,70 @@
             "optionOne":"Family1",
             "optionTwo":"Family1",
             "optionThree":"Family1",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью2",
             "optionOne":"Family2",
             "optionTwo":"Family2",
             "optionThree":"Family2",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью3",
             "optionOne":"Family3",
             "optionTwo":"Family3",
             "optionThree":"Family1",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью4",
             "optionOne":"Family4",
             "optionTwo":"Family4",
             "optionThree":"Family2",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью5",
             "optionOne":"Family5",
             "optionTwo":"Family5",
             "optionThree":"Family5",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью6",
             "optionOne":"Family6",
             "optionTwo":"Family6",
             "optionThree":"Family6",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью7",
             "optionOne":"Family7",
             "optionTwo":"Family7",
             "optionThree":"Family7",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью8",
             "optionOne":"Family8",
             "optionTwo":"Family8",
             "optionThree":"Family8",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью9",
             "optionOne":"Family9",
             "optionTwo":"Family9",
             "optionThree":"Family9",
-            "correctAnswer":1
+            "correctAnswer":2
          },
          {
             "question":"Что-то про семью10",
             "optionOne":"Family10",
             "optionTwo":"Family10",
             "optionThree":"Family10",
-            "correctAnswer":1
+            "correctAnswer":2
          }
       ]
    },
