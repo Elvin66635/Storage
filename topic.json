@@ -7,6 +7,7 @@
       "quizDetails":[
          {
             "question":"Family",
+            "imageDetail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrsQaF7IPO2PzlJu1lRY__ymCrF0-CYlwjkg&usqp=CAU",
             "optionOne":"Родители",
             "optionTwo":"Cемья",
             "optionThree":"Мать",
@@ -14,6 +15,7 @@
          },
          {
             "question":"Parents",
+            "imageDetail":"https://www.theladders.com/wp-content/uploads/parents-baby-191101.jpg",
             "optionOne":"Отец",
             "optionTwo":"Семья",
             "optionThree":"Родители",
@@ -21,6 +23,7 @@
          },
          {
             "question":"Father",
+            "imageDetail":"https://www.gingersoftware.com/wp-content/uploads/father-day.jpg",
             "optionOne":"Отец",
             "optionTwo":"Мать",
             "optionThree":"Внучка",
@@ -28,6 +31,7 @@
          },
          {
             "question":"Mother",
+            "imageDetail":"https://penfieldbuildingblocks.org/wp-content/uploads/2018/08/the-mother-child-relationship.jpg",
             "optionOne":"Брат",
             "optionTwo":"Дядя",
             "optionThree":"Мать",
@@ -35,6 +39,7 @@
          },
          {
             "question":"Daughter",
+            "imageDetail":"https://imgix.bustle.com/2017/1/17/95d4bcf4-37e0-4a44-a425-b351f0870efd.jpg?w=540&fit=crop&crop=faces&auto=format%2Ccompress",
             "optionOne":"Дочь",
             "optionTwo":"Брат",
             "optionThree":"Тетя",
@@ -42,6 +47,7 @@
          },
          {
             "question":"Son",
+            "imageDetail":"https://statusycitaty.ru/images/stories/Image/Deti/statusyi-pro-syina-krasivyie.jpg",
             "optionOne":"Бабушка",
             "optionTwo":"Сын",
             "optionThree":"Внук",
@@ -49,6 +55,7 @@
          },
          {
             "question":"Sister",
+            "imageDetail":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F34%2F2020%2F12%2F29%2Fbig-sister-younger-sister-hugging-getty-1220-2000.jpg",
             "optionOne":"Внук",
             "optionTwo":"Сестра",
             "optionThree":"Дедушка",
@@ -56,6 +63,7 @@
          },
          {
             "question":"Brother",
+            "imageDetail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYUsY_6qDOIK7FKEq4joHMal5d8S3whPSOA&usqp=CAU",
             "optionOne":"Брат",
             "optionTwo":"Мать",
             "optionThree":"Тетя",
@@ -63,6 +71,7 @@
          },
          {
             "question":"Grandparents",
+            "imageDetail":"https://www.professorshouse.com/wp-content/uploads/2015/03/relationship-36.jpg",
             "optionOne":"Племянники",
             "optionTwo":"Внучата",
             "optionThree":"Бабушка и Дедушка",
@@ -70,13 +79,15 @@
          },
          {
             "question":"Grandchildren",
+            "imageDetail":"https://thumbs.dreamstime.com/b/grandparents-grandchildren-park-together-55898126.jpg",
             "optionOne":"Внучата (внуки и внучки)",
             "optionTwo":"Племянник",
             "optionThree":"Бабушка и Дедушка",
             "correctAnswer":1
          },
-	 {
+         {
             "question":"Grandfather",
+            "imageDetail":"https://www.sunriseseniorliving.com/~/media/blog-images/may-2017/spending-time-with-your-grandfather-is-one-of-the-best-ways-to-celebrate-fathers-day_379_40159086_0_14095441_728.jpg",
             "optionOne":"Бабушка",
             "optionTwo":"Дедушка",
             "optionThree":"Внук",
@@ -84,6 +95,7 @@
          },
          {
             "question":"Grandmother",
+            "imageDetail":"https://www.enforex.com/images/blog/post/phrases-which-only-a-spanish-grandmother-would-say.jpg",
             "optionOne":"Внук",
             "optionTwo":"Сестра",
             "optionThree":"Бабушка",
@@ -91,6 +103,7 @@
          },
          {
             "question":"Grandson",
+            "imageDetail":"https://image.freepik.com/free-photo/front-view-grandpa-and-grandson-drinking-tea_23-2148294902.jpg",
             "optionOne":"Внук",
             "optionTwo":"Мать",
             "optionThree":"Дедушка",
@@ -98,13 +111,15 @@
          },
          {
             "question":"Granddaughter",
+            "imageDetail":"https://media.istockphoto.com/photos/grandmother-playing-game-and-dancing-with-granddaughter-in-summer-picture-id1047509884?k=20&m=1047509884&s=612x612&w=0&h=kXeXlB3ujw6Xb7rkapKiz2Fr5w0QjJRHio9ySouWhdg=",
             "optionOne":"Внучка",
             "optionTwo":"Дядя",
             "optionThree":"Племянница",
             "correctAnswer":1
          },
-		  {
+         {
             "question":"Aunt",
+            "imageDetail":"https://www.verywellfamily.com/thmb/Lx-TPV3pmDhGzfehn4wOrt4kJQc=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-1173344502-3c46311dabbe42fc933c093adf9fdf8a.jpg",
             "optionOne":"Племянники",
             "optionTwo":"Внучата",
             "optionThree":"Тетя",
@@ -112,13 +127,15 @@
          },
          {
             "question":"Uncle",
+            "imageDetail":"https://cf.ltkcdn.net/family/images/std/270279-800x515r1-modern-uncle-nicknames-as-individual-as-he-is.jpg",
             "optionOne":"Дядя",
             "optionTwo":"Племянник",
             "optionThree":"Отец",
             "correctAnswer":1
          },
-		 {
+         {
             "question":"Nephew",
+            "imageDetail":"https://www.familyfriendpoems.com/images/hero/large/family-nephew.jpg",
             "optionOne":"Бабушка",
             "optionTwo":"Племянник",
             "optionThree":"Внук",
@@ -126,6 +143,7 @@
          },
          {
             "question":"Niece",
+            "imageDetail":"https://cf.ltkcdn.net/family/images/orig/271331-1600x1066-songs-nephews-nieces-match-moment.jpg",
             "optionOne":"Внук",
             "optionTwo":"Сестра",
             "optionThree":"Племянница",
