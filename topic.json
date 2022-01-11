@@ -11,6 +11,7 @@
             "optionOne":"Родители",
             "optionTwo":"Cемья",
             "optionThree":"Мать",
+			"correctWord": "Cемья",
             "correctAnswer":2
          },
          {
@@ -19,6 +20,7 @@
             "optionOne":"Отец",
             "optionTwo":"Семья",
             "optionThree":"Родители",
+			"correctWord": "Родители",
             "correctAnswer":3
          },
          {
@@ -27,6 +29,7 @@
             "optionOne":"Отец",
             "optionTwo":"Мать",
             "optionThree":"Внучка",
+			"correctWord": "Отец",
             "correctAnswer":1
          },
          {
@@ -35,6 +38,7 @@
             "optionOne":"Брат",
             "optionTwo":"Дядя",
             "optionThree":"Мать",
+			"correctWord": "Мать",
             "correctAnswer":3
          },
          {
@@ -43,6 +47,7 @@
             "optionOne":"Дочь",
             "optionTwo":"Брат",
             "optionThree":"Тетя",
+			"correctWord": "Дочь",
             "correctAnswer":1
          },
          {
@@ -51,6 +56,7 @@
             "optionOne":"Бабушка",
             "optionTwo":"Сын",
             "optionThree":"Внук",
+			"correctWord": "Сын",
             "correctAnswer":2
          },
          {
@@ -59,6 +65,7 @@
             "optionOne":"Внук",
             "optionTwo":"Сестра",
             "optionThree":"Дедушка",
+			"correctWord": "Сестра",
             "correctAnswer":2
          },
          {
@@ -67,6 +74,7 @@
             "optionOne":"Брат",
             "optionTwo":"Мать",
             "optionThree":"Тетя",
+			"correctWord": "Брат",
             "correctAnswer":1
          },
          {
@@ -75,6 +83,7 @@
             "optionOne":"Племянники",
             "optionTwo":"Внучата",
             "optionThree":"Бабушка и Дедушка",
+			"correctWord": "Бабушка и Дедушка",
             "correctAnswer":3
          },
          {
@@ -83,6 +92,7 @@
             "optionOne":"Внучата (внуки и внучки)",
             "optionTwo":"Племянник",
             "optionThree":"Бабушка и Дедушка",
+			"correctWord": "Внучата",
             "correctAnswer":1
          },
 		 {
@@ -91,6 +101,7 @@
             "optionOne":"Бабушка",
             "optionTwo":"Дедушка",
             "optionThree":"Внук",
+			"correctWord": "Дедушка",
             "correctAnswer":2
          },
          {
@@ -99,6 +110,7 @@
             "optionOne":"Внук",
             "optionTwo":"Сестра",
             "optionThree":"Бабушка",
+			"correctWord": "Бабушка",
             "correctAnswer":3
          },
          {
@@ -107,6 +119,7 @@
             "optionOne":"Внук",
             "optionTwo":"Мать",
             "optionThree":"Дедушка",
+			"correctWord": "Внук",
             "correctAnswer":1
          },
          {
@@ -115,6 +128,7 @@
             "optionOne":"Внучка",
             "optionTwo":"Дядя",
             "optionThree":"Племянница",
+			"correctWord": "Внучка",
             "correctAnswer":1
          },
 		  {
@@ -123,6 +137,7 @@
             "optionOne":"Племянники",
             "optionTwo":"Внучата",
             "optionThree":"Тетя",
+			"correctWord": "Тетя",
             "correctAnswer":3
          },
          {
@@ -131,6 +146,7 @@
             "optionOne":"Дядя",
             "optionTwo":"Племянник",
             "optionThree":"Отец",
+			"correctWord": "Дядя",
             "correctAnswer":1
          },
 		 {
@@ -139,6 +155,7 @@
             "optionOne":"Бабушка",
             "optionTwo":"Племянник",
             "optionThree":"Внук",
+			"correctWord": "Племянник",
             "correctAnswer":2
          },
          {
@@ -147,6 +164,7 @@
             "optionOne":"Внук",
             "optionTwo":"Сестра",
             "optionThree":"Племянница",
+			"correctWord": "Племянница",
             "correctAnswer":3
          }
       ]
