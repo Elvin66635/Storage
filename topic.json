@@ -7,7 +7,8 @@
       "quizDetails":[
          {
             "question":"Family",
-            "exampleSentence":" I usually eat at home with my family.",
+			"exampleSentence":"I usually eat at home with my family.",
+			"translateSentence":"Обычно я кушаю дома с семьей.",
             "imageDetail":"https://www.verywellmind.com/thmb/z-mHv6NUGXNkxuqMD1s2nRe3LRQ=/2122x1194/smart/filters:no_upscale()/family-parents-grandparents-Morsa-Images-Taxi-56a906ad3df78cf772a2ef29.jpg",
             "optionOne":"Родители",
             "optionTwo":"Cемья",
@@ -17,7 +18,8 @@
          },
          {
             "question":"Parents",
-            "exampleSentence":"Tom lives with his parents.",
+			"exampleSentence":"Tom lives with his parents.",
+			"translateSentence":"Том живет со своими родителями.",
             "imageDetail":"https://www.theladders.com/wp-content/uploads/parents-baby-191101.jpg",
             "optionOne":"Отец",
             "optionTwo":"Семья",
@@ -27,7 +29,8 @@
          },
          {
             "question":"Father",
-            "exampleSentence":"He looks like his father.",
+			"exampleSentence":"He looks like his father.",
+			"translateSentence":"Он похож на своего отца.",
             "imageDetail":"https://images.theconversation.com/files/127128/original/image-20160617-11112-1e7k2u0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop",
             "optionOne":"Отец",
             "optionTwo":"Мать",
@@ -37,7 +40,8 @@
          },
          {
             "question":"Mother",
-            "exampleSentence":"Mother gets up earliest in my family.",
+			"exampleSentence":"Mother gets up earliest in my family.",
+			"translateSentence":"Мать встает раньше всех в моей семье.",
             "imageDetail":"https://www.parentsandkids.com/wp-content/uploads/2020/05/iStock-1142823239-1280x640.jpg",
             "optionOne":"Брат",
             "optionTwo":"Дядя",
@@ -47,7 +51,8 @@
          },
          {
             "question":"Daughter",
-            "exampleSentence":"He has a daughter.",
+			"exampleSentence":"He has a daughter.",
+			"translateSentence":"У него есть дочь.",
             "imageDetail":"https://cdn.babyology.com.au/wp-content/uploads/2020/05/TheRock-Jasmine.jpg",
             "optionOne":"Дочь",
             "optionTwo":"Брат",
@@ -57,7 +62,8 @@
          },
          {
             "question":"Son",
-            "exampleSentence":"Tom is playing with his son.",
+			"exampleSentence":"Tom is playing with his son.",
+			"translateSentence":"Том играет со своим сыном.",
             "imageDetail":"https://st.depositphotos.com/2931363/4811/i/600/depositphotos_48114103-stock-photo-happy-dad-and-son.jpg",
             "optionOne":"Бабушка",
             "optionTwo":"Сын",
@@ -67,7 +73,8 @@
          },
          {
             "question":"Sister",
-            "exampleSentence":"Mary and Alice are sisters.",
+			"exampleSentence":"Mary and Alice are sisters.",
+			"translateSentence":"Мэри и Алиса - сестры.",
             "imageDetail":"https://www.ejin.ru/wp-content/uploads/2019/01/two-girls-joy-braids-back-view_1920x1200-e1548780531919.jpg",
             "optionOne":"Внук",
             "optionTwo":"Сестра",
@@ -77,7 +84,8 @@
          },
          {
             "question":"Brother",
-            "exampleSentence":"Alex and I are brothers.",
+			"exampleSentence":"Alex and I are brothers.",
+			"translateSentence":"Алекс и я братья.",
             "imageDetail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYUsY_6qDOIK7FKEq4joHMal5d8S3whPSOA&usqp=CAU",
             "optionOne":"Брат",
             "optionTwo":"Мать",
@@ -87,7 +95,8 @@
          },
          {
             "question":"Grandparents",
-            "exampleSentence":"My grandparents are really nice.",
+			"exampleSentence":"My grandparents are really nice.",
+			"translateSentence":"Мои бабушка и дедушка очень милые.",
             "imageDetail":"https://www.professorshouse.com/wp-content/uploads/2015/03/relationship-36.jpg",
             "optionOne":"Племянники",
             "optionTwo":"Внучата",
@@ -97,7 +106,8 @@
          },
          {
             "question":"Grandchildren",
-            "exampleSentence":"We love our grandchildren.",
+			"exampleSentence":"We love our grandchildren.",
+			"translateSentence":"Мы любим наших внуков.",
             "imageDetail":"https://www.elderoptionsoftexas.com/images/grandparents-with-grandchildren.jpg",
             "optionOne":"Внучата (внуки и внучки)",
             "optionTwo":"Племянник",
@@ -107,7 +117,8 @@
          },
          {
             "question":"Grandfather",
-            "exampleSentence":"Grandfather playing with grandson.",
+			"exampleSentence":"Grandfather playing with grandson.",
+			"translateSentence":"Дедушка играет с внуком.",
             "imageDetail":"https://pyxis.nymag.com/v1/imgs/a8d/43a/4c3b3e50d0dd5509695e3f9bb06ef6eee6-Sarah-and-Grandpa-1990ish.rhorizontal.w1100.jpg",
             "optionOne":"Бабушка",
             "optionTwo":"Дедушка",
@@ -117,7 +128,8 @@
          },
          {
             "question":"Grandmother",
-            "exampleSentence":"My grandmother loves watching TV.",
+			"exampleSentence":"My grandmother loves watching TV.",
+			"translateSentence":"Моя бабушка любит смотреть телевизор.",
             "imageDetail":"https://media.istockphoto.com/photos/portrait-of-happy-beautiful-grandmother-at-home-picture-id1150346485?k=20&m=1150346485&s=612x612&w=0&h=Vpec6UYVndhyoULYm0PtPUMd-ChwBnhjfL5VIb63Kps=",
             "optionOne":"Внук",
             "optionTwo":"Сестра",
@@ -127,7 +139,8 @@
          },
          {
             "question":"Grandson",
-            "exampleSentence":"Grandfather giving advice to grandson.",
+			"exampleSentence":"Grandfather giving advice to grandson.",
+			"translateSentence":"Дедушка дает советы внуку.",
             "imageDetail":"https://cdn.shazoo.ru/c800x360/455759_CNQ9QnTkxw_the_war_with_grandpa.jpg",
             "optionOne":"Внук",
             "optionTwo":"Мать",
@@ -137,7 +150,8 @@
          },
          {
             "question":"Granddaughter",
-            "exampleSentence":"Granddaughter looks like her grandfather.",
+			"exampleSentence":"Granddaughter looks like her grandfather.",
+			"translateSentence":"Внучка похожа на дедушку.",
             "imageDetail":"https://occ-0-987-990.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYnqS-6VXdp3VgE4LMtd27QoBq6ZUs8ttLX2qL6p4BAWZkLSmg4i3H9J5M-_GT9-vwbvTUoL4RIZHPT3iC3xm41i_7Op.jpg?r=102",
             "optionOne":"Внучка",
             "optionTwo":"Дядя",
@@ -147,7 +161,8 @@
          },
          {
             "question":"Aunt",
-            "exampleSentence":"My aunt is my father's sister.",
+			"exampleSentence":"My aunt is my father's sister.",
+			"translateSentence":"Моя тетя - сестра моего отца.",
             "imageDetail":"https://www.thoughtco.com/thmb/uyqc0b4Y5uMMPP3MyMhF4PelmEc=/3862x2172/smart/filters:no_upscale()/toddler-and-her-aunt-puffing-out-their-cheeks-456343003-59c6f4d00d327a001148e3ed.jpg",
             "optionOne":"Племянники",
             "optionTwo":"Внучата",
@@ -157,7 +172,8 @@
          },
          {
             "question":"Uncle",
-            "exampleSentence":"He lives with his uncle.",
+			"exampleSentence":"He lives with his uncle.",
+			"translateSentence":"Он живет со своим дядей.",
             "imageDetail":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/09/MCU-Spiderman-Uncle-Ben.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5",
             "optionOne":"Дядя",
             "optionTwo":"Племянник",
@@ -167,7 +183,8 @@
          },
          {
             "question":"Nephew",
-            "exampleSentence":"John is my nephew.",
+			"exampleSentence":"John is my nephew.",
+			"translateSentence":"Джон мой племянник.",
             "imageDetail":"https://t4.ftcdn.net/jpg/02/82/15/33/360_F_282153340_Zu6yQxxw4hiRKg0lgt0XwTLUrbkRqWrF.jpg",
             "optionOne":"Бабушка",
             "optionTwo":"Племянник",
@@ -177,7 +194,8 @@
          },
          {
             "question":"Niece",
-            "exampleSentence":"She has a pretty niece.",
+			"exampleSentence":"She has a pretty niece.",
+			"translateSentence":"У нее есть красивая племянница.",
             "imageDetail":"https://cf.ltkcdn.net/family/images/orig/271331-1600x1066-songs-nephews-nieces-match-moment.jpg",
             "optionOne":"Внук",
             "optionTwo":"Сестра",
