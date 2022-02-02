@@ -1619,5 +1619,288 @@
             "correctAnswer":1
          }
       ]
+   },
+   {
+      "id":7,
+      "image":"",
+      "title":"Спорт",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"Sport",
+            "exampleSentence":"I am interested in sports.",
+            "translateSentence":"Я увлекаюсь спортом.",
+            "imageDetail":"https://storage.myseldon.com/news_pict_A9/A9148C4A7285776708C046BD4346F622",
+            "optionOne":"Футбол",
+            "optionTwo":"Баскетбол",
+            "optionThree":"Спорт",
+            "correctWord":"Спорт",
+            "correctAnswer":3
+         },
+         {
+            "question":"Football",
+            "exampleSentence":"I play football every day.",
+            "translateSentence":"Я играю в футбол каждый день.",
+            "imageDetail":"https://www.mgpu.ru/wp-content/uploads/2018/10/futbol1.jpg",
+            "optionOne":"Футбол",
+            "optionTwo":"Корзина",
+            "optionThree":"Баскетбол",
+            "correctWord":"Футбол",
+            "correctAnswer":1
+         },
+         {
+            "question":"Basketball",
+            "exampleSentence":"In basketball, tall players have an advantage.",
+            "translateSentence":"В баскетболе высокие игроки имеют преимущество.",
+            "imageDetail":"https://fb.ru/misc/i/gallery/96119/3005240.jpg",
+            "optionOne":"Корзина",
+            "optionTwo":"Баскетбол",
+            "optionThree":"Футбол",
+            "correctWord":"Баскетбол",
+            "correctAnswer":2
+         },
+         {
+            "question":"Basket",
+            "exampleSentence":"Ball in the basket",
+            "translateSentence":"Мяч в корзине",
+            "imageDetail":"https://vuzopedia.ru/storage/app/uploads/public/603/fc0/f8b/603fc0f8b0630131003362.jpg",
+            "optionOne":"Баскетбол",
+            "optionTwo":"Футбол",
+            "optionThree":"Корзина",
+            "correctWord":"Корзина",
+            "correctAnswer":3
+         },
+         {
+            "question":"Game",
+            "exampleSentence":"We like games.",
+            "translateSentence":"Нам нравятся игры.",
+            "imageDetail":"https://api.живуспортом.рф/imagecache/full/editor/80/79187/5d56ae58867ce.jpeg",
+            "optionOne":"Футбол",
+            "optionTwo":"Команда",
+            "optionThree":"Игра",
+            "correctWord":"Игра",
+            "correctAnswer":3
+         },
+         {
+            "question":"Field",
+            "exampleSentence":"Some football fields are in enclosed stadiums, and others are entirely outside.",
+            "translateSentence":"Некоторые футбольные поля находятся на закрытых стадионах, а другие полностью снаружи.",
+            "imageDetail":"https://i.pinimg.com/originals/9e/be/14/9ebe1447863df12e52d6680a330438cc.jpg",
+            "optionOne":"Футбол",
+            "optionTwo":"Игра",
+            "optionThree":"Поле",
+            "correctWord":"Поле",
+            "correctAnswer":3
+         },
+         {
+            "question":"Stadium",
+            "exampleSentence":"This stadium will hold 50,000 people.",
+            "translateSentence":"Этот стадион будет вмещать 50 000 человек.",
+            "imageDetail":"https://phonoteka.org/uploads/posts/2021-07/1625244090_11-phonoteka-org-p-stadion-oboi-oboi-krasivo-11.jpg",
+            "optionOne":"Стадион",
+            "optionTwo":"Команда",
+            "optionThree":"Тренер",
+            "correctWord":"Стадион",
+            "correctAnswer":1
+         },
+         {
+            "question":"Match",
+            "exampleSentence":"It was interesting match",
+            "translateSentence":"Это был интересный матч",
+            "imageDetail":"https://sputnik.kz/img/07e4/09/12/14990019_0:52:2560:1499_2072x0_60_0_0_97e8580ed7daca56666a559a4f61dc16.jpg",
+            "optionOne":"Матч",
+            "optionTwo":"Игра",
+            "optionThree":"Поле",
+            "correctWord":"Матч",
+            "correctAnswer":1
+         },
+         {
+            "question":"Team",
+            "exampleSentence":"We're a good team.",
+            "translateSentence":"Мы хорошая команда.",
+            "imageDetail":"https://i.trbna.com/preset/wysiwyg/1/9c/91660060511eab34cc00fb2d7bd36.jpeg",
+            "optionOne":"Бег",
+            "optionTwo":"Команда",
+            "optionThree":"Тренер",
+            "correctWord":"Команда",
+            "correctAnswer":2
+         },
+         {
+            "question":"Coach",
+            "exampleSentence":"A good coach trains this team.",
+            "translateSentence":"Эту команду тренирует хороший тренер.",
+            "imageDetail":"https://forzajuve.ru/images/stories/news38/128.jpg",
+            "optionOne":"Матч",
+            "optionTwo":"Тренер",
+            "optionThree":"Команда",
+            "correctWord":"Тренер",
+            "correctAnswer":2
+         },
+         {
+            "question":"Running",
+            "exampleSentence":"Are you ready for our morning run?",
+            "translateSentence":"Вы готовы к нашей утренней пробежке?",
+            "imageDetail":"https://bodytrain.ru/wp-content/uploads/2018/01/ja.jpg",
+            "optionOne":"Бег",
+            "optionTwo":"Плавание",
+            "optionThree":"Катание на коньках",
+            "correctWord":"Бег",
+            "correctAnswer":1
+         },
+         {
+            "question":"Swimming",
+            "exampleSentence":"My favourite sports is swimming.",
+            "translateSentence":"Мой любимый вид спорта — плавание.",
+            "imageDetail":"https://folkextreme.ru/wp-content/uploads/2020/01/plavaniye-4.jpg",
+            "optionOne":"Бег",
+            "optionTwo":"Катание на коньках",
+            "optionThree":"Плавание",
+            "correctWord":"Плавание",
+            "correctAnswer":3
+         },
+         {
+            "question":"Skating",
+            "exampleSentence":"You must learn to keep your balance in skating.",
+            "translateSentence":"Вы должны научиться сохранять равновесие в катании.",
+            "imageDetail":"https://cdn.pixabay.com/photo/2013/12/30/00/20/ice-skating-235547_1280.jpg",
+            "optionOne":"Катание на коньках",
+            "optionTwo":"Плавание",
+            "optionThree":"Катание на лыжах",
+            "correctWord":"Катание на коньках",
+            "correctAnswer":1
+         },
+         {
+            "question":"Skiing",
+            "exampleSentence":"We go skiing most weekends in winter.",
+            "translateSentence":"Зимой по выходным мы ходим кататься на лыжах.",
+            "imageDetail":"http://wiki.shelteringcolorado.com/images/2/28/Skiing.jpg",
+            "optionOne":"Плавание",
+            "optionTwo":"Катание на лыжах",
+            "optionThree":"Катание на коньках",
+            "correctWord":"Катание на лыжах",
+            "correctAnswer":2
+         },
+         {
+            "question":"Ring",
+            "exampleSentence":"Is that a boxing ring?",
+            "translateSentence":"Это боксерский ринг?",
+            "imageDetail":"https://img.wallpapersafari.com/desktop/1680/1050/70/25/mVsOPG.jpg",
+            "optionOne":"Бег",
+            "optionTwo":"Плавание",
+            "optionThree":"Ринг",
+            "correctWord":"Ринг",
+            "correctAnswer":3
+         },
+         {
+            "question":"Athlete",
+            "exampleSentence":"Tom is a good athlete.",
+            "translateSentence":"Том хороший спортсмен.",
+            "imageDetail":"https://phonoteka.org/uploads/posts/2021-07/1625730232_13-phonoteka-org-p-begun-art-krasivo-13.jpg",
+            "optionOne":"Зритель",
+            "optionTwo":"Чемпион",
+            "optionThree":"Спортсмен",
+            "correctWord":"Спортсмен",
+            "correctAnswer":3
+         },
+         {
+            "question":"Champion",
+            "exampleSentence":"He is a tennis champion.",
+            "translateSentence":"Он чемпион по теннису.",
+            "imageDetail":"https://talksport.com/wp-content/uploads/sites/5/2022/01/GettyImages-1367780861.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "optionOne":"Чемпион",
+            "optionTwo":"Зритель",
+            "optionThree":"Спортсмен",
+            "correctWord":"Чемпион",
+            "correctAnswer":1
+         },
+         {
+            "question":"Competition",
+            "exampleSentence":"We won the competition.",
+            "translateSentence":"Мы выиграли соревнование.",
+            "imageDetail":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_Official_U.S._Navy_Imagery_-_Sailors_and_Marines_compete_against_Royal_Malaysian_navy_sailors_in_a_tug-of-war_competition_during_a_sports_day_event..jpg/1200px-thumbnail.jpg",
+            "optionOne":"Спортсмен",
+            "optionTwo":"Конкурент",
+            "optionThree":"Соревнование",
+            "correctWord":"Соревнование",
+            "correctAnswer":3
+         },
+         {
+            "question":"Competitor",
+            "exampleSentence":"She is a strong competitor.",
+            "translateSentence":"Она сильный конкурент.",
+            "imageDetail":"https://cdn.pixabay.com/photo/2015/09/15/20/15/race-941732_1280.jpg",
+            "optionOne":"Чемпион",
+            "optionTwo":"Конкурент",
+            "optionThree":"Спортсмен",
+            "correctWord":"Конкурент",
+            "correctAnswer":2
+         },
+         {
+            "question":"Spectator",
+            "exampleSentence":"The most popular spectator sport is football.",
+            "translateSentence":"Самый популярный у зрителей вид спорта – футбол.",
+            "imageDetail":"https://www.cheapoair.com/things-to-do/wp-content/uploads/sites/3/2018/05/shutterstock_190429997.jpg",
+            "optionOne":"Спортсмен",
+            "optionTwo":"Конкурент",
+            "optionThree":"Зритель",
+            "correctWord":"Зритель",
+            "correctAnswer":3
+         },
+         {
+            "question":"Victory",
+            "exampleSentence":"It's not an easy victory.",
+            "translateSentence":"Это не легкая победа.",
+            "imageDetail":"https://cdn22.img.ria.ru/images/07e4/09/19/1577738045_0:193:2739:1734_1920x0_80_0_0_f2594377a49964e072f2d5f64ae26a21.jpg",
+            "optionOne":"Чемпион",
+            "optionTwo":"Зритель",
+            "optionThree":"Победа",
+            "correctWord":"Победа",
+            "correctAnswer":3
+         },
+         {
+            "question":"Defeat",
+            "exampleSentence":"The defeat completely crushed her.",
+            "translateSentence":"Поражение окончательно сломило ее.",
+            "imageDetail":"https://businessman.ru/static/img/n/1/3/4/9/i/1349.jpg",
+            "optionOne":"Проигрыш",
+            "optionTwo":"Конкурент",
+            "optionThree":"Победа",
+            "correctWord":"Проигрыш",
+            "correctAnswer":1
+         },
+         {
+            "question":"Winner",
+            "exampleSentence":"It is good to be a winner.",
+            "translateSentence":"Хорошо быть победителем.",
+            "imageDetail":"https://pbs.twimg.com/media/DqF_KQ5WkAESFU_.jpg:large",
+            "optionOne":"Тренировка",
+            "optionTwo":"Победитель",
+            "optionThree":"Рекорд",
+            "correctWord":"Победитель",
+            "correctAnswer":2
+         },
+         {
+            "question":"Record",
+            "exampleSentence":"Tom has a perfect record.",
+            "translateSentence":"У Тома идеальный рекорд.",
+            "imageDetail":"https://e1.365dm.com/20/02/1600x900/skysports-duplantis-pole-vault_4915135.jpg",
+            "optionOne":"Рекорд",
+            "optionTwo":"Победа",
+            "optionThree":"Тренировка",
+            "correctWord":"Рекорд",
+            "correctAnswer":1
+         },
+         {
+            "question":"Training",
+            "exampleSentence":"I have started strength training in the gym",
+            "translateSentence":"Я начала силовые тренировки в тренажерном зале",
+            "imageDetail":"",
+            "optionOne":"Тренировка",
+            "optionTwo":"Рекорд",
+            "optionThree":"Победитель",
+            "correctWord":"Тренировка",
+            "correctAnswer":1
+         }
+      ]
    }
 ]
