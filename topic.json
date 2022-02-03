@@ -1622,7 +1622,7 @@
    },
    {
       "id":7,
-      "image":"https://flyclipart.com/thumb2/dumbbell-347576.png",
+      "image":"https://yt3.ggpht.com/a/AATXAJzwPvpD413ZwLlV3w8GRww7lUXAy5BSOHT8Lg=s900-c-k-c0xffffffff-no-rj-mo",
       "title":"Спорт",
       "complexity":1,
       "quizDetails":[
@@ -1683,8 +1683,8 @@
          },
          {
             "question":"Field",
-            "exampleSentence":"Some football fields are in enclosed stadiums, and others are entirely outside.",
-            "translateSentence":"Некоторые футбольные поля находятся на закрытых стадионах, а другие полностью снаружи.",
+            "exampleSentence":"The football field is where the game of football is played.",
+            "translateSentence":"Футбольное поле – это место, где играют в футбол.",
             "imageDetail":"https://i.pinimg.com/originals/9e/be/14/9ebe1447863df12e52d6680a330438cc.jpg",
             "optionOne":"Футбол",
             "optionTwo":"Игра",
@@ -1773,7 +1773,7 @@
             "question":"Skiing",
             "exampleSentence":"We go skiing most weekends in winter.",
             "translateSentence":"Зимой по выходным мы ходим кататься на лыжах.",
-            "imageDetail":"http://wiki.shelteringcolorado.com/images/2/28/Skiing.jpg",
+            "imageDetail":"https://i.pinimg.com/originals/1b/61/22/1b61221ffd36582ddf5339d334a695b2.jpg",
             "optionOne":"Плавание",
             "optionTwo":"Катание на лыжах",
             "optionThree":"Катание на коньках",
@@ -1894,12 +1894,295 @@
             "question":"Training",
             "exampleSentence":"I have started strength training in the gym",
             "translateSentence":"Я начала силовые тренировки в тренажерном зале",
-            "imageDetail":"",
+            "imageDetail":"https://149366112.v2.pressablecdn.com/wp-content/uploads/2019/01/shutterstock_401309230.jpg",
             "optionOne":"Тренировка",
             "optionTwo":"Рекорд",
             "optionThree":"Победитель",
             "correctWord":"Тренировка",
             "correctAnswer":1
+         }
+      ]
+   },
+   {
+      "id":8,
+      "image":"https://www.kindpng.com/picc/m/642-6427200_color-circle-png-icon-png-clipart-color-wheel.png",
+      "title":"Цвета",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"Colo(u)r",
+            "exampleSentence":"Do you like this color?",
+            "translateSentence":"Вам нравится этот цвет?",
+            "imageDetail":"https://ru.hisense.com/local/templates/hisense/components/hisense/landing.page/detail-page/assets/img/tv/a5600f/3.jpg",
+            "optionOne":"Оттенок",
+            "optionTwo":"Цвет",
+            "optionThree":"Красный",
+            "correctWord":"Цвет",
+            "correctAnswer":2
+         },
+         {
+            "question":"Red",
+            "exampleSentence":"My favorite color is red.",
+            "translateSentence":"Мой любимый цвет - красный.",
+            "imageDetail":"https://i.pinimg.com/originals/de/a9/ea/dea9eafd629b2287ab49e0244b26e28e.jpg",
+            "optionOne":"Желтый",
+            "optionTwo":"Оранжевый",
+            "optionThree":"Красный",
+            "correctWord":"Красный",
+            "correctAnswer":3
+         },
+         {
+            "question":"Orange",
+            "exampleSentence":"Orange is the colour between yellow and red ",
+            "translateSentence":"Оранжевый - это цвет между желтым и красным",
+            "imageDetail":"https://catherineasquithgallery.com/uploads/posts/2021-02/1614459136_58-p-oranzhevie-tsveti-na-temnom-fone-65.jpg",
+            "optionOne":"Красный",
+            "optionTwo":"Желтый",
+            "optionThree":"Оранжевый",
+            "correctWord":"Оранжевый",
+            "correctAnswer":3
+         },
+         {
+            "question":"Yellow",
+            "exampleSentence":"Bananas are yellow.",
+            "translateSentence":"Бананы желтые.",
+            "imageDetail":"https://tonnasamogona.ru/wp-content/uploads/2016/01/frukty-banany-fruits-bananas.jpg",
+            "optionOne":"Желтый",
+            "optionTwo":"Оранжевый",
+            "optionThree":"Зеленый",
+            "correctWord":"Желтый",
+            "correctAnswer":1
+         },
+         {
+            "question":"Green",
+            "exampleSentence":"We painted the door green.",
+            "translateSentence":"Мы покрасили дверь в зеленый цвет.",
+            "imageDetail":"https://i.pinimg.com/736x/52/ca/a5/52caa5a5c3309aa2dcd33f8eea8d7758.jpg",
+            "optionOne":"Оранжевый",
+            "optionTwo":"Зеленый",
+            "optionThree":"Синий",
+            "correctWord":"Зеленый",
+            "correctAnswer":2
+         },
+         {
+            "question":"Blue",
+            "exampleSentence":"His eyes are blue.",
+            "translateSentence":"Его глаза голубые.",
+            "imageDetail":"https://i.pinimg.com/originals/f4/a8/51/f4a8512424a095d96a5875d258ec97e9.jpg",
+            "optionOne":"Синий",
+            "optionTwo":"Зеленый",
+            "optionThree":"Желтый",
+            "correctWord":"Синий",
+            "correctAnswer":1
+         },
+         {
+            "question":"Purple",
+            "exampleSentence":"The plant has a brilliant purple flower.",
+            "translateSentence":"Растение имеет ярко-фиолетовый цветок.",
+            "imageDetail":"https://jooinn.com/images/purple-plant-4.jpg",
+            "optionOne":"Зеленый",
+            "optionTwo":"Синий",
+            "optionThree":"Фиолетовый",
+            "correctWord":"Фиолетовый",
+            "correctAnswer":3
+         },
+         {
+            "question":"Pink",
+            "exampleSentence":"Pink roses are beautiful.",
+            "translateSentence":"Розовые розы прекрасны.",
+            "imageDetail":"https://florino.net/wp-content/uploads/2017/07/pink-roses-2191636_1920.jpg",
+            "optionOne":"Фиолетовый",
+            "optionTwo":"Розовый",
+            "optionThree":"Синий",
+            "correctWord":"Розовый",
+            "correctAnswer":2
+         },
+         {
+            "question":"White",
+            "exampleSentence":"I'm going to place a bet on that white horse.",
+            "translateSentence":"Я собираюсь поставить на эту белую лошадь.",
+            "imageDetail":"https://i.pinimg.com/originals/8c/cf/12/8ccf1208ae037267977c01d37e77ca25.jpg",
+            "optionOne":"Белый",
+            "optionTwo":"Синий",
+            "optionThree":"Розовый",
+            "correctWord":"Белый",
+            "correctAnswer":1
+         },
+         {
+            "question":"Black",
+            "exampleSentence":"Tom keeps a black cat.",
+            "translateSentence":"Том держит черную кошку.",
+            "imageDetail":"https://www.wallpaperflare.com/static/984/221/77/cat-black-face-lies-wallpaper.jpg",
+            "optionOne":"Белый",
+            "optionTwo":"Серый",
+            "optionThree":"Черный",
+            "correctWord":"Черный",
+            "correctAnswer":3
+         },
+         {
+            "question":"Grey",
+            "exampleSentence":"The landscape was grey and stark.",
+            "translateSentence":"Пейзаж был серым и суровым.",
+            "imageDetail":"https://proprikol.ru/wp-content/uploads/2020/03/seryj-czvet-krasivye-kartinki-2.jpg",
+            "optionOne":"Серый",
+            "optionTwo":"Белый",
+            "optionThree":"Черный",
+            "correctWord":"Серый",
+            "correctAnswer":1
+         },
+         {
+            "question":"Light-blue",
+            "exampleSentence":"The little girl was decked out in a light-blue summer dress.",
+            "translateSentence":"Маленькая девочка была одета в светло-голубое летнее платье.",
+            "imageDetail":"https://ae01.alicdn.com/kf/HTB1JxbKb7fb_uJkSmLyq6AxoXXad.jpg",
+            "optionOne":"Белый",
+            "optionTwo":"Серый",
+            "optionThree":"Голубой",
+            "correctWord":"Голубой",
+            "correctAnswer":3
+         },
+         {
+            "question":"Brown",
+            "exampleSentence":"Bruno is a brown bear.",
+            "translateSentence":"Листья осенью становятся коричневыми.",
+            "imageDetail":"https://cdn.pixabay.com/photo/2015/12/18/17/52/autumn-1098882_1280.jpg",
+            "optionOne":"Голубой",
+            "optionTwo":"Коричневый",
+            "optionThree":"Светлый",
+            "correctWord":"Коричневый",
+            "correctAnswer":2
+         },
+         {
+            "question":"Light",
+            "exampleSentence":"Paint the walls a light color.",
+            "translateSentence":"Покрасить стены в светлый цвет.",
+            "imageDetail":"https://24.moolton.com/wp-content/uploads/2019/02/Decorating-A-Bedroom-With-White-Walls.jpg",
+            "optionOne":"Коричневый",
+            "optionTwo":"Темный",
+            "optionThree":"Светлый",
+            "correctWord":"Светлый",
+            "correctAnswer":3
+         },
+         {
+            "question":"Dark",
+            "exampleSentence":"Henry has dark hair.",
+            "translateSentence":"У Генри темные волосы.",
+            "imageDetail":"https://data.whicdn.com/images/321002664/original.jpg",
+            "optionOne":"Темный",
+            "optionTwo":"Светлый",
+            "optionThree":"Голубой",
+            "correctWord":"Темный",
+            "correctAnswer":1
+         },
+         {
+            "question":"Silver",
+            "exampleSentence":"Mary is wearing a silver ring.",
+            "translateSentence":"Мэри носит серебряное кольцо.",
+            "imageDetail":"https://sc02.alicdn.com/kf/HTB1zDsgmv5TBuNjSspmq6yDRVXa6/925-Sterling-Silver-Rings-For-Girls-Open.jpg",
+            "optionOne":"Светлый",
+            "optionTwo":"Темный",
+            "optionThree":"Серебряный",
+            "correctWord":"Серебряный",
+            "correctAnswer":3
+         },
+         {
+            "question":"Gold",
+            "exampleSentence":"I won the gold medal.",
+            "translateSentence":"Я выиграл золотую медаль.",
+            "imageDetail":"https://www.thermofisher.com/blog/metals/wp-content/uploads/sites/4/2016/08/istock_34730874_goldmedal-1.jpg",
+            "optionOne":"Бронзовый",
+            "optionTwo":"Золотой",
+            "optionThree":"Серебряный",
+            "correctWord":"Золотой",
+            "correctAnswer":2
+         },
+         {
+            "question":"Pale",
+            "exampleSentence":"You look so pale.",
+            "translateSentence":"Ты выглядишь таким бледным.",
+            "imageDetail":"https://img.minq.com/quill/5/0/d/2/4/0/50d240d57f7f9a18357e616b4ee9d5f10e284e09.jpg",
+            "optionOne":"Бледный",
+            "optionTwo":"Золотой",
+            "optionThree":"Серебряный",
+            "correctWord":"Бледный",
+            "correctAnswer":1
+         },
+         {
+            "question":"Hue",
+            "exampleSentence":"Everything seemed to have more of a reddish hue.",
+            "translateSentence":"Все, казалось, имело более красноватый оттенок.",
+            "imageDetail":"https://hashtag.blogfolha.uol.com.br/files/2020/04/Rivaldo-Gomes.jpeg",
+            "optionOne":"Оттенок",
+            "optionTwo":"Цвет",
+            "optionThree":"Золотой",
+            "correctWord":"Оттенок",
+            "correctAnswer":1
+         },
+         {
+            "question":"Bronze",
+            "exampleSentence":"This statue is made of bronze.",
+            "translateSentence":"Эта статуя изготовлена из бронзы.",
+            "imageDetail":"https://cdn.pixabay.com/photo/2017/10/20/21/44/statue-2872987_1280.jpg",
+            "optionOne":"Золотой",
+            "optionTwo":"Серебряный",
+            "optionThree":"Бронзовый",
+            "correctWord":"Бронзовый",
+            "correctAnswer":3
+         },
+         {
+            "question":"Colourful",
+            "exampleSentence":"Nature is most colourful in autumn.",
+            "translateSentence":"Природа наиболее красочна осенью.",
+            "imageDetail":"https://img1.goodfon.ru/wallpaper/nbig/9/51/nature-forest-park-trees-2168.jpg",
+            "optionOne":"Бронзовый",
+            "optionTwo":"Красочный",
+            "optionThree":"Лазурный",
+            "correctWord":"Красочный",
+            "correctAnswer":2
+         },
+         {
+            "question":"Azure",
+            "exampleSentence":"The sun shone out of a clear azure sky.",
+            "translateSentence":"Солнце светило с ясного лазурного неба.",
+            "imageDetail":"https://lookw.ru/9/964/1566943097-1920h1080.-azure-beaches-89.jpg",
+            "optionOne":"Красочный",
+            "optionTwo":"Лазурный",
+            "optionThree":"Серебряный",
+            "correctWord":"Лазурный",
+            "correctAnswer":2
+         },
+         {
+            "question":"Brightness",
+            "exampleSentence":"The brightness of the snow made him blink.",
+            "translateSentence":"Яркость снега заставила его моргнуть.",
+            "imageDetail":"http://s1.fotokto.ru/photo/full/550/5507717.jpg",
+            "optionOne":"Яркость",
+            "optionTwo":"Прозрачный",
+            "optionThree":"Насыщенность",
+            "correctWord":"Яркость",
+            "correctAnswer":1
+         },
+         {
+            "question":"Transparent",
+            "exampleSentence":"Glass is a transparent material.",
+            "translateSentence":"Стекло – прозрачный материал.",
+            "imageDetail":"https://static.tildacdn.com/tild6634-3362-4437-a166-653666303535/__.jpg",
+            "optionOne":"Прозрачный",
+            "optionTwo":"Красочный",
+            "optionThree":"Лазурный",
+            "correctWord":"Прозрачный",
+            "correctAnswer":1
+         },
+         {
+            "question":"Saturation",
+            "exampleSentence":"The higher the color saturation of the apparent effect to more colorful.",
+            "translateSentence":"Чем выше насыщенность цвета, тем кажущийся эффект более красочным.",
+            "imageDetail":"http://acerfans.ru/uploads/forum/images/1398551073.jpg",
+            "optionOne":"Прозрачный",
+            "optionTwo":"Яркость",
+            "optionThree":"Насыщенность",
+            "correctWord":"Насыщенность",
+            "correctAnswer":3
          }
       ]
    }
