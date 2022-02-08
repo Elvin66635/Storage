@@ -2468,5 +2468,398 @@
             "correctAnswer":1
          }
       ]
+   },
+   {
+      "id":10,
+      "image":"https://www.clipartkey.com/mpngs/m/38-381196_number-2-clip-art-at-clker-circle.png",
+      "title":"Места в городе",
+      "complexity":1,
+      "quizDetails":[
+         {
+            "question":"City",
+            "exampleSentence":"I live in a big city.",
+            "translateSentence":"Я живу в большом городе.",
+            "imageDetail":"https://getwallpapers.com/wallpaper/full/9/e/4/1212054-city-street-wallpaper-2560x1600-cell-phone.jpg",
+            "optionOne":"Банк",
+            "optionTwo":"Город (крупный)",
+            "optionThree":"Парк",
+            "correctWord":"Город (крупный)",
+            "correctAnswer":2
+         },
+         {
+            "question":"Town",
+            "exampleSentence":"We're moving to town.",
+            "translateSentence":"Мы переезжаем в город.",
+            "imageDetail":"https://img1.10bestmedia.com/Images/Photos/379006/GettyImages-1125394966_54_990x660.jpg",
+            "optionOne":"Магазин",
+            "optionTwo":"Дорога",
+            "optionThree":"Город (небольшой)",
+            "correctWord":"Город (небольшой)",
+            "correctAnswer":3
+         },
+         {
+            "question":"Road",
+            "exampleSentence":"This road is dangerous.",
+            "translateSentence":"Эта дорога опасна.",
+            "imageDetail":"https://www.wallpaperup.com/uploads/wallpapers/2017/10/26/1140444/5b422f6abcf0eee3b71b9eafe1aff882-1400.jpg",
+            "optionOne":"Дорога",
+            "optionTwo":"Больница",
+            "optionThree":"Магазин",
+            "correctWord":"Дорога",
+            "correctAnswer":1
+         },
+         {
+            "question":"School",
+            "exampleSentence":"School begins at 9.",
+            "translateSentence":"Школа начинается в 9.",
+            "imageDetail":"https://avatars.mds.yandex.net/get-zen_doc/1714479/pub_5e4b9183baec8f365f1ff215_5e4b91c9bb4a6d368b8d9d4c/scale_1200",
+            "optionOne":"Школа",
+            "optionTwo":"Больница",
+            "optionThree":"Дорога",
+            "correctWord":"Школа",
+            "correctAnswer":1
+         },
+         {
+            "question":"Hospital",
+            "exampleSentence":"I work in a hospital.",
+            "translateSentence":"Я работаю в больнице.",
+            "imageDetail":"https://www.goodnewsfinland.com/wp-content/uploads/2019/08/Finnish-Kazakh-Masters-degree-2000.jpg",
+            "optionOne":"Магазин",
+            "optionTwo":"Дорога",
+            "optionThree":"Больница",
+            "correctWord":"Больница",
+            "correctAnswer":3
+         },
+         {
+            "question":"Shop",
+            "exampleSentence":"We'll go shopping.",
+            "translateSentence":"Мы пойдем по магазинам.",
+            "imageDetail":"https://smartcanucks.ca/wp-content/uploads/2020/02/blog-40.jpg",
+            "optionOne":"Больница",
+            "optionTwo":"Дорога",
+            "optionThree":"Школа",
+            "correctWord":"Магазин",
+            "correctAnswer":2
+         },
+         {
+            "question":"Market",
+            "exampleSentence":"There is a market in the town.",
+            "translateSentence":"В городе есть рынок.",
+            "imageDetail":"https://foodandnutrition.org/wp-content/uploads/The-Benefits-of-Farmers-Markets-in-Urban-Settings-1600x1056.jpg",
+            "optionOne":"Кафе",
+            "optionTwo":"Деревня",
+            "optionThree":"Рынок",
+            "correctWord":"Рынок",
+            "correctAnswer":3
+         },
+         {
+            "question":"Cafe",
+            "exampleSentence":"The cafe is just across the road over there.",
+            "translateSentence":"Кафе там через дорогу.",
+            "imageDetail":"https://i0.wp.com/antennadaily.ru/wp-content/uploads/2019/12/Kuznya_209-1-scaled.jpg?fit=1200%2C800&ssl=1",
+            "optionOne":"Библиотека",
+            "optionTwo":"Деревня",
+            "optionThree":"Кафе",
+            "correctWord":"Кафе",
+            "correctAnswer":3
+         },
+         {
+            "question":"Restaurant",
+            "exampleSentence":"We had dinner at a restaurant.",
+            "translateSentence":"Мы ужинали в ресторане.",
+            "imageDetail":"https://resources.boelter.com/hs-fs/hubfs/GettyImages-649672650.jpg?width=1800&name=GettyImages-649672650.jpg",
+            "optionOne":"Ресторан",
+            "optionTwo":"Кафе",
+            "optionThree":"Музей",
+            "correctWord":"Ресторан",
+            "correctAnswer":1
+         },
+         {
+            "question":"Village",
+            "exampleSentence":"At last, we arrived at the village.",
+            "translateSentence":"Наконец, мы прибыли в деревню.",
+            "imageDetail":"https://kartinkin.net/uploads/posts/2021-03/thumbs/1616074504_17-p-selo-krasivie-foto-17.jpg",
+            "optionOne":"Кафе",
+            "optionTwo":"Деревня",
+            "optionThree":"Ресторан",
+            "correctWord":"Деревня",
+            "correctAnswer":2
+         },
+         {
+            "question":"Library",
+            "exampleSentence":"See you tomorrow at the library.",
+            "translateSentence":"Увидимся завтра в библиотеке.",
+            "imageDetail":"https://es.babelio.com/users/liste_Bibliotecas-de-novela_4503.jpeg",
+            "optionOne":"Рынок",
+            "optionTwo":"Библиотека",
+            "optionThree":"Музей",
+            "correctWord":"Библиотека",
+            "correctAnswer":2
+         },
+         {
+            "question":"Museum",
+            "exampleSentence":"I'll visit a museum today.",
+            "translateSentence":"Я пойду сегодня в музей.",
+            "imageDetail":"https://i.pinimg.com/originals/85/a4/80/85a48050e202c876918a32c4ae163a0e.jpg",
+            "optionOne":"Больница",
+            "optionTwo":"Деревня",
+            "optionThree":"Музей",
+            "correctWord":"Музей",
+            "correctAnswer":3
+         },
+         {
+            "question":"Post office",
+            "exampleSentence":"The bus stop is few yards below the post office.",
+            "translateSentence":"Автобусная остановка находится в нескольких метрах от почты.",
+            "imageDetail":"https://media.baamboozle.com/uploads/images/68005/1618432986_52008.jpeg",
+            "optionOne":"Почтовое отделение",
+            "optionTwo":"Музей",
+            "optionThree":"Библиотека",
+            "correctWord":"Почтовое отделение",
+            "correctAnswer":1
+         },
+         {
+            "question":"Bank",
+            "exampleSentence":"He works at a bank.",
+            "translateSentence":"Он работает в банке.",
+            "imageDetail":"https://www.happymigration.com/wp-content/uploads/2014/12/td-bank.jpg",
+            "optionOne":"Парк",
+            "optionTwo":"Банк",
+            "optionThree":"Почтовое отделение",
+            "correctWord":"Банк",
+            "correctAnswer":2
+         },
+         {
+            "question":"Park",
+            "exampleSentence":"We'll run in the park.",
+            "translateSentence":"Мы побегаем в парке.",
+            "imageDetail":"https://static.tildacdn.com/tild3064-3236-4933-b066-353263396435/shutterstock_1846099.jpg",
+            "optionOne":"Парк",
+            "optionTwo":"Гостиница",
+            "optionThree":"Театр",
+            "correctWord":"Парк",
+            "correctAnswer":1
+         },
+         {
+            "question":"Underpass",
+            "exampleSentence":"Go through the underpass until you come to the Bank.",
+            "translateSentence":"Идите по подземному переходу, пока не дойдете до банка",
+            "imageDetail":"https://ic.pics.livejournal.com/bluesmaker/10673470/1840629/1840629_original.jpg",
+            "optionOne":"Церковь",
+            "optionTwo":"Театр",
+            "optionThree":"Подземный переход",
+            "correctWord":"Подземный переход",
+            "correctAnswer":3
+         },
+         {
+            "question":"Theater",
+            "exampleSentence":"Let's meet in front of the theater.",
+            "translateSentence":"Давай встретимся перед театром.",
+            "imageDetail":"https://www.hr-eu.net/images/06-03/zg_0960.jpg",
+            "optionOne":"Парк",
+            "optionTwo":"Театр",
+            "optionThree":"Гостиница",
+            "correctWord":"Театр",
+            "correctAnswer":2
+         },
+         {
+            "question":"Church",
+            "exampleSentence":"I go to church on Sundays.",
+            "translateSentence":"Я хожу в церковь по воскресеньям.",
+            "imageDetail":"https://upload.wikimedia.org/wikipedia/commons/5/5d/Starbuck_Community_Church.jpg",
+            "optionOne":"Район",
+            "optionTwo":"Церковь",
+            "optionThree":"Парк",
+            "correctWord":"Церковь",
+            "correctAnswer":2
+         },
+         {
+            "question":"Mosque",
+            "exampleSentence":"They went to the mosque to pray.",
+            "translateSentence":"Они пошли в мечеть помолиться.",
+            "imageDetail":"https://www.vse-strani-mira.ru/images/stories/picture2/mechet/Mech_010.jpg",
+            "optionOne":"Мечеть",
+            "optionTwo":"Банк",
+            "optionThree":"Парк",
+            "correctWord":"Мечеть",
+            "correctAnswer":1
+         },
+         {
+            "question":"District",
+            "exampleSentence":"She lives in this district.",
+            "translateSentence":"Она живет в этом районе.",
+            "imageDetail":"https://citytravelhub.com/data/uploads/2015/11/Meatpacking-District.jpg",
+            "optionOne":"Шоссе",
+            "optionTwo":"Супермаркет",
+            "optionThree":"Район",
+            "correctWord":"Район",
+            "correctAnswer":3
+         },
+         {
+            "question":"Common transport",
+            "exampleSentence":"The museum is easily accessible by common transport.",
+            "translateSentence":"До музея легко добраться на общественном транспорте.",
+            "imageDetail":"До музея легко добраться на общественном транспорте.",
+            "optionOne":"Здание",
+            "optionTwo":"Магазин",
+            "optionThree":"Общественный транспорт",
+            "correctWord":"Общественный транспорт",
+            "correctAnswer":3
+         },
+         {
+            "question":"Highway",
+            "exampleSentence":"The small village hugs the highway.",
+            "translateSentence":"Небольшая деревня обнимает шоссе.",
+            "imageDetail":"https://www.thoughtco.com/thmb/HYRbbJQ-VDT4TepAcfa2BlzmcvY=/2121x1414/filters:fill(auto,1)/GettyImages-547031277-58ef97803df78cd3fc724e24.jpg",
+            "optionOne":"Здание",
+            "optionTwo":"Общественный транспорт",
+            "optionThree":"Шоссе",
+            "correctWord":"Шоссе",
+            "correctAnswer":3
+         },
+         {
+            "question":"Suburb",
+            "exampleSentence":"My house is in the suburbs.",
+            "translateSentence":"Мой дом находится в пригороде.",
+            "imageDetail":"https://static.politico.com/38/e5/954d6ec64e25a59462f4af7b8905/200821-suburb-housing-ap-773.jpg",
+            "optionOne":"Пригород",
+            "optionTwo":"Шоссе",
+            "optionThree":"Магазин",
+            "correctWord":"Пригород",
+            "correctAnswer":1
+         },
+         {
+            "question":"Supermarket",
+            "exampleSentence":"What a big supermarket!",
+            "translateSentence":"Какой большой супермаркет!",
+            "imageDetail":"https://avatars.mds.yandex.net/get-zen_doc/1606228/pub_5d99d69de6e8ef00b107a592_5d9a3ab47cccba00af4540d0/scale_1200",
+            "optionOne":"Супермаркет",
+            "optionTwo":"Район",
+            "optionThree":"Здание",
+            "correctWord":"Супермаркет",
+            "correctAnswer":1
+         },
+         {
+            "question":"Pharmacy",
+            "exampleSentence":"The pharmacy is near the hospital.",
+            "translateSentence":"Аптека находится рядом с больницей.",
+            "imageDetail":"https://i.pinimg.com/originals/fd/34/cd/fd34cd30fd439808963b56829c7ff8ea.jpg",
+            "optionOne":"Супермаркет",
+            "optionTwo":"Площадь",
+            "optionThree":"Аптека",
+            "correctWord":"Аптека",
+            "correctAnswer":3
+         },
+         {
+            "question":"Dry-cleaner's",
+            "exampleSentence":"The dry cleaner's offer a normal or an express service",
+            "translateSentence":"Химчистка предлагает стандартную или экспресс-услугу.",
+            "imageDetail":"https://www.dobiexpress.com/wp-content/uploads/2020/11/dry_clean.jpg",
+            "optionOne":"Площадь",
+            "optionTwo":"Прачечная",
+            "optionThree":"Аптека",
+            "correctWord":"Прачечная",
+            "correctAnswer":2
+         },
+         {
+            "question":"Square",
+            "exampleSentence":"Saint Peter's Square was crowded.",
+            "translateSentence":"Площадь Святого Петра была переполнена.",
+            "imageDetail":"https://farm6.staticflickr.com/5222/5563486621_ffbd1d3f02_b.jpg",
+            "optionOne":"https://delhibrasserie.com/blog/wp-content/uploads/2016/06/trafalgar-square-panorama.jpg",
+            "optionTwo":"Небоскреб",
+            "optionThree":"Площадь",
+            "correctWord":"Площадь",
+            "correctAnswer":3
+         },
+         {
+            "question":"Railway station",
+            "exampleSentence":"The railway station is some distance from the village.",
+            "translateSentence":"Железнодорожная станция находится на некотором расстоянии от села.",
+            "imageDetail":"https://get.wallhere.com/photo/castle-station-train-track-railway-Dorset-corfe-946205.jpg",
+            "optionOne":"Железнодорожная станция",
+            "optionTwo":"Прачечная",
+            "optionThree":"Площадь",
+            "correctWord":"Железнодорожная станция",
+            "correctAnswer":1
+         },
+         {
+            "question":"Bus stop",
+            "exampleSentence":"A blue bus is stopping at the bus stop.",
+            "translateSentence":"Синий автобус останавливается на остановке.",
+            "imageDetail":"https://pbs.twimg.com/media/DkvVqd3X0AAXqfS.jpg",
+            "optionOne":"Кинотеатр",
+            "optionTwo":"Площадь",
+            "optionThree":"Автобусная остановка",
+            "correctWord":"Автобусная остановка",
+            "correctAnswer":3
+         },
+         {
+            "question":"Underground (Subway)",
+            "exampleSentence":"I got lost in the London Underground.",
+            "translateSentence":"Я потерялся в лондонском метро.",
+            "imageDetail":"https://avtoguru.net/wp-content/uploads/2020/12/image15.jpg",
+            "optionOne":"Метро",
+            "optionTwo":"Завод",
+            "optionThree":"Мост",
+            "correctWord":"Метро",
+            "correctAnswer":1
+         },
+         {
+            "question":"Cinema",
+            "exampleSentence":"We go to the cinema about once a week.",
+            "translateSentence":"Мы ходим в кино примерно раз в неделю.",
+            "imageDetail":"https://static.mk.ru/upload/entities/2018/12/05/articles/facebookPicture/7c/76/a0/2a/0c949511b2a00cb6e79fff01123b96ca.jpg",
+            "optionOne":"Кинотеатр",
+            "optionTwo":"Мост",
+            "optionThree":"Завод",
+            "correctWord":"Кинотеатр",
+            "correctAnswer":1
+         },
+         {
+            "question":"Factory",
+            "exampleSentence":"I worked in this factory.",
+            "translateSentence":"Я работал на этом заводе.",
+            "imageDetail":"https://news.ecoindustry.ru/wp-content/uploads/2021/10/stroitelnaya-ekspertiza-promyshlennyh-obektov-1536x1024-1.jpg",
+            "optionOne":"Кинотеатр",
+            "optionTwo":"Завод",
+            "optionThree":"Мост",
+            "correctWord":"Завод",
+            "correctAnswer":2
+         },
+         {
+            "question":"Petrol station",
+            "exampleSentence":"The petrol station is around the corner.",
+            "translateSentence":"Заправочная станция находится за углом.",
+            "imageDetail":"https://i.pinimg.com/originals/de/e2/4c/dee24ce826dd04d4e8545b2ccc31cc91.jpg",
+            "optionOne":"Площадь",
+            "optionTwo":"Бензозаправочная станция",
+            "optionThree":"Завод",
+            "correctWord":"Бензозаправочная станция",
+            "correctAnswer":2
+         },
+         {
+            "question":"Parking lot",
+            "exampleSentence":"Please park your car in the parking lot.",
+            "translateSentence":"Пожалуйста, припаркуйте машину на стоянке",
+            "imageDetail":"https://i.pinimg.com/originals/99/cb/13/99cb13f59ffc0f1a39333df3f139bf18.jpg",
+            "optionOne":"Кинотеатр",
+            "optionTwo":"Мост",
+            "optionThree":"Парковка, стоянка",
+            "correctWord":"Парковка, стоянка",
+            "correctAnswer":3
+         },
+         {
+            "question":"Pedestrian crossing",
+            "exampleSentence":"Use a pedestrian crossing or a subway to cross the road.",
+            "translateSentence":"Используйте пешеходный переход или метро, чтобы перейти дорогу.",
+            "imageDetail":"https://s.lernerandrowe.com/wp-content/uploads/2020/05/pedestrian-accident-compensation-1024x683.jpg",
+            "optionOne":"Пешеходный переход",
+            "optionTwo":"Парковка",
+            "optionThree":"Завод",
+            "correctWord":"Мост",
+            "correctAnswer":1
+         }
+      ]
    }
 ]
