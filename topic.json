@@ -325,7 +325,7 @@
             "question":"Site",
             "exampleSentence":"We visited the historic sites of the country.",
             "translateSentence":"Мы посетили исторические места страны.",
-            "imageDetail":"https://e7.pngegg.com/pngimages/946/360/png-clipart-where-on-earth-travel-quiz-globe-world-earth-globe-leaf-globe.png",
+            "imageDetail":"https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/c9/87/82.jpg",
             "optionOne":"Работодатель",
             "optionTwo":"Сотрудник",
             "optionThree":"Объект (место)",
@@ -2864,7 +2864,7 @@
    },
    {
       "id":11,
-      "image":"https://www.clipartmax.com/png/middle/268-2684131_globe-world-map-clip-art-earth-icon-593-592-transprent-globe-world.png",
+      "image":"https://e7.pngegg.com/pngimages/886/499/png-clipart-world-map-graphics-globe-world-map-miscellaneous-globe.png",
       "title":"Страны и города",
       "complexity":1,
       "quizDetails":[
