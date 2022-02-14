@@ -2864,7 +2864,7 @@
    },
    {
       "id":11,
-      "image":"https://w7.pngwing.com/pngs/894/78/png-transparent-globe-world-map-earth-globe.png",
+      "image":"https://w7.pngwing.com/pngs/167/658/png-transparent-globe-world-black-and-white-global-miscellaneous-globe-world.png",
       "title":"Страны и города",
       "complexity":1,
       "quizDetails":[
@@ -3383,25 +3383,25 @@
             "correctAnswer":1
          },
          {
-            "question":"",
-            "exampleSentence":"",
-            "translateSentence":"",
-            "imageDetail":"",
-            "optionOne":"",
-            "optionTwo":"",
-            "optionThree":"",
-            "correctWord":"",
+            "question":"Teacher",
+            "exampleSentence":"I’m a math teacher at a primary school.",
+            "translateSentence":"Я учитель математики в начальной школе.",
+            "imageDetail":"https://avatars.mds.yandex.net/get-zen_doc/2945823/pub_5f868d829cd6237d30d5f1cd_5f86c98a01c3532accd258f9/scale_1200",
+            "optionOne":"Школа",
+            "optionTwo":"Студент",
+            "optionThree":"Учитель",
+            "correctWord":"Учитель",
             "correctAnswer":3
          },
          {
-            "question":"",
+            "question":"Pupil",
             "exampleSentence":"",
             "translateSentence":"",
-            "imageDetail":"",
-            "optionOne":"",
-            "optionTwo":"",
-            "optionThree":"",
-            "correctWord":"",
+            "imageDetail":"https://media.baamboozle.com/uploads/images/26124/1597388264_202851",
+            "optionOne":"Ученик",
+            "optionTwo":"Урок",
+            "optionThree":"Учитель",
+            "correctWord":"Ученик",
             "correctAnswer":1
          },
          {
