@@ -3603,7 +3603,7 @@
             "correctAnswer":2
          },
          {
-            "question":"Kindergarten ",
+            "question":"Kindergarten",
             "exampleSentence":"There is a kindergarten behind my house.",
             "translateSentence":"За моим домом находится детский сад.",
             "imageDetail":"https://media.baamboozle.com/uploads/images/67785/1637822706_126083.jpeg",
@@ -3729,7 +3729,7 @@
             "translateSentence":"Он решил сдать вступительный экзамен.",
             "imageDetail":"https://api.time.com/wp-content/uploads/2016/06/gettyimages-538539004.jpg",
             "optionOne":"Перемена",
-            "optionTwo":"Школа",
+            "optionTwo":"Вступительный экзамен",
             "optionThree":"Задание",
             "correctWord":"Вступительный экзамен",
             "correctAnswer":2
@@ -3749,8 +3749,8 @@
    },
    {
       "id":13,
-      "image":"https://icon-library.com/images/kisspng-computer-icons-adobe-air-icon-design-thoughtful-5b2f8243a60f58.1471145415298401956802.jpg",
-      "title":"Character",
+      "image":"https://www.kindpng.com/picc/m/81-812068_transparent-dictionary-icon-png-transparent-psychology-icon-png.png",
+      "title":"Характер",
       "complexity":1,
       "quizDetails":[
          {
