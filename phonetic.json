@@ -5,14 +5,111 @@
       "letter_description":"Звук [ ʌ ] краткий ненапряженный гласный. При произнесении [ ʌ ] рот полуоткрыт, губы нейтральны. Язык немного отодвинут от основания нижних зубов. Если мы произносим русский звук [ а ], то значительно отодвигаем язык от зубов, а губы не растягиваем. Звук [ ʌ ] похож на русский безударный звук [ а ] в слове ''оса''.",
       "example_words":[
          {
-            "word":"but",
+            "word":"but ",
             "transcription":"[ bʌt ]",
             "translation":" - но"
+         },
+         {
+            "word":"dull ",
+            "transcription":"[ dʌl ]",
+            "translation":" - скучный"
+         },
+         {
+            "word":"gun ",
+            "transcription":"[ gʌn ]",
+            "translation":" - орудие"
+         },
+         {
+            "word":"summer ",
+            "transcription":"[ sʌmə ]",
+            "translation":" - лето"
+         },
+         {
+            "word":"come ",
+            "transcription":"[ kʌm ]",
+            "translation":" -приходить"
+         },
+         {
+            "word":"country ",
+            "transcription":"[ kʌntri ]",
+            "translation":" - страна"
+         },
+         {
+            "word":"us ",
+            "transcription":"[ ʌs ]",
+            "translation":" - нам"
+         },
+         {
+            "word":"ugly",
+            "transcription":"[ ʌgli ]",
+            "translation":" - некрасивый"
+         },
+         {
+            "word":"study",
+            "transcription":"[ stʌdi ]",
+            "translation":" - учиться"
          },
          {
             "word":"love",
             "transcription":"[ lʌv ]",
             "translation":"- любовь"
+         }
+      ]
+   },
+   {
+      "id":"2",
+      "letter":"Звук [ æ ]",
+      "letter_description":"В русском языке звука подобного звуку [ æ ] нет. Это краткий открытый звук. При произнесении [ æ ] нужно углы рта немного оттянуть в стороны, расположить язык максимально плоско во рту и довольно энергично опустить челюсть. Англичане, конечно, не открывают широко рот, произнося звук [ æ ]; они умеют плоско располагать язык во рту. Но для тренировки этого звука необходима энергичная работа челюсти. В идеале, должен слышаться очень широкий вариант русского звука [ э ] с примесью звука [ а ].",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":" - "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
          }
       ]
    }
