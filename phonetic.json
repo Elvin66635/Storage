@@ -1,7 +1,7 @@
 [
    {
       "id":1,
-      "letter":"ʌ",
+      "letter":"[ ʌ ]",
       "letter_description":"Звук [ ʌ ] краткий ненапряженный гласный. При произнесении [ ʌ ] рот полуоткрыт, губы нейтральны. Язык немного отодвинут от основания нижних зубов. Если мы произносим русский звук [ а ], то значительно отодвигаем язык от зубов, а губы не растягиваем. Звук [ ʌ ] похож на русский безударный звук [ а ] в слове ''оса''.",
       "example_words":[
          {
@@ -62,54 +62,567 @@
       "letter_description":"В русском языке звука подобного звуку [ æ ] нет. Это краткий открытый звук. При произнесении [ æ ] нужно углы рта немного оттянуть в стороны, расположить язык максимально плоско во рту и довольно энергично опустить челюсть. Англичане, конечно, не открывают широко рот, произнося звук [ æ ]; они умеют плоско располагать язык во рту. Но для тренировки этого звука необходима энергичная работа челюсти. В идеале, должен слышаться очень широкий вариант русского звука [ э ] с примесью звука [ а ].",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"act",
+            "transcription":"[ ækt ]",
+            "translation":"- действие"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"Ann",
+            "transcription":"[ æn ]",
+            "translation":"- Анна "
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"add",
+            "transcription":"[ æd ]",
+            "translation":"- добавить"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"Alice",
+            "transcription":"[ ælis ]",
+            "translation":"- Элис"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"lamp",
+            "transcription":"[ læmp ]",
+            "translation":"- лампа"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"bad",
+            "transcription":"[ bæd ]",
+            "translation":"- плохой"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"map",
+            "transcription":"[ mæp ]",
+            "translation":"- карта"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"plan",
+            "transcription":"[ plæn ]",
+            "translation":"- план"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":" - "
+            "word":"narrow",
+            "transcription":"[ nærou ]",
+            "translation":"- узкий"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"family",
+            "transcription":"[ fæmili ]",
+            "translation":"- семья"
+         }
+      ]
+   },
+   {
+      "id":"3",
+      "letter":"[ a: ]",
+      "letter_description":"При произнесении долгого звука [ a: ] кончик языка значительно оттянут от нижних зубов. Спинка языка выгнута и приподнята к твёрдому нёбу. (Представьте себе, что врач просит вас открыть рот и показать горло. В этом случае вы инстинктивно оттягиваете язык от зубов!) От русского звука [ а ] английский [ a: ] отличается густым тембром и глубоким оттенком низкого тона. Это долгий и напряжённый звук:",
+      "example_words":[
+         {
+            "word":"garden",
+            "transcription":"[ ga:dn ]",
+            "translation":"- сад"
+         },
+         {
+            "word":"calm",
+            "transcription":"[ ka:m ]",
+            "translation":"- спокойный"
+         },
+         {
+            "word":"ask ",
+            "transcription":"[ a:sk ] ",
+            "translation":"- спрашивать"
+         },
+         {
+            "word":"aunt",
+            "transcription":"[ a:nt ]",
+            "translation":"- тётя"
+         },
+         {
+            "word":"after",
+            "transcription":"[ a:ftə ]",
+            "translation":"- после"
+         },
+         {
+            "word":"dark",
+            "transcription":"[ da:k ]",
+            "translation":"- темный"
+         },
+         {
+            "word":"lark",
+            "transcription":"[ la:k ]",
+            "translation":"- жаворонок"
+         },
+         {
+            "word":"raft",
+            "transcription":"[ ra:ft ]",
+            "translation":"- плот"
+         },
+         {
+            "word":"spark",
+            "transcription":"[ spa:k ]",
+            "translation":"- искра"
+         },
+         {
+            "word":"class",
+            "transcription":"[ kla:s ]",
+            "translation":"- класс"
+         }
+      ]
+   },
+   {
+      "id":"4",
+      "letter":"[ ai ]",
+      "letter_description":"Звук [ ai ] - дифтонг, состоящий из ядра и скольжения. Ядро дифтонга краткий звук [ ʌ ]. После произнесения ядра язык делает движение вверх в направлении звука [ i ]. Звук [ i ] не должен звучать отчётливо. Не следует заменять дифтонг [ ai ] русским звукосочетанием ''ай''. На понимание слов это, может быть, и не повлияет, но придаст словам русский акцент!",
+      "example_words":[
+         {
+            "word":"ice",
+            "transcription":"[ ais ]",
+            "translation":"- лед"
+         },
+         {
+            "word":"item",
+            "transcription":"[ aitm ]",
+            "translation":"- пункт"
+         },
+         {
+            "word":"island",
+            "transcription":"[ ailənd ]",
+            "translation":"-остров"
+         },
+         {
+            "word":"life",
+            "transcription":"[ laif ]",
+            "translation":"- жизнь"
+         },
+         {
+            "word":"time",
+            "transcription":"[ taim ]",
+            "translation":"- время"
+         },
+         {
+            "word":"chime",
+            "transcription":"[ tʃaim ]",
+            "translation":"- звон"
+         },
+         {
+            "word":"why",
+            "transcription":"[ wai ]",
+            "translation":"- почему"
+         },
+         {
+            "word":"bite",
+            "transcription":"[ bait ]",
+            "translation":"- кусать"
+         },
+         {
+            "word":"try",
+            "transcription":"[ trai ]",
+            "translation":"- пытаться"
+         },
+         {
+            "word":"dry",
+            "transcription":"[ drai ]",
+            "translation":"- сухой"
+         }
+      ]
+   },
+   {
+      "id":"5",
+      "letter":"[ aʊ ]",
+      "letter_description":"Звук [ aʊ ] - дифтонг. Ядро его произносится так же как первый элемент звука [ ai ], а затем язык делает движение назад и вверх в направлении звука [ ʊ ]. Второй элемент должен быть очень слабым. Этот звук не следует заменять русским звукосочетанием ''ау'', где оба элемента произносятся одинаково отчётливо и губы значительно округляются.",
+      "example_words":[
+         {
+            "word":"out",
+            "transcription":"[ aʊt ]",
+            "translation":"- аут"
+         },
+         {
+            "word":"about",
+            "transcription":"[ əbaʊt ]",
+            "translation":"- о, об"
+         },
+         {
+            "word":"owl",
+            "transcription":"[ aʊl ]",
+            "translation":"- сова"
+         },
+         {
+            "word":"bow",
+            "transcription":"[ baʊ ]",
+            "translation":"- поклониться"
+         },
+         {
+            "word":"town",
+            "transcription":"[ taʊn ]",
+            "translation":"- город"
+         },
+         {
+            "word":"down",
+            "transcription":"[ daʊn ]",
+            "translation":"- внизу"
+         },
+         {
+            "word":"noun",
+            "transcription":"[ naʊn ]",
+            "translation":"- существительное"
+         },
+         {
+            "word":"cloud",
+            "transcription":"[ klaʊd ]",
+            "translation":"- облако"
+         },
+         {
+            "word":"brown",
+            "transcription":"[ braʊn ]",
+            "translation":"- коричневый"
+         },
+         {
+            "word":"drown",
+            "transcription":"[ draʊn ]",
+            "translation":"- тонуть"
+         }
+      ]
+   },
+   {
+      "id":"6",
+      "letter":"[ aiə ] и [ aʊə ]",
+      "letter_description":"Звукосочетания [ aiə ], [ aʊə ] состоят из дифтонгов [ ai ], [ aʊ ] и нейтрального гласного [ ə ]. Следует помнить, что средний элемент сочетания (т.е. второй элемент дифтонга) произносится очень слабо. При произнесении [ aiə ], [ aʊə ] не следует округлять губы, чтобы не заменять звук [ ʊ ] на звук [ w ].",
+      "example_words":[
+         {
+            "word":"fire",
+            "transcription":"[ faiə ]",
+            "translation":"- огонь"
+         },
+         {
+            "word":"hire",
+            "transcription":"[ haiə ]",
+            "translation":"- нанимать"
+         },
+         {
+            "word":"wire",
+            "transcription":"[ waiə ]",
+            "translation":"- провод"
+         },
+         {
+            "word":"lion",
+            "transcription":"[ laiən ]",
+            "translation":"- лев"
+         },
+         {
+            "word":"desire",
+            "transcription":"[ dizaiə ]",
+            "translation":"- желание"
+         },
+         {
+            "word":"our",
+            "transcription":"[ aʊə ]",
+            "translation":"- наш"
+         },
+         {
+            "word":"flower",
+            "transcription":"[ flaʊə ]",
+            "translation":"- цветок"
+         },
+         {
+            "word":"towel",
+            "transcription":"[ taʊəl ]",
+            "translation":"- полотенце"
+         },
+         {
+            "word":"vowel",
+            "transcription":"[ vaʊəl ]",
+            "translation":"- гласная"
+         },
+         {
+            "word":"coward",
+            "transcription":"[ kaʊəd ]",
+            "translation":"- трус"
+         }
+      ]
+   },
+   {
+      "id":"7",
+      "letter":"[ i ]",
+      "letter_description":"При произнесении краткого гласного звука [ i ] кончик языка находится у нижних зубов, губы слегка растянуты. Английский звук [ i ] похож на русский звук [ и ] в безударном положении во фразе ''вот история''. Перед звуками [ m ], [ n ], [ l ] звук [ i ] слегка удлиняется, а перед глухими согласными [ p ], [ t ], [ k ], [ s ] произносится очень кратко.",
+      "example_words":[
+         {
+            "word":"in",
+            "transcription":"[ in ]",
+            "translation":"- в"
+         },
+         {
+            "word":"till",
+            "transcription":"[ til ]",
+            "translation":"- до"
+         },
+         {
+            "word":"fill",
+            "transcription":"[ fil ]",
+            "translation":"- наполнять"
+         },
+         {
+            "word":"live",
+            "transcription":"[ liv ]",
+            "translation":"- жить"
+         },
+         {
+            "word":"dip",
+            "transcription":"[ dip ]",
+            "translation":"- макать"
+         },
+         {
+            "word":"nil",
+            "transcription":"[ nil ]",
+            "translation":"- ноль"
+         },
+         {
+            "word":"miss",
+            "transcription":"[ mis ]",
+            "translation":"- скучать"
+         },
+         {
+            "word":"lip",
+            "transcription":"[ lip ]",
+            "translation":"- губа"
+         },
+         {
+            "word":"it",
+            "transcription":"[ it ]",
+            "translation":"- это"
+         },
+         {
+            "word":"is",
+            "transcription":"[ iz ]",
+            "translation":"- есть/быть"
+         }
+      ]
+   },
+   {
+      "id":"8",
+      "letter":"[ i: ]",
+      "letter_description":"При произнесении долгого звука [ i: ] язык продвинут вперёд, кончик языка слегка касается нижних зубов. Английский звук [ i: ] похож на русский звук [ и ] в таких словах как ''искра'', ''их'', если [ и ] в этих словах произнести напряжённо и протяжно. Не следует заменять английский звук [ i: ] на русский звук [ ы ], а также произносить его мягко перед согласными.",
+      "example_words":[
+         {
+            "word":"key",
+            "transcription":"[ ki: ]",
+            "translation":"- ключ"
+         },
+         {
+            "word":"geese",
+            "transcription":"[ gi:s ]",
+            "translation":"- гуси"
+         },
+         {
+            "word":"beat",
+            "transcription":"[ bi:t ]",
+            "translation":"- бить"
+         },
+         {
+            "word":"field",
+            "transcription":"[ fi:ld ]",
+            "translation":"- поле"
+         },
+         {
+            "word":"teeth",
+            "transcription":"[ ti:θ ]",
+            "translation":"- зубы"
+         },
+         {
+            "word":"theme",
+            "transcription":"[ θi:m ]",
+            "translation":"- тема"
+         },
+         {
+            "word":"deal",
+            "transcription":"[ di:l ]",
+            "translation":"- сделка"
+         },
+         {
+            "word":"seem",
+            "transcription":"[ si:m ]",
+            "translation":"- казаться"
+         },
+         {
+            "word":"mean",
+            "transcription":"[ mi:n ]",
+            "translation":"- значить"
+         },
+         {
+            "word":"steel",
+            "transcription":"[ sti:l ]",
+            "translation":"- сталь"
+         }
+      ]
+   },
+   {
+      "id":"9",
+      "letter":"[ e ]",
+      "letter_description":"При произнесении краткого гласного [ e ] кончик языка находится у основания нижних зубов. Губы слегка растянуты. Английский звук [ e ] похож на русский звук [ э ] в словах ''эти, цепи''. Перед глухими согласными [ e ] произносится очень кратко, а перед согласными [ n ], [ l ], [ m ] заметно удлиняется.",
+      "example_words":[
+         {
+            "word":"pen",
+            "transcription":"[ pen ]",
+            "translation":"- ручка"
+         },
+         {
+            "word":"bed",
+            "transcription":"[ bed ]",
+            "translation":"- кровать"
+         },
+         {
+            "word":"lesson",
+            "transcription":"[ lesn ]",
+            "translation":"- урок"
+         },
+         {
+            "word":"end",
+            "transcription":"[ end ]",
+            "translation":"- конец"
+         },
+         {
+            "word":"beg",
+            "transcription":"[ beg ]",
+            "translation":"- умолять"
+         },
+         {
+            "word":"spell",
+            "transcription":"[ spel ]",
+            "translation":"- заклинание"
+         },
+         {
+            "word":"desk",
+            "transcription":"[ desk ]",
+            "translation":"- парта"
+         },
+         {
+            "word":"text",
+            "transcription":"[ tekst ]",
+            "translation":"- текст"
+         },
+         {
+            "word":"next",
+            "transcription":"[ nekst ]",
+            "translation":"- следующий"
+         },
+         {
+            "word":"less",
+            "transcription":"[ les ]",
+            "translation":"- меньше"
+         }
+      ]
+   },
+   {
+      "id":"10",
+      "letter":"[ ei ]",
+      "letter_description":"Звук [ ei ] - дифтонг, т.е. неделимый звук. Ядро дифтонга - гласный [ e ]. После произнесения ядра язык делает лёгкое движение вверх в направлении звука [ i ], не достигая его полного образования. В русском языке такого звука нет. Чёткого произнесения второй части дифтонга не допускается.",
+      "example_words":[
+         {
+            "word":"take",
+            "transcription":"[ teik ]",
+            "translation":"- брать"
+         },
+         {
+            "word":"sale",
+            "transcription":"[ seil ]",
+            "translation":"- распродажа"
+         },
+         {
+            "word":"name",
+            "transcription":"[ neim ]",
+            "translation":"- имя"
+         },
+         {
+            "word":"late",
+            "transcription":"[ leit ]",
+            "translation":"- поздно"
+         },
+         {
+            "word":"gate",
+            "transcription":"[ geit ]",
+            "translation":"- ворота"
+         },
+         {
+            "word":"date",
+            "transcription":"[ deit ]",
+            "translation":"- дата"
+         },
+         {
+            "word":"plate",
+            "transcription":"[ pleit ]",
+            "translation":"- тарелка"
+         },
+         {
+            "word":"snake",
+            "transcription":"[ sneik ]",
+            "translation":"- змея"
+         },
+         {
+            "word":"table",
+            "transcription":"[ teibl ]",
+            "translation":"- стол"
+         },
+         {
+            "word":"able",
+            "transcription":"[ eibl ]",
+            "translation":"- способный"
+         }
+      ]
+   },
+   {
+      "id":"11",
+      "letter":"[ ə ]",
+      "letter_description":"Если в слове есть безударные гласные, то в транскрипции они обозначаются значком [ ə ]. Звук [ ə ] называется нейтральным, так как он не имеет отчётливой окраски. Он напоминает нечто среднее между безударными русскими звуками [ а ] и [ э ].",
+      "example_words":[
+         {
+            "word":"delta",
+            "transcription":"[ deltə ]",
+            "translation":"- дельта"
+         },
+         {
+            "word":"paper",
+            "transcription":"[ peipə ]",
+            "translation":"- бумага"
+         },
+         {
+            "word":"letter",
+            "transcription":"[ letə ]",
+            "translation":"- письмо"
+         },
+         {
+            "word":"again",
+            "transcription":"[ əgein ]",
+            "translation":"- снова"
+         },
+         {
+            "word":"attend",
+            "transcription":"[ ətend ]",
+            "translation":"- посещать"
+         },
+         {
+            "word":"enter",
+            "transcription":"[ entə ]",
+            "translation":"- входить"
+         },
+         {
+            "word":"better",
+            "transcription":"[ betə ]",
+            "translation":"- лучше"
+         },
+         {
+            "word":"amaze",
+            "transcription":"[ əmeiz ]",
+            "translation":"- удивлять"
+         },
+         {
+            "word":"attend",
+            "transcription":"[ ətend ]",
+            "translation":"- посещать"
+         },
+         {
+            "word":"better",
+            "transcription":"[ betə ]",
+            "translation":"- лучше"
          }
       ]
    }
