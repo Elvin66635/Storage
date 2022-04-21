@@ -1,7 +1,7 @@
 [
    {
       "id":1,
-      "letter":"[ ʌ ]",
+      "letter":"Звук [ ʌ ]",
       "letter_description":"Звук [ ʌ ] краткий ненапряженный гласный. При произнесении [ ʌ ] рот полуоткрыт, губы нейтральны. Язык немного отодвинут от основания нижних зубов. Если мы произносим русский звук [ а ], то значительно отодвигаем язык от зубов, а губы не растягиваем. Звук [ ʌ ] похож на русский безударный звук [ а ] в слове ''оса''.",
       "example_words":[
          {
@@ -58,7 +58,7 @@
    },
    {
       "id":"2",
-      "letter":"[ æ ]",
+      "letter":"Звук [ æ ]",
       "letter_description":"В русском языке звука подобного звуку [ æ ] нет. Это краткий открытый звук. При произнесении [ æ ] нужно углы рта немного оттянуть в стороны, расположить язык максимально плоско во рту и довольно энергично опустить челюсть. Англичане, конечно, не открывают широко рот, произнося звук [ æ ]; они умеют плоско располагать язык во рту. Но для тренировки этого звука необходима энергичная работа челюсти. В идеале, должен слышаться очень широкий вариант русского звука [ э ] с примесью звука [ а ].",
       "example_words":[
          {
@@ -115,7 +115,7 @@
    },
    {
       "id":"3",
-      "letter":"[ a: ]",
+      "letter":"Звук [ a: ]",
       "letter_description":"При произнесении долгого звука [ a: ] кончик языка значительно оттянут от нижних зубов. Спинка языка выгнута и приподнята к твёрдому нёбу. (Представьте себе, что врач просит вас открыть рот и показать горло. В этом случае вы инстинктивно оттягиваете язык от зубов!) От русского звука [ а ] английский [ a: ] отличается густым тембром и глубоким оттенком низкого тона. Это долгий и напряжённый звук:",
       "example_words":[
          {
@@ -172,7 +172,7 @@
    },
    {
       "id":"4",
-      "letter":"[ ai ]",
+      "letter":"Звук [ ai ]",
       "letter_description":"Звук [ ai ] - дифтонг, состоящий из ядра и скольжения. Ядро дифтонга краткий звук [ ʌ ]. После произнесения ядра язык делает движение вверх в направлении звука [ i ]. Звук [ i ] не должен звучать отчётливо. Не следует заменять дифтонг [ ai ] русским звукосочетанием ''ай''. На понимание слов это, может быть, и не повлияет, но придаст словам русский акцент!",
       "example_words":[
          {
@@ -229,7 +229,7 @@
    },
    {
       "id":"5",
-      "letter":"[ aʊ ]",
+      "letter":"Звук [ aʊ ]",
       "letter_description":"Звук [ aʊ ] - дифтонг. Ядро его произносится так же как первый элемент звука [ ai ], а затем язык делает движение назад и вверх в направлении звука [ ʊ ]. Второй элемент должен быть очень слабым. Этот звук не следует заменять русским звукосочетанием ''ау'', где оба элемента произносятся одинаково отчётливо и губы значительно округляются.",
       "example_words":[
          {
@@ -286,7 +286,7 @@
    },
    {
       "id":"6",
-      "letter":"[ aiə ] и [ aʊə ]",
+      "letter":"Звук [ aiə ] и [ aʊə ]",
       "letter_description":"Звукосочетания [ aiə ], [ aʊə ] состоят из дифтонгов [ ai ], [ aʊ ] и нейтрального гласного [ ə ]. Следует помнить, что средний элемент сочетания (т.е. второй элемент дифтонга) произносится очень слабо. При произнесении [ aiə ], [ aʊə ] не следует округлять губы, чтобы не заменять звук [ ʊ ] на звук [ w ].",
       "example_words":[
          {
@@ -343,7 +343,7 @@
    },
    {
       "id":"7",
-      "letter":"[ i ]",
+      "letter":"Звук [ i ]",
       "letter_description":"При произнесении краткого гласного звука [ i ] кончик языка находится у нижних зубов, губы слегка растянуты. Английский звук [ i ] похож на русский звук [ и ] в безударном положении во фразе ''вот история''. Перед звуками [ m ], [ n ], [ l ] звук [ i ] слегка удлиняется, а перед глухими согласными [ p ], [ t ], [ k ], [ s ] произносится очень кратко.",
       "example_words":[
          {
@@ -400,7 +400,7 @@
    },
    {
       "id":"8",
-      "letter":"[ i: ]",
+      "letter":"Звук [ i: ]",
       "letter_description":"При произнесении долгого звука [ i: ] язык продвинут вперёд, кончик языка слегка касается нижних зубов. Английский звук [ i: ] похож на русский звук [ и ] в таких словах как ''искра'', ''их'', если [ и ] в этих словах произнести напряжённо и протяжно. Не следует заменять английский звук [ i: ] на русский звук [ ы ], а также произносить его мягко перед согласными.",
       "example_words":[
          {
@@ -457,7 +457,7 @@
    },
    {
       "id":"9",
-      "letter":"[ e ]",
+      "letter":"Звук [ e ]",
       "letter_description":"При произнесении краткого гласного [ e ] кончик языка находится у основания нижних зубов. Губы слегка растянуты. Английский звук [ e ] похож на русский звук [ э ] в словах ''эти, цепи''. Перед глухими согласными [ e ] произносится очень кратко, а перед согласными [ n ], [ l ], [ m ] заметно удлиняется.",
       "example_words":[
          {
@@ -514,7 +514,7 @@
    },
    {
       "id":"10",
-      "letter":"[ ei ]",
+      "letter":"Звук [ ei ]",
       "letter_description":"Звук [ ei ] - дифтонг, т.е. неделимый звук. Ядро дифтонга - гласный [ e ]. После произнесения ядра язык делает лёгкое движение вверх в направлении звука [ i ], не достигая его полного образования. В русском языке такого звука нет. Чёткого произнесения второй части дифтонга не допускается.",
       "example_words":[
          {
@@ -571,7 +571,7 @@
    },
    {
       "id":"11",
-      "letter":"[ ə ]",
+      "letter":"Звук [ ə ]",
       "letter_description":"Если в слове есть безударные гласные, то в транскрипции они обозначаются значком [ ə ]. Звук [ ə ] называется нейтральным, так как он не имеет отчётливой окраски. Он напоминает нечто среднее между безударными русскими звуками [ а ] и [ э ].",
       "example_words":[
          {
@@ -623,6 +623,1314 @@
             "word":"better",
             "transcription":"[ betə ]",
             "translation":"- лучше"
+         }
+      ]
+   },
+   {
+      "id":"12",
+      "letter":"Звук [ iə ]",
+      "letter_description":"Дифтонг [ iə ] начинается с гласного [ i ] и заканчивается скольжением в направлении нейтрального звука [ ə ]. Следует помнить, что предшествующий этому звуку согласный не смягчается.",
+      "example_words":[
+         {
+            "word":"near",
+            "transcription":"[ niə ]",
+            "translation":"- около"
+         },
+         {
+            "word":"dear",
+            "transcription":"[ diə ]",
+            "translation":"- дорогой"
+         },
+         {
+            "word":"here",
+            "transcription":"[ hiə ]",
+            "translation":"- здесь"
+         },
+         {
+            "word":"weary",
+            "transcription":"[ wiəri ]",
+            "translation":"- утомительный"
+         },
+         {
+            "word":"clear",
+            "transcription":"[ kliə ]",
+            "translation":"- ясный"
+         },
+         {
+            "word":"theatre",
+            "transcription":"[ θiətə ]",
+            "translation":"- театр"
+         },
+         {
+            "word":"period",
+            "transcription":"[ piəriəd ]",
+            "translation":"- период"
+         },
+         {
+            "word":"really",
+            "transcription":"[ riəli ]",
+            "translation":"- на самом деле"
+         },
+         {
+            "word":"severe",
+            "transcription":"[ siviə ]",
+            "translation":"- суровый"
+         },
+         {
+            "word":"appear",
+            "transcription":"[ əpiə ]",
+            "translation":"- появляться"
+         }
+      ]
+   },
+   {
+      "id":"13",
+      "letter":"Звук [ ɜ: ]",
+      "letter_description":"Звук [ ɜ: ] - самый трудный для произношения звук, так как в русском языке даже приблизительно нет такого звука, с которым можно сравнить звук [ ɜ: ]. Это долгий, напряжённый звук, при произнесении которого спинка языка должна быть приподнята и расположена ровно и не прогибаться, иначе получится русский звук [ ё ]. Чтобы правильно произнести этот звук, следует спинку языка приподнять и оттянуть таким образом, чтобы края языка оказались слегка зажатыми между верхними и нижними коренными зубами. Губы должны быть растянуты и напряжены.",
+      "example_words":[
+         {
+            "word":"curl",
+            "transcription":"[ kɜ:l ]",
+            "translation":"- завиток"
+         },
+         {
+            "word":"girl",
+            "transcription":"[ gɜ:l ]",
+            "translation":"- девочка"
+         },
+         {
+            "word":"first",
+            "transcription":"[ fɜ:st ]",
+            "translation":"- первый"
+         },
+         {
+            "word":"serve",
+            "transcription":"[ sɜ:v ]",
+            "translation":"- обслуживать"
+         },
+         {
+            "word":"purse",
+            "transcription":"[ pɜ:s ]",
+            "translation":"- кошелек"
+         },
+         {
+            "word":"hurt",
+            "transcription":"[ hɜ:t ]",
+            "translation":"- ударить"
+         },
+         {
+            "word":"turn",
+            "transcription":"[ tɜ:n ]",
+            "translation":"- повернуть"
+         },
+         {
+            "word":"learn",
+            "transcription":"[ lɜ:n ]",
+            "translation":"- учить"
+         },
+         {
+            "word":"bird",
+            "transcription":"[ bɜ:d ]",
+            "translation":"- птица"
+         },
+         {
+            "word":"dirty",
+            "transcription":"[ dɜ:ti ]",
+            "translation":"- грязный"
+         }
+      ]
+   },
+   {
+      "id":"14",
+      "letter":"Звук [ ɜ: ]",
+      "letter_description":"Звук [ ɜ: ] - самый трудный для произношения звук, так как в русском языке даже приблизительно нет такого звука, с которым можно сравнить звук [ ɜ: ]. Это долгий, напряжённый звук, при произнесении которого спинка языка должна быть приподнята и расположена ровно и не прогибаться, иначе получится русский звук [ ё ]. Чтобы правильно произнести этот звук, следует спинку языка приподнять и оттянуть таким образом, чтобы края языка оказались слегка зажатыми между верхними и нижними коренными зубами. Губы должны быть растянуты и напряжены.",
+      "example_words":[
+         {
+            "word":"curl",
+            "transcription":"[ kɜ:l ]",
+            "translation":"- завиток"
+         },
+         {
+            "word":"girl",
+            "transcription":"[ gɜ:l ]",
+            "translation":"- девочка"
+         },
+         {
+            "word":"first",
+            "transcription":"[ fɜ:st ]",
+            "translation":"- первый"
+         },
+         {
+            "word":"serve",
+            "transcription":"[ sɜ:v ]",
+            "translation":"- обслуживать"
+         },
+         {
+            "word":"hurt",
+            "transcription":"[ hɜ:t ]",
+            "translation":"- ударить"
+         },
+         {
+            "word":"purse",
+            "transcription":"[ pɜ:s ]",
+            "translation":"- кошелек"
+         },
+         {
+            "word":"turn",
+            "transcription":"[ tɜ:n ]",
+            "translation":"- повернуть"
+         },
+         {
+            "word":"learn",
+            "transcription":"[ lɜ:n ]",
+            "translation":"- учить"
+         },
+         {
+            "word":"bird",
+            "transcription":"[ bɜ:d ]",
+            "translation":"- птица"
+         },
+         {
+            "word":"dirty",
+            "transcription":"[ dɜ:ti ]",
+            "translation":"- грязный"
+         }
+      ]
+   },
+   {
+      "id":"15",
+      "letter":"Звук [ ɒ ]",
+      "letter_description":"При произнесении звука [ ɒ ] рот широко открыт (примерно на расстояние двух пальцев: указательного и среднего), губы округлены, но не выпячиваются вперёд. Если вы правильно расположили органы речи для произнесения этого звука, то он должен иметь оттенок между русскими звуками [ а ] и [ о ].",
+      "example_words":[
+         {
+            "word":"box",
+            "transcription":"[ bɒks ]",
+            "translation":"- коробка"
+         },
+         {
+            "word":"cock",
+            "transcription":"[ kɒk ]",
+            "translation":"- петух"
+         },
+         {
+            "word":"got",
+            "transcription":"[ gɒt ]",
+            "translation":"- получил"
+         },
+         {
+            "word":"pot",
+            "transcription":"[ pɒt ]",
+            "translation":"- котелок"
+         },
+         {
+            "word":"often",
+            "transcription":"[ ɒfn ]",
+            "translation":"- часто"
+         },
+         {
+            "word":"lot",
+            "transcription":"[ lɒt ]",
+            "translation":"- жребий"
+         },
+         {
+            "word":"soft",
+            "transcription":"[ sɒft ]",
+            "translation":"- мягкий"
+         },
+         {
+            "word":"rotten",
+            "transcription":"[ rɒtn ]",
+            "translation":"- гнилой"
+         },
+         {
+            "word":"what",
+            "transcription":"[ wɒt ]",
+            "translation":"- что"
+         },
+         {
+            "word":"office",
+            "transcription":"[ ɒfis ]",
+            "translation":"- офис"
+         }
+      ]
+   },
+   {
+      "id":"16",
+      "letter":"Звук [ ɔ: ]",
+      "letter_description":"При произнесении долгого звука [ ɔ: ] язык оттянут от зубов, и находится в задней части полости рта. Губы слегка округлены, но не выпячиваются вперёд. По сравнению с русским звуком [ о ] английский имеет более тёмный оттенок и произносится как долгий звук. Не забудьте также оттянуть язык от нижних зубов. Представьте себе, что вы произносите слово ''ода'' со слегка округлёнными губами и с протяжным звуком [ о ]. Попробуйте, и должен получиться английский звук [ ɔ: ].",
+      "example_words":[
+         {
+            "word":"call",
+            "transcription":"[ kɔ:l ]",
+            "translation":"- звать"
+         },
+         {
+            "word":"force",
+            "transcription":"[ fɔ:s ]",
+            "translation":"- сила"
+         },
+         {
+            "word":"horn",
+            "transcription":"[ hɔ:n ]",
+            "translation":"- рожок"
+         },
+         {
+            "word":"salt",
+            "transcription":"[ sɔ:lt ]",
+            "translation":"- соль"
+         },
+         {
+            "word":"autumn",
+            "transcription":"[ ɔ:tm ]",
+            "translation":"- осень"
+         },
+         {
+            "word":"raw",
+            "transcription":"[ rɔ: ]",
+            "translation":"- сырой"
+         },
+         {
+            "word":"also",
+            "transcription":"[ ɔ:lsou ]",
+            "translation":"- также"
+         },
+         {
+            "word":"always",
+            "transcription":"[ ɔ:lwiz ]",
+            "translation":"- всегда"
+         },
+         {
+            "word":"already",
+            "transcription":"[ ɔ:lredi ]",
+            "translation":"- "
+         },
+         {
+            "word":"order",
+            "transcription":"[ ɔ:də ]",
+            "translation":"- заказ"
+         }
+      ]
+   },
+   {
+      "id":"17",
+      "letter":"Звук [ ɔ: ]",
+      "letter_description":"Звук [ ɔi ] - дифтонг, т.е. неделимый звук. Ядро дифтонга - краткий гласный [ ɔ ]; скольжение происходит в направлении гласного [ i ]. При произнесении второго элемента не следует поднимать среднюю спинку языка слишком высоко, чтобы не слышался русский звук [ й ].",
+      "example_words":[
+         {
+            "word":"boy",
+            "transcription":"[ bɔi ]",
+            "translation":"- мальчик"
+         },
+         {
+            "word":"toy",
+            "transcription":"[ tɔi ]",
+            "translation":"- игрушка"
+         },
+         {
+            "word":"voice",
+            "transcription":"[ vɔis ]",
+            "translation":"- голос"
+         },
+         {
+            "word":"noise",
+            "transcription":"[ nɔiz ]",
+            "translation":"- шум"
+         },
+         {
+            "word":"poison",
+            "transcription":"[ pɔizn ]",
+            "translation":"- яд"
+         },
+         {
+            "word":"coin",
+            "transcription":"[ kɔin ]",
+            "translation":"- монета"
+         },
+         {
+            "word":"oily",
+            "transcription":"[ ɔili ]",
+            "translation":"- маслянистый"
+         },
+         {
+            "word":"exploit",
+            "transcription":"[ iksplɔit ]",
+            "translation":"- эксплуатировать"
+         },
+         {
+            "word":"enjoy",
+            "transcription":"[ ɪndʒɔɪ ]",
+            "translation":"- наслаждаться"
+         },
+         {
+            "word":"toy",
+            "transcription":"[ tɔɪ ]",
+            "translation":"- игрушка"
+         }
+      ]
+   },
+   {
+      "id":"18",
+      "letter":"Звук [ əʊ ]",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"boat",
+            "transcription":"[ bəʊt ]",
+            "translation":"- лодка"
+         },
+         {
+            "word":"vote",
+            "transcription":"[ vəʊt ]",
+            "translation":"- голосовать"
+         },
+         {
+            "word":"rose",
+            "transcription":"[ rəʊz ]",
+            "translation":"- поднялся"
+         },
+         {
+            "word":"note",
+            "transcription":"[ nəʊt ]",
+            "translation":"- примечание"
+         },
+         {
+            "word":"load",
+            "transcription":"[ ləʊd ]",
+            "translation":"- груз"
+         },
+         {
+            "word":"photo",
+            "transcription":"[ fəʊtəʊ ]",
+            "translation":"- фотография"
+         },
+         {
+            "word":"oak",
+            "transcription":"[ əʊk ]",
+            "translation":"- дуб"
+         },
+         {
+            "word":"only",
+            "transcription":"[ əʊnli ]",
+            "translation":"- только"
+         },
+         {
+            "word":"old",
+            "transcription":"[ əʊld ]",
+            "translation":"- старый"
+         },
+         {
+            "word":"open",
+            "transcription":"[ əʊpn ]",
+            "translation":"- открывать"
+         }
+      ]
+   },
+   {
+      "id":"19",
+      "letter":"Звук [ ʊ ]",
+      "letter_description":"При произнесении краткого звука [ ʊ ] язык также оттянут от нижних зубов, но не так далеко как при произнесении долгого звука [ u: ]. Губы слегка округлены, но не выпячиваются вперёд. Конечно, если вы будете округлять губы при произнесении звуков [ ʊ ] и [ u: ], вас всё равно поймут, но при этом появится сильный акцент.",
+      "example_words":[
+         {
+            "word":"full",
+            "transcription":"[ ful ]",
+            "translation":"- полный"
+         },
+         {
+            "word":"pull",
+            "transcription":"[ pul ]",
+            "translation":"- тянуть"
+         },
+         {
+            "word":"bull",
+            "transcription":"[ bʊl ]",
+            "translation":"- бык"
+         },
+         {
+            "word":"rook",
+            "transcription":"[ rʊk ]",
+            "translation":"- грач"
+         },
+         {
+            "word":"look",
+            "transcription":"[ lʊk ]",
+            "translation":"- смотреть"
+         },
+         {
+            "word":"foot",
+            "transcription":"[ fʊt ]",
+            "translation":"- ступня"
+         },
+         {
+            "word":"put",
+            "transcription":"[ pʊt ]",
+            "translation":"- класть"
+         },
+         {
+            "word":"took",
+            "transcription":"[ tʊk ]",
+            "translation":"- взял"
+         },
+         {
+            "word":"hood",
+            "transcription":"[ hʊd ]",
+            "translation":"- капюшон"
+         },
+         {
+            "word":"stood",
+            "transcription":"[ stʊd ]",
+            "translation":"- стоял"
+         }
+      ]
+   },
+   {
+      "id":"20",
+      "letter":"Звуки [ u:, ju: ]",
+      "letter_description":"Звук [ u: ] долгий и напряжённый звук. При произнесении звука [ u: ] язык слегка оттянут от нижних зубов, губы округлены, но не выпячиваются вперёд как при произнесении русского звука [ у ]. Звукосочетание [ ju: ] по долготе и напряженности аналогично звуку [ u: ]. Для того, чтобы его произнести необходимо начинать с краткого звука [ j ], переходя на долгий звук [ u: ]. Звукосочетание [ ju: ] похоже на русский звук [ ю ], если его произнести, не выпячивая вперед губы.",
+      "example_words":[
+         {
+            "word":"cool",
+            "transcription":"[ ku:l ]",
+            "translation":"- прохладный"
+         },
+         {
+            "word":"soup",
+            "transcription":"[ su:p ]",
+            "translation":"- суп"
+         },
+         {
+            "word":"goose",
+            "transcription":"[ gu:s ]",
+            "translation":"- гусь"
+         },
+         {
+            "word":"moose",
+            "transcription":"[ mu:s ]",
+            "translation":"- лось"
+         },
+         {
+            "word":"stool",
+            "transcription":"[ stu:l ]",
+            "translation":"- табурет"
+         },
+         {
+            "word":"you",
+            "transcription":"[ ju: ]",
+            "translation":"- ты/вы"
+         },
+         {
+            "word":"view",
+            "transcription":"[ vju: ]",
+            "translation":"- вид"
+         },
+         {
+            "word":"sue",
+            "transcription":"[ sju: ]",
+            "translation":"- подавать в суд"
+         },
+         {
+            "word":"beauty",
+            "transcription":"[ bju:ti ]",
+            "translation":"- красота"
+         },
+         {
+            "word":"new",
+            "transcription":"[ njuː ]",
+            "translation":"- новый"
+         }
+      ]
+   },
+   {
+      "id":"21",
+      "letter":"Звуки [ ʊə, jʊə ]",
+      "letter_description":"Звук [ ʊə ] - дифтонг. Ядром дифтонга является краткий гласный [ ʊ ], который произносится с плоским укладом губ. Прежде чем произнести ядро дифтонга, надо слегка растянуть губы, как бы в полуулыбке. А заканчивается дифтонг скольжением в направлении нейтрального звука [ ə ]. Звукосочетание [ jʊə ] - вариант звука [ ʊə ]. В начале произнесения дифтонга [ ʊə ] надо произнести звук [ j ], который напоминает русский звук [ й ], но звучит менее отчётливо. Помните, что оба элемента дифтонгов следует произносить слитно",
+      "example_words":[
+         {
+            "word":"poor",
+            "transcription":"[ pʊə ]",
+            "translation":"- бедный"
+         },
+         {
+            "word":"boor",
+            "transcription":"[ bʊə ]",
+            "translation":"- грубый"
+         },
+         {
+            "word":"moor",
+            "transcription":"[ mʊə ]",
+            "translation":"- причаливать"
+         },
+         {
+            "word":"sure",
+            "transcription":"[ ʃʊə ]",
+            "translation":"- надежный"
+         },
+         {
+            "word":"cruel",
+            "transcription":"[ krʊəl ]",
+            "translation":"- жестокий"
+         },
+         {
+            "word":"surely",
+            "transcription":"[ ʃʊəli ]",
+            "translation":"- конечно"
+         },
+         {
+            "word":"plural",
+            "transcription":"[ plʊərəl ]",
+            "translation":"- множественный"
+         },
+         {
+            "word":"pure",
+            "transcription":"[ pjʊə ]",
+            "translation":"- чистый"
+         },
+         {
+            "word":"Europe",
+            "transcription":"[ jʊərəp ]",
+            "translation":"- Европа"
+         },
+         {
+            "word":"cure [ kjʊə ] - излечение",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"22",
+      "letter":"Звук [ eə ]",
+      "letter_description":"Звук [ eə ] - дифтонг, и как все дифтонги, считается одним звуком и соответственно произносится слитно. Ядром дифтонга является звук [ e ]. Это более открытый звук, чем [ e ] и он больше похож на русский звук [ э ], особенно в слове ''экран''. Заканчивается дифтонг скольжением в направлении нейтрального звука [ ə ].",
+      "example_words":[
+         {
+            "word":"pare",
+            "transcription":"[ peə ]",
+            "translation":"- обрезать"
+         },
+         {
+            "word":"fare",
+            "transcription":"[ feə ]",
+            "translation":"- плата за проезд"
+         },
+         {
+            "word":"chair",
+            "transcription":"[ tʃeə ]",
+            "translation":"- стул"
+         },
+         {
+            "word":"where",
+            "transcription":"[ weə ]",
+            "translation":"- где"
+         },
+         {
+            "word":"hair",
+            "transcription":"[ heə ]",
+            "translation":"- волосы"
+         },
+         {
+            "word":"stare",
+            "transcription":"[ steə ]",
+            "translation":"- пристальный взгляд"
+         },
+         {
+            "word":"staircase",
+            "transcription":"[ steəkeis ]",
+            "translation":"- лестница"
+         },
+         {
+            "word":"parents",
+            "transcription":"[ peərənts ]",
+            "translation":"- родители"
+         },
+         {
+            "word":"there",
+            "transcription":"[ ðeə ]",
+            "translation":"- там"
+         },
+         {
+            "word":"care",
+            "transcription":"[ keə ]",
+            "translation":"- забота"
+         }
+      ]
+   },
+   {
+      "id":"23",
+      "letter":"Звуки [ p, b, k, g, f, v, m ]",
+      "letter_description":"Английские согласные [ p ], [ b ], [ k ], [ g ], [ f ], [ v ], [ m ] называются смычными, так как при их произнесении органы речи смыкаются, а затем быстро размыкаются. Произношение английских смычных звуков [ p ], [ b ], [ k ], [ g ], [ f ], [ v ], [ m ] совпадает с произношением соответствующих русских смычных согласных звуков [ п ], [ б ], [ к ], [ г ], [ ф ], [ в ], [ м ]. Английские глухие согласные [ p ], [ k ], [ f ] в конце слов произносятся энергично. Звонкие согласные [ b ], [ g ], [ v ] в конце слов и перед глухими согласными не оглушаются.",
+      "example_words":[
+         {
+            "word":"pen",
+            "transcription":"[ pen ]",
+            "translation":"- ручка"
+         },
+         {
+            "word":"box",
+            "transcription":"[ bɒks ]",
+            "translation":"- коробка"
+         },
+         {
+            "word":"clean",
+            "transcription":"[ kliːn ]",
+            "translation":"- чистый"
+         },
+         {
+            "word":"goose",
+            "transcription":"[ ɡuːs ]",
+            "translation":"- гусь"
+         },
+         {
+            "word":"football",
+            "transcription":"[ fʊtbɔːl ]",
+            "translation":"футбол"
+         },
+         {
+            "word":"vest",
+            "transcription":"[ vest ]",
+            "translation":"- жилетка"
+         },
+         {
+            "word":"miss",
+            "transcription":"[ mɪs ]",
+            "translation":"- мисс"
+         }
+      ]
+   },
+   {
+      "id":"24",
+      "letter":"Звуки [ n, l, t, d ]",
+      "letter_description":"При произнесении альвеолярных смычных согласных [ n ], [ l ], [ t ], [ d ] кончик языка касается альвеол (бугорки за верхними зубами). Эти звуки не смягчаются перед гласными и в конце слова. Чтобы избежать нежелательного гласного призвука, не нужно сильно прижимать кончик языка и долго задерживать его на альвеолах. Глухой согласный [ t ] в начале и в конце слов произносится энергично. В русском языке подобные звуки произносятся касанием кончика языка верхних зубов, а не альвеол.",
+      "example_words":[
+         {
+            "word":"net",
+            "transcription":"[ net ]",
+            "translation":"- сеть"
+         },
+         {
+            "word":"less",
+            "transcription":"[ les ]",
+            "translation":"- меньше"
+         },
+         {
+            "word":"tip",
+            "transcription":"[ tip ]",
+            "translation":"- кончик"
+         },
+         {
+            "word":"dull",
+            "transcription":"[ dʌl ]",
+            "translation":"- тупой"
+         }
+      ]
+   },
+   {
+      "id":"25",
+      "letter":"Звуки [ s, z ]",
+      "letter_description":"Английские согласные [ s ], [ z ] называются щелевыми, так как при их произнесении между кончиком языка и альвеолами образуется щель, через которую проходит воздух. При произнесении английских щелевых звуков [ s ], [ z ] кончик языка поднят к альвеолам, но не касается их. Голос проходит через щель, образовавшуюся между альвеолами и кончиком языка. При произнесении русских щелевых согласных язык находится у основания нижних зубов.",
+      "example_words":[
+         {
+            "word":"centimeter",
+            "transcription":"[ `sentimi:tə ]",
+            "translation":"- сантиметр"
+         },
+         {
+            "word":"some",
+            "transcription":"[ sʌm ]",
+            "translation":"- некоторые"
+         },
+         {
+            "word":"start",
+            "transcription":"[ sta:t ]",
+            "translation":"- старт"
+         },
+         {
+            "word":"less",
+            "transcription":"[ les ]",
+            "translation":"- меньше"
+         },
+         {
+            "word":"zebra",
+            "transcription":"[ `zebrə ]",
+            "translation":"- зебра"
+         },
+         {
+            "word":"zeal",
+            "transcription":"[ zi:l ]",
+            "translation":"- усердие"
+         },
+         {
+            "word":"visit",
+            "transcription":"[ `vizit ]",
+            "translation":"- визит"
+         }
+      ]
+   },
+   {
+      "id":"26",
+      "letter":"Звуки [ θ, ð ]",
+      "letter_description":"К сожалению, в русском языке звуков подобных [ θ ], [ ð ] нет. Понять, как произносятся эти звуки, помогут данные ниже упражнения для органов речи. Просуньте язык между зубами и продувайте воздух. Следите за тем, чтобы язык не был напряжён, а губы не касались краёв языка. Просуньте язык между зубами, а затем быстро уберите его. Проделайте это упражнение несколько раз. При произнесении звуков [ θ ], [ ð ] язык распластан и не напряжён, кончик языка находится между зубами. Звук [ θ ] произносится как глухой, а звук [ ð ] с голосом как звонкий. Помните, что губы не должны касаться краёв языка. Cледует быстро убирать язык за зубы, чтобы не мешать произнесению последующего звука. Эти звуки не следует заменять на русские [ с ], [ з ] или на английские [ z ], [ t ], [ d ].",
+      "example_words":[
+         {
+            "word":"they",
+            "transcription":"[ ðei ]",
+            "translation":"- они"
+         },
+         {
+            "word":"them",
+            "transcription":"[ ðem ]",
+            "translation":"- им"
+         },
+         {
+            "word":"then",
+            "transcription":"[ ðen ]",
+            "translation":"- затем"
+         },
+         {
+            "word":"this",
+            "transcription":"[ ðis ]",
+            "translation":"- этот"
+         },
+         {
+            "word":"bathe",
+            "transcription":"[ beið ]",
+            "translation":"- купаться"
+         },
+         {
+            "word":"thick",
+            "transcription":"[ θik ]",
+            "translation":"- толстый"
+         },
+         {
+            "word":"thin",
+            "transcription":"[ θin ]",
+            "translation":"- тонкий"
+         },
+         {
+            "word":"myth",
+            "transcription":"[ miθ ]",
+            "translation":"- миф"
+         },
+         {
+            "word":"tenth",
+            "transcription":"[ tenθ ]",
+            "translation":"- десятый"
+         },
+         {
+            "word":"Timothy",
+            "transcription":"[ timəθi ]",
+            "translation":"- Тимофей"
+         }
+      ]
+   },
+   {
+      "id":"24",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"25",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"26",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"24",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"25",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"26",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"24",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"25",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         }
+      ]
+   },
+   {
+      "id":"26",
+      "letter":"",
+      "letter_description":"",
+      "example_words":[
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
+         },
+         {
+            "word":"",
+            "transcription":"",
+            "translation":"- "
          }
       ]
    }
