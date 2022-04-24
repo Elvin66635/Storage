@@ -1423,514 +1423,464 @@
    },
    {
       "id":"24",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ ŋ ]",
+      "letter_description":"В русском языке звука подобного [ ŋ ] не существует, именно поэтому его часто заменяют русским звуком [ н ]. При произнесении [ ŋ ] язык находится у основания нижних зубов, а не упирается в верхние зубы, как при русском звуке [ н ]. Рот довольно широко открыт. Так как задняя часть языка плотно соприкасается с опущенным мягким нёбом, то воздушная струя проходит через полость носа. Чтобы получился чистый носовой звук, не следует поднимать кончик языка к альвеолам. Если всё же звук [ ŋ ] не получается, попробуйте начинать его произнесение с русского звука [ м ], постепенно открывая рот, но, не убирая язык от основания нижних зубов. Очень полезно контролировать работу языка, глядя в зеркало. Для постановки звука [ ŋ ] также хорошим приёмом является вдох через нос с открытым ртом. Звук [ ŋ ] звучит не только в конце слов, но и перед звуками [ k ], [ g ], [ d ]. Будьте упорны и настойчивы, и вы обязательно научитесь произносить этот каверзный звук.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"song",
+            "transcription":"[ sɔŋ ]",
+            "translation":"- песня"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"long",
+            "transcription":"[ lɔŋ ]",
+            "translation":"- длинный"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"wrong",
+            "transcription":"[ rɔŋ ]",
+            "translation":"- неправильный"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"bank",
+            "transcription":"[ bæŋk ]",
+            "translation":"- банк"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"tank",
+            "transcription":"[ tæŋk ]",
+            "translation":"- танк"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"king",
+            "transcription":"[ kiŋ ]",
+            "translation":"- король"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"morning",
+            "transcription":"[ mɔ:niŋ ]",
+            "translation":"- утро"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"evening",
+            "transcription":"[ i:vniŋ ]",
+            "translation":"- вечер"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"England",
+            "transcription":"[ iŋglənd ]",
+            "translation":"- Англия"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"kingdom",
+            "transcription":"[ kiŋdəm ]",
+            "translation":"- королевство"
          }
       ]
    },
    {
       "id":"25",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ r ]",
+      "letter_description":"В русском языке звука подобного английскому звуку [ r ] не существует. При произнесении звука [ r ] кончик языка поднят к задней части альвеол (бугорки за верхними зубами). Язык неподвижен и не вибрирует. Для того чтобы получился английский звук [ r ], следует зажать щёки пальцами и произносить русский звук [ р ] до тех пор, пока язык не перестанет вибрировать.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"rain",
+            "transcription":"[ rein ]",
+            "translation":"- дождь"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"river",
+            "transcription":"[ rivə ]",
+            "translation":"- река"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"reason",
+            "transcription":"[ ri:zn ]",
+            "translation":"- причина"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"red",
+            "transcription":"[ red ]",
+            "translation":"- красный"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"written",
+            "transcription":"[ ritn ]",
+            "translation":"- написанный"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"very",
+            "transcription":"[ veri ]",
+            "translation":"- очень"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"merry",
+            "transcription":"[ meri ]",
+            "translation":"- веселый"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"berry",
+            "transcription":"[ beri ]",
+            "translation":"- ягода"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"Britain",
+            "transcription":"[ britn ]",
+            "translation":"- Британия"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"street",
+            "transcription":"[ stri:t ]",
+            "translation":"- улица"
          }
       ]
    },
    {
       "id":"26",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ j ]",
+      "letter_description":"Звук [ j ] совсем не сложный. Он произносится так же как русский звук [ й ], но менее отчётливо. При произнесении [ j ] спинка языка поднята к твёрдому нёбу, но ниже, чем при русском [ й ]. Края языка слегка прижаты к верхним коренным зубам, образуя проход для воздуха вдоль середины спинки языка. Английский звук [ j ] звучит в следующих словах:",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"yet",
+            "transcription":"[ jet ]",
+            "translation":"- всё ещё"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"yell",
+            "transcription":"[ jel ]",
+            "translation":"- громко кричать"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"yes",
+            "transcription":"[ jes ]",
+            "translation":"- да"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"yield",
+            "transcription":"[ ji:ld ]",
+            "translation":"- давать плоды"
          }
       ]
    },
    {
       "id":"24",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ tʃ ]",
+      "letter_description":"При произнесении английского звука [ tʃ ] кончик языка касается альвеол (бугорков за передними верхними зубами). Если вы поставите кончик языка на альвеолы и произнесёте русский звук [ ч ] (чай, часто), то получите английский звук [ tʃ ]. тот звук произносится отчётливо и слитно и не смягчается перед гласными. Типичной ошибкой является неотчётливое звучание [ tʃ ]. Для преодоления этой ошибки кончик языка следует дольше задержать у альвеол, продлив звучание [ tʃ ].",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"fetch",
+            "transcription":"[ fetʃ ]",
+            "translation":"- приносить"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"reach",
+            "transcription":"[ ri:tʃ ]",
+            "translation":"- достигать"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"chair",
+            "transcription":"[ tʃeə ]",
+            "translation":"- стул"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"cheese",
+            "transcription":"[ tʃi:z ] ",
+            "translation":"- сыр"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"chest",
+            "transcription":"[ tʃest ]",
+            "translation":"- сундук"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"chick",
+            "transcription":"[ tʃik ]",
+            "translation":"- цыпленок"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"chain",
+            "transcription":"[ tʃein ]",
+            "translation":"- цепь"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"bench",
+            "transcription":"[ bentʃ ]",
+            "translation":"- скамейка"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"butcher",
+            "transcription":"[ bʊtʃə ]",
+            "translation":"- мясник"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"picture",
+            "transcription":"[ piktʃə ]",
+            "translation":"- картина"
          }
       ]
    },
    {
       "id":"25",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ dʒ ]",
+      "letter_description":"Звук [ dʒ ] артикулируется так же как [ tʃ ], но произносится звонко. Оба элемента звука следует произносить слитно, не отрывая кончик языка от альвеол.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"gym",
+            "transcription":"[ dʒim ]",
+            "translation":"- спортзал"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"Jane",
+            "transcription":"[ dʒein ]",
+            "translation":"- Джейн"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"June",
+            "transcription":"[ dʒu:n ]",
+            "translation":"- июнь"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"danger",
+            "transcription":"[ deindʒə ]",
+            "translation":"- опасность"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"age",
+            "transcription":"[ eidʒ ]",
+            "translation":"- возраст"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"village",
+            "transcription":"[ vilidʒ ]",
+            "translation":"- деревня"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"cage",
+            "transcription":"[ keidʒ ]",
+            "translation":"- клетка"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"ledge",
+            "transcription":"[ ledʒ ]",
+            "translation":"- выступ"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"page",
+            "transcription":"[ peidʒ ]",
+            "translation":"- страница"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"engagement",
+            "transcription":"[ ingeidʒmənt ]",
+            "translation":"- помолвка"
          }
       ]
    },
    {
       "id":"26",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ h ]",
+      "letter_description":"Звук [ h ] встречается только перед гласными и на слух представляет собой лёгкий выдох. Язык в момент произнесения [ h ] принимает положение для производства последующего гласного. Замена английского звука [ h ] на русский [ х ] на смысл слов не влияет, однако придаёт речи сильный русский акцент.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"he",
+            "transcription":"[ hi: ]",
+            "translation":"- он"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"home",
+            "transcription":"[ həʊm ]",
+            "translation":"- дом"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"hay",
+            "transcription":"[ hei ]",
+            "translation":"- сено"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"high",
+            "transcription":"[ hai ]",
+            "translation":"- высоко"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"how",
+            "transcription":"[ haʊ ]",
+            "translation":"- как"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"hotel",
+            "transcription":"[ həʊtel ]",
+            "translation":"- отель"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"hard",
+            "transcription":"[ ha:d ]",
+            "translation":"- твердый"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"whom",
+            "transcription":"[ hu:m ]",
+            "translation":"- кому"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"help",
+            "transcription":"[ help ]",
+            "translation":"- помогать"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"his",
+            "transcription":"[ hiz ]",
+            "translation":"- его"
          }
       ]
    },
    {
       "id":"24",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звуки [ ʃ, ʒ ]",
+      "letter_description":"При произнесении [ ʃ ], [ ʒ ] кончик языка поднят к альвеолам, но не касается их. Звук [ ʃ ] - глухой, поэтому он произносится отчётливо, особенно в конце слов. Звук [ ʒ ] - звонкий. Английские звуки [ ʃ ], [ ʒ ] напоминают русские сочетания в словах: ''шить, жить''.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"ship",
+            "transcription":"[ ʃip ]",
+            "translation":"- корабль"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"sheep",
+            "transcription":"[ ʃi:p ]",
+            "translation":"- овца"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"shape",
+            "transcription":"[ ʃeip ]",
+            "translation":"- форма"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"show",
+            "transcription":"[ ʃəʊ ]",
+            "translation":"- показ"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"shy",
+            "transcription":"[ ʃai ]",
+            "translation":"- робкий"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"finish",
+            "transcription":"[ finiʃ ]",
+            "translation":"- финиш"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"treasure",
+            "transcription":"[ treʒə ]",
+            "translation":"- сокровище"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"measure",
+            "transcription":"[ meʒə ]",
+            "translation":"- мерка"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"pleasure",
+            "transcription":"[ pleʒə ]",
+            "translation":"- удовольствие"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"vision",
+            "transcription":"[ viʒn ]",
+            "translation":"- видение"
          }
       ]
    },
    {
       "id":"25",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звук [ w ]",
+      "letter_description":"Прежде чем произносить звук [ w ], попробуйте сделать следующие упражнения: Сильно округлите и выпятите вперёд губы. Продувайте воздух в образовавшееся круглое отверстие. Выпятите губы, затем быстро разведите их в стороны. Повторите упражнение несколько раз. При произнесении звука [ w ] губы сильно округляются и выдвигаются вперёд, образуя круглую щель. Затем мгновенно язык и губы переходят в положение для произнесения последующего гласного.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"wool",
+            "transcription":"[ wu:l ]",
+            "translation":"- шерсть"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"woe",
+            "transcription":"[ wəʊ ]",
+            "translation":"- горе"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"wait",
+            "transcription":"[ weit ]",
+            "translation":"- ждать"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"well",
+            "transcription":"[ wel ]",
+            "translation":"- хорошо"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"week",
+            "transcription":"[ wi:k ]",
+            "translation":"- неделя"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"wet",
+            "transcription":"[ wet ]",
+            "translation":"- мокрый"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"with",
+            "transcription":"[ wið ]",
+            "translation":"- с (предлог)"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"wheel",
+            "transcription":"[ wi:l ]",
+            "translation":"- колесо"
          }
       ]
    },
    {
       "id":"26",
-      "letter":"",
-      "letter_description":"",
+      "letter":"Звукосочетание [ wɜ: ]",
+      "letter_description":"При произнесении сочетания звуков [ wɜ: ] язык должен находится в таком же положении, как и при произнесении звука [ ɜ: ]. Однако губы не следует растягивать и напрягать. Их надо оставить в том положении, которое они принимают при произнесении [ w ], т.е. слегка округлить и немного выпятить вперёд.",
       "example_words":[
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"were",
+            "transcription":"[ wɜ: ]",
+            "translation":"- были"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"word",
+            "transcription":"[ wɜ:d ]",
+            "translation":"- слово"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"work",
+            "transcription":"[ wɜ:k ]",
+            "translation":"- работа"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"worker",
+            "transcription":"[ wɜ:kə ]",
+            "translation":"- рабочий"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"world",
+            "transcription":"[ wɜ:ld ]",
+            "translation":"- мир (вселенная)"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"worth",
+            "transcription":"[ wɜ:θ ]",
+            "translation":"- стоящий"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"worse",
+            "transcription":"[ wɜ:s ]",
+            "translation":"- хуже"
          },
          {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
-         },
-         {
-            "word":"",
-            "transcription":"",
-            "translation":"- "
+            "word":"worm",
+            "transcription":"[ wɜ:m ]",
+            "translation":"- червь"
          }
       ]
    }
